@@ -1,11 +1,11 @@
-Daily Finance Brief run 2026-09-27 12:53 Dubai
+Daily Finance Brief run 2026-09-27 13:17 Dubai
 
 Sources:
   The National (Business): 4
-  Gulf News (Business): 3
-  Khaleej Times (Business): 7
+  Gulf News (Business): 4
+  Khaleej Times (Business): 8
   Arabian Business (Business, via Google News): 1
-  Zawya (Business, via Google News): 1
+  Zawya (Business, via Google News): 0
   Zawya (Economy, via Google News): 0
   US Federal Reserve (Monetary Policy): 0
   US Federal Reserve (Banking Regulation): 0
@@ -18,7 +18,7 @@ Sources:
   WSJ (Markets): 2
   WSJ (US Business): 10
   WSJ (Economy): 0
-  New York Times (Business): 8
+  New York Times (Business): 10
   New York Times (Economy): 0
   New York Times (DealBook): 1
   South China Morning Post (Business): 2
@@ -26,19 +26,19 @@ Sources:
   South China Morning Post (Companies): 1
   China economy (search - Reuters, FT, Bloomberg): 100
   The Bell: 0
-  bne IntelliNews (Russia, via Google News): 19
-  Russia economy (search - Reuters, FT, Bloomberg): 69
+  bne IntelliNews (Russia, via Google News): 17
+  Russia economy (search - Reuters, FT, Bloomberg): 66
   Bank of Russia (Events & press releases, in Russian): 0
   European Central Bank (Press Releases): 0
   Bank of England (News): 0
   Bank of Japan (What's New): 0
-  Reuters (Business, via Google News): 17
-  Reuters (Markets, via Google News): 0
-  Financial Times (Markets): 8
-  Financial Times (Companies): 17
+  Reuters (Business, via Google News): 18
+  Reuters (Markets, via Google News): 2
+  Financial Times (Markets): 7
+  Financial Times (Companies): 16
   Financial Times (Global Economy): 3
   BBC (Business): 5
-  The Guardian (Business): 15
+  The Guardian (Business): 14
   The Guardian (Economics): 2
   Economic Times (Markets): 15
   Investing.com (Stock Market News): 10
@@ -46,35 +46,33 @@ Sources:
   Investing.com (Forex): 0
   Investing.com (Commodities): 7
   Investing.com (Economic Indicators): 1
-  Finnhub (general): 9
+  Finnhub (general): 10
   Finnhub (forex): 0
-  Finnhub (merger): 1
+  Finnhub (merger): 0
 
-Articles: 353 fetched, 237 after dedupe
-Relevance filter: 125 kept, 112 dropped
-Brief 2026-09-27: 18 stories
+Articles: 351 fetched, 235 after dedupe
+Relevance filter: 101 kept, 134 dropped
+Brief 2026-09-27: 16 stories
 
 TOP STORIES
-  [5] GLOBAL oil_energy: US Rejects Iranian Hormuz Ceasefire Plan as Brent Crude Exceeds $104 per Barrel
-  [5] US     rates_macro: US 10-Year Treasury Yield Climbs to 19-Year High Above 5.1% Amid Sticky Inflation
-  [4] CHINA  rates_macro: US and China Agree to Bilateral AI Dialogue and $30 Billion Tariff Cuts at Summit
-  [4] GLOBAL deals_ipos: Saudi Aramco Weighs Carveout of Standalone Gas Unit with $100 Billion Valuation
-  [4] GLOBAL deals_ipos: Nubank Explores Takeover of UK Digital Bank Monzo in £10 Billion Valuation Deal
-  [4] US     companies: Jury Hits Apple with $5.7 Billion Patent Infringement Verdict Over Haptic Technology
-UAE (3)
-  [3] banking: Sharjah Islamic Bank Raises $500 Million Through 5-Year Sukuk Issuance
-  [3] markets: Dubai Records 335 Ultra-Luxury Home Sales Above $10 Million in Eight Months
-  [3] oil_energy: ADNOC Subsidiary XRG Expands International Gas Footprint Across Azerbaijan and Canada
+  [5] GLOBAL rates_macro: US and China Agree to AI Dialogue and $30 Billion Tariff Cuts During Xi Visit
+  [5] US     rates_macro: US 10-Year Treasury Yield Hits 19-Year High as Stocks Defy Bond Market Pressure
+  [5] GLOBAL deals_ipos: Saudi Aramco Partners with Evercore to Explore $100 Billion Standalone Gas Unit
+  [4] US     companies: Apple Ordered to Pay Record $5.7 Billion in Haptic Technology Patent Dispute
+  [4] GLOBAL oil_energy: Europe Braces for LNG Tug of War with Asia as EU Gas Stores Hit Record Lows
+  [4] GLOBAL markets: Asia-Pacific Property Markets Draw Capital Despite US Federal Reserve Rate Hike
+UAE (2)
+  [3] rates_macro: UAE Sets September 30 Deadline for Corporate Tax Returns and Payments
+  [3] oil_energy: Adnoc's XRG Partners with Total and Socar for Next Phase of $10 Billion Azerbaijan Gas Project
 US (2)
-  [3] companies: Boeing Detects 737 MAX Navigation Software Glitch Impacting Automated Landings
-  [3] banking: Private Credit Fund Redemption Pressures Moderate as Retail Withdrawals Slow
+  [3] companies: Boeing Identifies New 737 MAX Software Glitch Affecting Landing Navigation
+  [3] markets: Foreign Capital Flows into US Equities Reach Record $940 Billion as Debt Appetite Fades
 CHINA (2)
-  [3] markets: China Consumer Stocks Hit Multi-Year Lows as Capital Allocations Pivot Toward AI
-  [3] markets: Global Investors Note Early Chinese Commercial Property Recovery Amid Supply Caution
+  [3] markets: China Consumer Stocks Near Decade Lows as Investors Pivot to Artificial Intelligence
+  [3] markets: Global Property Investors See Early Signs of Recovery in China Real Estate
 RUSSIA (2)
-  [3] rates_macro: Russian Government Projects RUB 5.5 Trillion Budget Deficit in 2027 Fiscal Plan
-  [2] markets: MOEX Russia Index Closes Flat Amid Broader Equity Selling Pressure
-GLOBAL (3)
-  [3] markets: Supertanker Valuations Surge Past Newbuilds on Historic Tanker Freight Spikes
-  [3] oil_energy: Global Natural Gas Prices Remain Contained at $2.50-$3.50/MMBtu Despite Crude Shock
-  [3] deals_ipos: Giorgio Armani Commences Strategic Stake Sale Discussions with LVMH and L'Oréal
+  [3] rates_macro: Russia Plans 5.5 Trillion Ruble Budget Deficit for 2027 as Economy Stalls
+  [3] rates_macro: BRICS Platform Fails to Provide Russia with Effective Shield Against Western Sanctions
+GLOBAL (2)
+  [3] banking: London Investment Bankers and Lawyers Earn Over £1 Billion in Takeover Fees
+  [3] banking: Private Credit Turmoil Eases as Retail Investor Withdrawals Slow Down
