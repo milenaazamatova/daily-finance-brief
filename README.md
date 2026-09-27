@@ -7,6 +7,8 @@ concept in plain language**, plus a question an interviewer might ask about it.
 
 Everything runs on free tiers: GitHub Actions, the Google Gemini API, Supabase and Vercel.
 
+**Live site:** https://daily-finance-brief-ten.vercel.app
+
 ## What a daily brief looks like
 
 - **Top Stories**: the 5–7 most important finance and market stories worldwide, ranked by global market impact.
@@ -40,7 +42,7 @@ feeds.yaml (~45 business/markets section feeds) + Finnhub API
 | Validation | Pydantic | One schema both instructs Gemini and checks its answer |
 | Database | Supabase (PostgreSQL) | Relational data with constraints, built-in API and Auth, free plan |
 | Scheduler | GitHub Actions | Free for public repos; daily cron at 07:00 Dubai time |
-| Website | Next.js on Vercel (Phase 3) | Free hobby plan, reads from Supabase with the public anon key |
+| Website | Next.js on Vercel (`/web`) | Free Hobby plan; server-rendered pages cached for 10 min; reads Supabase with the public anon key only |
 
 ### Design decisions
 
@@ -54,8 +56,9 @@ feeds.yaml (~45 business/markets section feeds) + Finnhub API
 - **Copyright.** Only headline, source, link, publish time and a short excerpt are stored; never full text.
   The website always links to the original article.
 - **Security.** Row Level Security is enabled on every table with explicit grants: the public anon key can only
-  read the brief tables; `articles` is pipeline-only; personal takes are owner-only. The pipeline's
-  service-role key lives only in GitHub Secrets / a local `.env`.
+  read the brief tables and only the link columns of articles a story cites; personal takes are owner-only.
+  The pipeline's service-role key lives only in GitHub Secrets / a local `.env`. `npm run test:security`
+  (in `/web`) proves what the anon key can and can't do.
 
 ## Repository structure
 
@@ -66,7 +69,7 @@ feeds.yaml (~45 business/markets section feeds) + Finnhub API
 /supabase/migrations   dated changes applied to the existing database
 /logs                  one small log file per day
 /.github/workflows     daily GitHub Actions workflow
-/web                   Next.js website (Phase 3)
+/web                   Next.js website: Today, Archive, Story pages
 ```
 
 ## Running it locally
@@ -79,6 +82,16 @@ cp ../.env.example .env        # then fill in your own keys in pipeline/.env
 .venv/bin/python main.py --dry-run   # fetch + dedupe only, no keys needed
 .venv/bin/python main.py             # full run: saves today's brief
 .venv/bin/python main.py --force     # replace today's brief
+```
+
+Website:
+
+```bash
+cd web
+npm install
+cp .env.example .env.local     # then add your Supabase URL and anon key
+npm run dev                    # http://localhost:3000
+npm run test:security          # checks the anon key can read briefs but not takes
 ```
 
 Database setup: run `supabase/schema.sql` in the Supabase SQL Editor (new database), or the files in
