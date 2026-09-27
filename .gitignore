@@ -1,0 +1,19 @@
+# Secrets - never commit real keys
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+node_modules/
+.next/
+
+# OS
+.DS_Store
+
+# Personal planning notes (kept private)
+PROJECT_BRIEF.md

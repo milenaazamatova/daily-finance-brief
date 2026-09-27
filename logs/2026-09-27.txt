@@ -1,0 +1,80 @@
+Daily Finance Brief run 2026-09-27 12:53 Dubai
+
+Sources:
+  The National (Business): 4
+  Gulf News (Business): 3
+  Khaleej Times (Business): 7
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 1
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 2
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 0
+  WSJ (Markets): 2
+  WSJ (US Business): 10
+  WSJ (Economy): 0
+  New York Times (Business): 8
+  New York Times (Economy): 0
+  New York Times (DealBook): 1
+  South China Morning Post (Business): 2
+  South China Morning Post (China Economy): 1
+  South China Morning Post (Companies): 1
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 19
+  Russia economy (search - Reuters, FT, Bloomberg): 69
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 17
+  Reuters (Markets, via Google News): 0
+  Financial Times (Markets): 8
+  Financial Times (Companies): 17
+  Financial Times (Global Economy): 3
+  BBC (Business): 5
+  The Guardian (Business): 15
+  The Guardian (Economics): 2
+  Economic Times (Markets): 15
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 0
+  Investing.com (Commodities): 7
+  Investing.com (Economic Indicators): 1
+  Finnhub (general): 9
+  Finnhub (forex): 0
+  Finnhub (merger): 1
+
+Articles: 353 fetched, 237 after dedupe
+Relevance filter: 125 kept, 112 dropped
+Brief 2026-09-27: 18 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: US Rejects Iranian Hormuz Ceasefire Plan as Brent Crude Exceeds $104 per Barrel
+  [5] US     rates_macro: US 10-Year Treasury Yield Climbs to 19-Year High Above 5.1% Amid Sticky Inflation
+  [4] CHINA  rates_macro: US and China Agree to Bilateral AI Dialogue and $30 Billion Tariff Cuts at Summit
+  [4] GLOBAL deals_ipos: Saudi Aramco Weighs Carveout of Standalone Gas Unit with $100 Billion Valuation
+  [4] GLOBAL deals_ipos: Nubank Explores Takeover of UK Digital Bank Monzo in £10 Billion Valuation Deal
+  [4] US     companies: Jury Hits Apple with $5.7 Billion Patent Infringement Verdict Over Haptic Technology
+UAE (3)
+  [3] banking: Sharjah Islamic Bank Raises $500 Million Through 5-Year Sukuk Issuance
+  [3] markets: Dubai Records 335 Ultra-Luxury Home Sales Above $10 Million in Eight Months
+  [3] oil_energy: ADNOC Subsidiary XRG Expands International Gas Footprint Across Azerbaijan and Canada
+US (2)
+  [3] companies: Boeing Detects 737 MAX Navigation Software Glitch Impacting Automated Landings
+  [3] banking: Private Credit Fund Redemption Pressures Moderate as Retail Withdrawals Slow
+CHINA (2)
+  [3] markets: China Consumer Stocks Hit Multi-Year Lows as Capital Allocations Pivot Toward AI
+  [3] markets: Global Investors Note Early Chinese Commercial Property Recovery Amid Supply Caution
+RUSSIA (2)
+  [3] rates_macro: Russian Government Projects RUB 5.5 Trillion Budget Deficit in 2027 Fiscal Plan
+  [2] markets: MOEX Russia Index Closes Flat Amid Broader Equity Selling Pressure
+GLOBAL (3)
+  [3] markets: Supertanker Valuations Surge Past Newbuilds on Historic Tanker Freight Spikes
+  [3] oil_energy: Global Natural Gas Prices Remain Contained at $2.50-$3.50/MMBtu Despite Crude Shock
+  [3] deals_ipos: Giorgio Armani Commences Strategic Stake Sale Discussions with LVMH and L'Oréal

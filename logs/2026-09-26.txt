@@ -1,0 +1,51 @@
+Daily Finance Brief run 2026-09-26 22:39 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 4
+  Khaleej Times (Business): 4
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 1
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (Publications): 0
+  Reuters (Business, via Google News): 39
+  Reuters (Markets, via Google News): 100
+  CNBC (Finance): 4
+  CNBC (Business): 3
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 13
+  WSJ (US Business): 20
+  WSJ (Economy): 0
+  Financial Times (Markets): 8
+  Financial Times (Companies): 22
+  Financial Times (Global Economy): 5
+  BBC (Business): 6
+  The Guardian (Business): 19
+  The Guardian (Economics): 1
+  New York Times (Business): 11
+  New York Times (Economy): 0
+  New York Times (DealBook): 1
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 3
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 12
+  Finnhub (forex): 1
+  Finnhub (merger): 2
+
+Articles: 318 fetched, 248 after dedupe
+Relevance filter: 115 kept, 133 dropped
+Brief 2026-09-26: 6 stories
+  [5] rates_macro: 10-Year US Treasury Yield Surges to 19-Year High as Bond Rout Deepens
+  [5] oil_energy: Trump Rejects Iran Proposal to Reopen Strait of Hormuz as Energy Supply Disruptions Persist
+  [4] deals_ipos: Saudi Aramco Works with Evercore on Standalone Gas Unit with $100 Billion Valuation
+  [4] uae_gcc: UAE Federal Tax Authority Reminds Businesses of September 30 Corporate Tax Deadline
+  [4] markets: US and China Agree to $30 Billion Tariff Cut and Establish AI Policy Dialogue
+  [3] deals_ipos: Nubank Enters Discussions to Acquire UK Digital Bank Monzo for £10 Billion

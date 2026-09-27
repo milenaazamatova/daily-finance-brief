@@ -1,0 +1,279 @@
+# News sources for the daily brief.
+# Rule: business / markets / economy / finance SECTION feeds only, never an outlet's main or all-news feed.
+# Each feed is labelled with:
+#   region:  where the feed's coverage is focused (uae | us | china | russia | global).
+#            Gemini still decides each STORY's region from its content; this label is for you.
+#   section: which section of the outlet the feed comes from.
+# To add a source: copy a block and change it. To pause one: set enabled: false.
+# All URLs were tested on 2026-09-26/27 (HTTP 200, valid feed, links really come from that section).
+#
+# "via Google News" = the outlet has no working section feed of its own, so this is a Google News
+# search limited to that outlet's section pages. Links go via news.google.com and redirect to the original.
+# "search" = a Google News keyword search limited to reputable business outlets (Reuters, FT, Bloomberg),
+# used where no country-specific business feed exists.
+
+# Items whose title matches any of these (regular expressions) are skipped: they are stock-quote
+# pages that Google News returns for Reuters searches, not news articles.
+skip_titles:
+  - "Stock Price & Latest News"
+  - "^About .+\\([A-Z0-9.]+\\)"
+
+rss:
+  # ===================== UAE =====================
+  - name: The National (Business)
+    url: https://www.thenationalnews.com/arc/outboundfeeds/rss/category/business/?outputType=xml
+    region: uae
+    section: Business
+    enabled: true
+  - name: Gulf News (Business)
+    url: https://gulfnews.com/api/v1/collections/business.rss
+    region: uae
+    section: Business
+    enabled: true
+  - name: Khaleej Times (Business)
+    url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+    region: uae
+    section: Business
+    enabled: true
+  # Arabian Business section feeds return 403 and ?category= is ignored by their server.
+  - name: Arabian Business (Business, via Google News)
+    url: https://news.google.com/rss/search?q=site:arabianbusiness.com/business+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+    region: uae
+    section: Business
+    enabled: true
+  # Zawya has no RSS feeds. Google indexes it slowly, so expect only a few articles a day.
+  - name: Zawya (Business, via Google News)
+    url: https://news.google.com/rss/search?q=site:zawya.com/en/business+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+    region: uae
+    section: Business
+    enabled: true
+  - name: Zawya (Economy, via Google News)
+    url: https://news.google.com/rss/search?q=site:zawya.com/en/economy+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+    region: uae
+    section: Economy
+    enabled: true
+  # Central Bank of the UAE: no public RSS (every URL returns 403). Covered via the UAE outlets above.
+
+  # ===================== US =====================
+  - name: US Federal Reserve (Monetary Policy)
+    url: https://www.federalreserve.gov/feeds/press_monetary.xml
+    region: us
+    section: Press releases - Monetary policy
+    enabled: true
+  - name: US Federal Reserve (Banking Regulation)
+    url: https://www.federalreserve.gov/feeds/press_bcreg.xml
+    region: us
+    section: Press releases - Banking & consumer regulation
+    enabled: true
+  - name: US Federal Reserve (Speeches)
+    url: https://www.federalreserve.gov/feeds/speeches.xml
+    region: us
+    section: Speeches
+    enabled: true
+  - name: CNBC (Finance)
+    url: https://www.cnbc.com/id/10000664/device/rss/rss.html
+    region: us
+    section: Finance
+    enabled: true
+  - name: CNBC (Business)
+    url: https://www.cnbc.com/id/10001147/device/rss/rss.html
+    region: us
+    section: Business
+    enabled: true
+  - name: CNBC (Economy)
+    url: https://www.cnbc.com/id/20910258/device/rss/rss.html
+    region: us
+    section: Economy
+    enabled: true
+  - name: CNBC (Earnings)
+    url: https://www.cnbc.com/id/15839135/device/rss/rss.html
+    region: us
+    section: Earnings
+    enabled: true
+  - name: CNBC (Investing)
+    url: https://www.cnbc.com/id/15839069/device/rss/rss.html
+    region: us
+    section: Investing
+    enabled: true
+  # MarketWatch's only working feeds are its main Top Stories / Breaking News feeds (its section feeds
+  # stopped updating in 2025), so it's replaced by these WSJ section feeds (same owner, Dow Jones).
+  - name: WSJ (Markets)
+    url: https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+    region: us
+    section: Markets
+    enabled: true
+  - name: WSJ (US Business)
+    url: https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
+    region: us
+    section: Business
+    enabled: true
+  - name: WSJ (Economy)
+    url: https://feeds.content.dowjones.io/public/rss/socialeconomyfeed
+    region: us
+    section: Economy
+    enabled: true
+  - name: New York Times (Business)
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+    region: us
+    section: Business
+    enabled: true
+  - name: New York Times (Economy)
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml
+    region: us
+    section: Economy
+    enabled: true
+  - name: New York Times (DealBook)
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml
+    region: us
+    section: Deals
+    enabled: true
+
+  # ===================== China =====================
+  # People's Bank of China: no public RSS feed. Its news arrives via the China search and SCMP below.
+  - name: South China Morning Post (Business)
+    url: https://www.scmp.com/rss/92/feed
+    region: china
+    section: Business
+    enabled: true
+  - name: South China Morning Post (China Economy)
+    url: https://www.scmp.com/rss/318421/feed
+    region: china
+    section: China economy
+    enabled: true
+  - name: South China Morning Post (Companies)
+    url: https://www.scmp.com/rss/10/feed
+    region: china
+    section: Companies
+    enabled: true
+  - name: China economy (search - Reuters, FT, Bloomberg)
+    url: https://news.google.com/rss/search?q=China+(economy+OR+yuan+OR+PBOC+OR+stocks)+(site:reuters.com+OR+site:ft.com+OR+site:bloomberg.com)+when:1d&hl=en-US&gl=US&ceid=US:en
+    region: china
+    section: Search - China economy, yuan, PBOC, stocks
+    enabled: true
+  # STATE-AFFILIATED (China Global Television Network, owned by the Chinese state). Off by default:
+  # its business section is mostly commentary. Set enabled: true to include the official perspective.
+  - name: CGTN (Business) [state-affiliated]
+    url: https://www.cgtn.com/subscribe/rss/section/business.xml
+    region: china
+    section: Business
+    state_affiliated: true
+    enabled: false
+
+  # ===================== Russia =====================
+  # The Bell is an independent Russian business publication that only covers business and the economy,
+  # so its single feed is effectively a business-section feed.
+  - name: The Bell
+    url: https://en.thebell.io/rss/
+    region: russia
+    section: Business & economy (business-only outlet)
+    enabled: true
+  - name: bne IntelliNews (Russia, via Google News)
+    url: https://news.google.com/rss/search?q=site:intellinews.com+Russia+when:1d&hl=en-US&gl=US&ceid=US:en
+    region: russia
+    section: Russia
+    enabled: true
+  - name: Russia economy (search - Reuters, FT, Bloomberg)
+    url: https://news.google.com/rss/search?q=Russia+(economy+OR+ruble+OR+%22central+bank%22+OR+oil)+(site:reuters.com+OR+site:ft.com+OR+site:bloomberg.com)+when:1d&hl=en-US&gl=US&ceid=US:en
+    region: russia
+    section: Search - Russia economy, ruble, central bank, oil
+    enabled: true
+  # Official central bank feed. Russian language only (no English feed exists); Gemini reads Russian.
+  - name: Bank of Russia (Events & press releases, in Russian)
+    url: https://www.cbr.ru/rss/eventrss
+    region: russia
+    section: Events & press releases
+    enabled: true
+  # TASS (state-affiliated) is not used: it only offers its main all-news feed.
+
+  # ===================== Global =====================
+  - name: European Central Bank (Press Releases)
+    url: https://www.ecb.europa.eu/rss/press.html
+    region: global
+    section: Press releases
+    enabled: true
+  - name: Bank of England (News)
+    url: https://www.bankofengland.co.uk/rss/news
+    region: global
+    section: News releases & market notices
+    enabled: true
+  - name: Bank of Japan (What's New)
+    url: https://www.boj.or.jp/en/rss/whatsnew.xml
+    region: global
+    section: Announcements & releases
+    enabled: true
+  - name: Reuters (Business, via Google News)
+    url: https://news.google.com/rss/search?q=site:reuters.com/business+when:1d&hl=en-US&gl=US&ceid=US:en
+    region: global
+    section: Business
+    enabled: true
+  - name: Reuters (Markets, via Google News)
+    url: https://news.google.com/rss/search?q=site:reuters.com/markets+when:1d&hl=en-US&gl=US&ceid=US:en
+    region: global
+    section: Markets
+    enabled: true
+  - name: Financial Times (Markets)
+    url: https://www.ft.com/markets?format=rss
+    region: global
+    section: Markets
+    enabled: true
+  - name: Financial Times (Companies)
+    url: https://www.ft.com/companies?format=rss
+    region: global
+    section: Companies
+    enabled: true
+  - name: Financial Times (Global Economy)
+    url: https://www.ft.com/global-economy?format=rss
+    region: global
+    section: Global economy
+    enabled: true
+  - name: BBC (Business)
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    region: global
+    section: Business
+    enabled: true
+  - name: The Guardian (Business)
+    url: https://www.theguardian.com/uk/business/rss
+    region: global
+    section: Business
+    enabled: true
+  - name: The Guardian (Economics)
+    url: https://www.theguardian.com/business/economics/rss
+    region: global
+    section: Economics
+    enabled: true
+  - name: Economic Times (Markets)
+    url: https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+    region: global
+    section: Markets (India)
+    enabled: true
+  - name: Investing.com (Stock Market News)
+    url: https://www.investing.com/rss/news_25.rss
+    region: global
+    section: Stock markets
+    enabled: true
+  - name: Investing.com (Economy)
+    url: https://www.investing.com/rss/news_14.rss
+    region: global
+    section: Economy
+    enabled: true
+  - name: Investing.com (Forex)
+    url: https://www.investing.com/rss/news_1.rss
+    region: global
+    section: Forex
+    enabled: true
+  - name: Investing.com (Commodities)
+    url: https://www.investing.com/rss/news_11.rss
+    region: global
+    section: Commodities & futures
+    enabled: true
+  - name: Investing.com (Economic Indicators)
+    url: https://www.investing.com/rss/news_95.rss
+    region: global
+    section: Economic indicators
+    enabled: true
+
+# Finnhub market news (free API key, read from FINNHUB_API_KEY). Mostly global/US coverage.
+finnhub:
+  enabled: true
+  region: global
+  categories: [general, forex, merger]
