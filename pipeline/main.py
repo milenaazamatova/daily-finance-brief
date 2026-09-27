@@ -20,6 +20,16 @@ from fetch import fetch_all
 
 ROOT = Path(__file__).resolve().parent.parent
 REQUIRED_VARS = ["GEMINI_API_KEY", "GEMINI_MODEL", "SUPABASE_URL", "SUPABASE_SERVICE_ROLE_KEY"]
+SECRET_VARS = ["GEMINI_API_KEY", "FINNHUB_API_KEY", "SUPABASE_URL", "SUPABASE_SERVICE_ROLE_KEY"]
+
+
+def redact(text: str) -> str:
+    """Logs are committed to a public repo, so mask any secret value that might appear in an error."""
+    for name in SECRET_VARS:
+        value = os.environ.get(name)
+        if value:
+            text = text.replace(value, "***")
+    return text
 
 
 def write_log(brief_date, lines: list[str]) -> Path:
@@ -58,6 +68,17 @@ def main() -> int:
             print(f"Missing values in pipeline/.env: {', '.join(missing)}")
             return 1
 
+    try:
+        return run(args, brief_date, log)
+    except Exception as e:
+        # Still write the day's log, so a failed run is visible in the repo, not just in the Actions page.
+        log.append(f"\nFAILED: {type(e).__name__}: {redact(str(e))[:500]}")
+        if not args.dry_run:
+            write_log(brief_date, log)
+        raise
+
+
+def run(args, brief_date, log: list[str]) -> int:
     print("1-2. Fetching and normalising articles from the last 24 hours…")
     articles, report = fetch_all(hours=24)
     for line in report:
