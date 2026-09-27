@@ -17,3 +17,6 @@ node_modules/
 
 # Personal planning notes (kept private)
 PROJECT_BRIEF.md
+
+# Local editor / preview settings
+.claude/

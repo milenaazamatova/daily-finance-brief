@@ -10,7 +10,8 @@
 --   - Pipeline writes with the service_role key (bypasses RLS; never used in the browser).
 --   - Website reads with the anon key: SELECT only on briefs, stories, story_entities,
 --     story_sources, glossary.
---   - articles: no anon/authenticated access at all.
+--   - articles: anon/authenticated may read only the link columns (id, title, source, url,
+--     published_at) of articles a story cites; everything else is pipeline-only.
 --   - takes: only the logged-in owner can read/write their own rows.
 
 -- =========================================================================
@@ -111,6 +112,9 @@ grant select on public.briefs, public.stories, public.story_entities,
                 public.story_sources, public.glossary
   to anon, authenticated;
 
+-- articles: link columns only (RLS below limits rows to articles cited by a story)
+grant select (id, title, source, url, published_at) on public.articles to anon, authenticated;
+
 -- takes: logged-in users only (RLS below limits them to their own rows)
 grant select, insert, update, delete on public.takes to authenticated;
 
@@ -135,7 +139,11 @@ create policy "Public read" on public.story_sources  for select to anon, authent
 drop policy if exists "Public read" on public.glossary;
 create policy "Public read" on public.glossary       for select to anon, authenticated using (true);
 
--- articles: intentionally NO policies -> only service_role (pipeline) can access.
+-- articles: only rows cited by a story (story_sources), and only the granted link columns.
+drop policy if exists "Public read of cited articles" on public.articles;
+create policy "Public read of cited articles" on public.articles
+  for select to anon, authenticated
+  using (exists (select 1 from public.story_sources ss where ss.article_id = articles.id));
 
 -- takes: owner-only
 drop policy if exists "Owner can read own takes" on public.takes;
