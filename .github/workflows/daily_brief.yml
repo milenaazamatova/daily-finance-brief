@@ -25,8 +25,8 @@ concurrency:
 jobs:
   brief:
     runs-on: ubuntu-latest
-    # Safety net: the pipeline normally takes 2-10 minutes; stop anything stuck well before GitHub's 6-hour limit.
-    timeout-minutes: 45
+    # Safety net: normally 2-10 minutes, but each Gemini call may wait ~12 min for busy servers.
+    timeout-minutes: 75
     steps:
       - name: Check out the code
         uses: actions/checkout@v7

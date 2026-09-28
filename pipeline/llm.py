@@ -37,34 +37,43 @@ def json_config(schema, temperature: float) -> types.GenerateContentConfig:
     )
 
 
+# Pauses between rounds when every model was busy: ~12 minutes of patience in total.
+ROUND_WAITS_SECONDS = [30, 60, 120, 240, 300]
+
+
 def call_gemini(client: genai.Client, prompt: str, config: types.GenerateContentConfig):
-    """One request, trying GEMINI_MODEL first, then each model in GEMINI_FALLBACK_MODEL (comma-separated).
-    - 'server busy' (5xx): temporary, so wait and retry the same model, then move on.
-    - 'quota exhausted' (429): free-tier limits are per model per day, so move to the next model at once.
-    - no reply within REQUEST_TIMEOUT_SECONDS: a stalled model tends to stall again, so move on."""
+    """One request, rotating through GEMINI_MODEL and then each model in GEMINI_FALLBACK_MODEL (comma-separated).
+    Overload is usually per model, so a busy model is skipped at once rather than waited on:
+    - 'server busy' (5xx): try the next model now; if all were busy, pause and do another round.
+    - 'quota exhausted' (429): free-tier limits are per model per day, so drop that model for this run.
+    - no reply within REQUEST_TIMEOUT_SECONDS: a stalled model tends to stall again, so drop it too."""
     fallbacks = os.environ.get("GEMINI_FALLBACK_MODEL", "")
     models = [os.environ["GEMINI_MODEL"]] + [m.strip() for m in fallbacks.split(",") if m.strip()]
 
     last_error = None
-    for model in models:
-        for wait in (0, 20, 60):
-            if wait:
-                print(f"  ! {model} busy (503); waiting {wait}s and retrying…")
-                time.sleep(wait)
+    for round_number, wait in enumerate([0] + ROUND_WAITS_SECONDS, start=1):
+        if not models:
+            break
+        if wait:
+            print(f"  ! all models busy; waiting {wait}s before round {round_number}…")
+            time.sleep(wait)
+        busy = []
+        for model in list(models):
             try:
                 return client.models.generate_content(model=model, contents=prompt, config=config)
             except errors.ServerError as e:
                 last_error = e
+                busy.append(model)
             except errors.ClientError as e:
                 if e.code != 429:
                     raise  # a real problem with our request: retrying won't help
                 last_error = e
-                print(f"  ! {model} free-tier quota used up (429); trying the next model")
-                break
+                models.remove(model)
+                print(f"  ! {model} free-tier quota used up (429); dropped for this run")
             except httpx.TimeoutException as e:
                 last_error = e
-                print(f"  ! {model} gave no reply within {REQUEST_TIMEOUT_SECONDS}s; trying the next model")
-                break
-        else:
-            print(f"  ! {model} still unavailable after 3 tries")
+                models.remove(model)
+                print(f"  ! {model} gave no reply within {REQUEST_TIMEOUT_SECONDS}s; dropped for this run")
+        if busy:
+            print(f"  ! round {round_number}: busy (503): {', '.join(busy)}")
     raise last_error

@@ -49,7 +49,7 @@ feeds.yaml (~45 business/markets section feeds) + Finnhub API
 - **Two batched Gemini calls per day, not one per article.** Keeps well inside free-tier limits, and lets
   the model compare and merge coverage of the same event across outlets.
 - **Reliability.** Free-tier limits are per model, and Google's servers are sometimes overloaded, so the pipeline
-  retries busy servers, falls back through a list of models on quota errors or timeouts (`GEMINI_FALLBACK_MODEL`),
+  rotates through a list of models (`GEMINI_FALLBACK_MODEL`) when one is busy, pausing between rounds for up to ~12 minutes,
   and never waits more than 5 minutes for one request. One broken feed never stops a run, and a failed save is rolled back.
 - **Hallucination guards.** Gemini may only use facts from the supplied articles, every story must cite
   article ids, and ids that weren't in the batch are discarded.
