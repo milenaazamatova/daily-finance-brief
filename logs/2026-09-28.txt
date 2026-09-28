@@ -1,12 +1,12 @@
-Daily Finance Brief run 2026-09-28 07:08 Dubai
+Daily Finance Brief run 2026-09-28 08:17 Dubai
 
 Sources:
-  The National (Business): 4
+  The National (Business): 3
   Gulf News (Business): 13
   Khaleej Times (Business): 13
   Arabian Business (Business, via Google News): 1
-  Zawya (Business, via Google News): 1
-  Zawya (Economy, via Google News): 0
+  Zawya (Business, via Google News): 6
+  Zawya (Economy, via Google News): 1
   US Federal Reserve (Monetary Policy): 0
   US Federal Reserve (Banking Regulation): 0
   US Federal Reserve (Speeches): 0
@@ -15,42 +15,65 @@ Sources:
   CNBC (Economy): 1
   CNBC (Earnings): 0
   CNBC (Investing): 1
-  WSJ (Markets): 7
-  WSJ (US Business): 11
+  WSJ (Markets): 8
+  WSJ (US Business): 13
   WSJ (Economy): 2
   New York Times (Business): 9
   New York Times (Economy): 0
   New York Times (DealBook): 0
-  South China Morning Post (Business): 6
+  South China Morning Post (Business): 7
   South China Morning Post (China Economy): 4
-  South China Morning Post (Companies): 2
+  South China Morning Post (Companies): 3
   China economy (search - Reuters, FT, Bloomberg): 100
   The Bell: 0
   bne IntelliNews (Russia, via Google News): 20
-  Russia economy (search - Reuters, FT, Bloomberg): 54
+  Russia economy (search - Reuters, FT, Bloomberg): 57
   Bank of Russia (Events & press releases, in Russian): 0
   European Central Bank (Press Releases): 0
   Bank of England (News): 0
   Bank of Japan (What's New): 2
-  Reuters (Business, via Google News): 17
+  Reuters (Business, via Google News): 21
   Reuters (Markets, via Google News): 0
-  Financial Times (Markets): 9
-  Financial Times (Companies): 18
-  Financial Times (Global Economy): 6
-  BBC (Business): 7
+  Financial Times (Markets): 3
+  Financial Times (Companies): 9
+  Financial Times (Global Economy): 4
+  BBC (Business): 8
   The Guardian (Business): 15
   The Guardian (Economics): 2
-  Economic Times (Markets): 39
+  Economic Times (Markets): 50
   Investing.com (Stock Market News): 10
   Investing.com (Economy): 10
   Investing.com (Forex): 0
-  Investing.com (Commodities): 6
-  Investing.com (Economic Indicators): 2
-  Finnhub (general): 21
+  Investing.com (Commodities): 7
+  Investing.com (Economic Indicators): 3
+  Finnhub (general): 23
   Finnhub (forex): 1
   Finnhub (merger): 3
 
-Articles: 421 fetched, 303 after dedupe
-Relevance filter: 170 kept, 133 dropped
+Articles: 437 fetched, 322 after dedupe
+Relevance filter: 200 kept, 122 dropped
+Brief 2026-09-28: 17 stories
 
-FAILED: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+TOP STORIES
+  [5] GLOBAL oil_energy: Oil Surges to $106 as Trump Rejects Iran's Strait of Hormuz Peace Proposal
+  [5] US     markets: Rising US Treasury Yields and Hawkish Fed Bets Pressure Gold and Emerging Markets
+  [4] CHINA  rates_macro: China's Industrial Profit Growth Slows to 4.2% in August, Raising Stimulus Expectations
+  [4] GLOBAL deals_ipos: Northern Star Rejects $27 Billion Takeover Bid From Gold Fields
+  [4] GLOBAL markets: OpenAI Training Pause Sparks AI Slowdown Fears, Dragging Down Asian Chip Stocks
+  [4] GLOBAL rates_macro: US and China Agree to Tariff Cuts and AI Dialogue Following Trump-Xi Summit
+UAE (3)
+  [3] banking: Sharjah Islamic Bank Raises $500 Million Through Five-Year Sukuk Issuance
+  [3] companies: Dubai's Sobha Realty Targets $600 Million US Housing Market Expansion
+  [3] banking: Investors Pursue Dubai Investment Group AIX Over Delayed Payments
+US (2)
+  [3] oil_energy: Goldman Sachs Predicts US Diesel Export Restrictions Would Lower Domestic Prices but Raise European Costs
+  [3] companies: Corporate America Embraces Cheaper Open-Source AI Models Over Proprietary Systems
+CHINA (3)
+  [4] markets: Global Funds End Four-Year Underweight Position on Chinese Equities
+  [3] markets: Chinese Mutual Funds Warn of Premium Risks on US Equity Products Amid Intense Demand
+  [3] deals_ipos: Geely to Acquire 30% Stake in Rival Nio's Battery-Swapping Unit
+RUSSIA (0)
+GLOBAL (3)
+  [3] banking: Foreign Banks Express Merger Interest in Swiss Banking Giant UBS
+  [3] rates_macro: Bank of Japan July Minutes and Rising Services Inflation Signal Potential for Faster Rate Hikes
+  [3] deals_ipos: Warburg Pincus Raises Takeover Offer for Australia's Ingenia to $1.5 Billion
