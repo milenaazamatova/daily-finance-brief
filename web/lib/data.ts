@@ -96,21 +96,23 @@ export const ARCHIVE_PAGE_SIZE = 40;
 
 /** Past stories, newest first, optionally filtered by category / region / search text. */
 export async function searchStories(opts: { category?: string; region?: string; q?: string; page: number }) {
-  let query = getSupabase()
+  const supabase = getSupabase();
+  // Full-text search (PostgreSQL): the database finds matching story ids, then we load those stories.
+  let matchIds: number[] | null = null;
+  if (opts.q) {
+    const { data, error } = await supabase.rpc("search_stories", { q: opts.q });
+    if (error) throw new Error(error.message);
+    matchIds = (data as { story_id: number }[]).map((r) => r.story_id);
+    if (matchIds.length === 0) return { stories: [], total: 0 };
+  }
+  let query = supabase
     .from("stories")
     .select(STORY_COLUMNS, { count: "exact" })
     .order("brief_id", { ascending: false }) // briefs are created one per day, so newest brief first
     .order("id"); // then each brief's stories in rank order
   if (opts.category) query = query.eq("category", opts.category);
   if (opts.region) query = query.eq("region", opts.region);
-  if (opts.q) {
-    // Keep only safe characters so the search text can't break the filter syntax.
-    const q = opts.q.replace(/[^\p{L}\p{N} .&'$-]/gu, " ").trim();
-    if (q) {
-      const fields = ["headline", "what_happened", "why_it_matters", "concept_term"];
-      query = query.or(fields.map((f) => `${f}.ilike."*${q}*"`).join(","));
-    }
-  }
+  if (matchIds) query = query.in("id", matchIds);
   const from = opts.page * ARCHIVE_PAGE_SIZE;
   const { data, error, count } = await query.range(from, from + ARCHIVE_PAGE_SIZE - 1);
   if (error) throw new Error(error.message);

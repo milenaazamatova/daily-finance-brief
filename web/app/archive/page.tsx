@@ -36,6 +36,10 @@ export default async function ArchivePage({ searchParams }: PageProps<"/archive"
     <main>
       <h1>Archive</h1>
       <p className="subtitle">Every past brief. Filter by category or region, or search.</p>
+      <p className="search-help">
+        Tips: <code>&quot;interest rates&quot;</code> for an exact phrase, <code>oil OR gas</code> for either,{" "}
+        <code>bank -UBS</code> to leave a word out. For the latest news on any topic, use <Link href="/search">Search</Link>.
+      </p>
 
       {/* A plain GET form: filters live in the URL, so a filtered view can be bookmarked or shared. */}
       <form className="filters" action="/archive">

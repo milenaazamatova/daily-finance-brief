@@ -35,11 +35,12 @@ for (const table of ["briefs", "stories", "story_entities", "story_sources", "gl
   await expectAllowed(`Read ${table}`, () => db.from(table).select("*", { count: "exact", head: true }));
 }
 
-// 3. takes: private. No reading, no writing.
-await expectDenied("Read takes", () => db.from("takes").select("*"));
-await expectDenied("Insert into takes", () => db.from("takes").insert({ story_id: -1, take_text: "security test" }));
-await expectDenied("Update takes", () => db.from("takes").update({ take_text: "x" }).eq("id", -1));
-await expectDenied("Delete from takes", () => db.from("takes").delete().eq("id", -1));
+// 3. The unused takes table has been removed (Phase 4 was dropped).
+{
+  const { error } = await db.from("takes").select("*").limit(1);
+  const gone = error?.code === "PGRST205" || error?.code === "42P01";
+  results.push([gone ? "PASS" : "FAIL", "takes table removed", gone ? "not found (as intended)" : error ? error.message : "STILL EXISTS"]);
+}
 
 // 4. Public tables are read-only for the website.
 await expectDenied("Insert into stories", () => db.from("stories").insert({ brief_id: -1, headline: "x" }));
@@ -61,6 +62,9 @@ await expectDenied("Insert into articles", () => db.from("articles").insert({ ti
   results.push([onlyCited ? "PASS" : "FAIL", "Only articles cited by a story are visible",
     `${visible.data?.length ?? 0} visible, ${citedIds.size} cited`]);
 }
+
+// 6. Full-text search works for the public (and only searches what RLS lets them read).
+await expectAllowed("Full-text search of stories", () => db.rpc("search_stories", { q: "oil OR bank" }));
 
 console.log("\nSecurity test (anon key, exactly as the website connects)\n");
 for (const [status, name, detail] of results) console.log(`${status === "PASS" ? "✓" : "✗"} ${status}  ${name.padEnd(44)} ${detail}`);

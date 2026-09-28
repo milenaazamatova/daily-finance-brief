@@ -53,10 +53,14 @@ feeds.yaml (~45 business/markets section feeds) + Finnhub API
   and never waits more than 5 minutes for one request. One broken feed never stops a run, and a failed save is rolled back.
 - **Hallucination guards.** Gemini may only use facts from the supplied articles, every story must cite
   article ids, and ids that weren't in the batch are discarded.
+- **Search.** The Archive uses PostgreSQL full-text search over stories, affected companies and source
+  articles (word forms, "exact phrases", OR, -exclude), GIN-indexed. The Search page takes any topic and shows
+  matching stories from past briefs plus the latest finance-focused news from Google News (free, no API key,
+  nothing stored, identical searches cached for 15 minutes).
 - **Copyright.** Only headline, source, link, publish time and a short excerpt are stored; never full text.
   The website always links to the original article.
 - **Security.** Row Level Security is enabled on every table with explicit grants: the public anon key can only
-  read the brief tables and only the link columns of articles a story cites; personal takes are owner-only.
+  read the brief tables and only the link columns of articles a story cites; nothing is writable by the public.
   The pipeline's service-role key lives only in GitHub Secrets / a local `.env`. `npm run test:security`
   (in `/web`) proves what the anon key can and can't do.
 
@@ -69,7 +73,7 @@ feeds.yaml (~45 business/markets section feeds) + Finnhub API
 /supabase/migrations   dated changes applied to the existing database
 /logs                  one small log file per day
 /.github/workflows     daily GitHub Actions workflow
-/web                   Next.js website: Today, Archive, Story pages
+/web                   Next.js website: Today, Archive, Story and Search pages
 ```
 
 ## Running it locally
@@ -91,7 +95,7 @@ cd web
 npm install
 cp .env.example .env.local     # then add your Supabase URL and anon key
 npm run dev                    # http://localhost:3000
-npm run test:security          # checks the anon key can read briefs but not takes
+npm run test:security          # checks the anon key can read briefs but not write anything
 ```
 
 Database setup: run `supabase/schema.sql` in the Supabase SQL Editor (new database), or the files in

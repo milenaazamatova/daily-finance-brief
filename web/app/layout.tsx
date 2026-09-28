@@ -31,11 +31,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <header className="site-header">
           <div className="container">
             <Link href="/" className="brand">
-              Daily Finance Brief
+              <span className="brand-long">Daily </span>Finance Brief
             </Link>
             <nav className="nav">
               <Link href="/">Today</Link>
               <Link href="/archive">Archive</Link>
+              <Link href="/search">Search</Link>
             </nav>
             <ThemeToggle />
           </div>

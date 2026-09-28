@@ -11,8 +11,7 @@
 --   - Website reads with the anon key: SELECT only on briefs, stories, story_entities,
 --     story_sources, glossary.
 --   - articles: anon/authenticated may read only the link columns (id, title, source, url,
---     published_at) of articles a story cites; everything else is pipeline-only.
---   - takes: only the logged-in owner can read/write their own rows.
+--     published_at, search) of articles a story cites; everything else (e.g. excerpts) is pipeline-only.
 
 -- =========================================================================
 -- Tables
@@ -28,6 +27,10 @@ create table if not exists public.articles (
   fetched_at   timestamptz not null default now()
 );
 create index if not exists articles_published_at_idx on public.articles (published_at desc);
+-- Full-text search: words reduced to root forms ("rates" -> "rate"), GIN-indexed for speed.
+alter table public.articles add column if not exists search tsvector
+  generated always as (to_tsvector('english', coalesce(title, '') || ' ' || coalesce(excerpt, ''))) stored;
+create index if not exists articles_search_idx on public.articles using gin (search);
 
 create table if not exists public.briefs (
   id         bigint generated always as identity primary key,
@@ -52,6 +55,11 @@ create table if not exists public.stories (
   created_at         timestamptz not null default now()
 );
 create index if not exists stories_brief_id_region_idx on public.stories (brief_id, region);
+alter table public.stories add column if not exists search tsvector
+  generated always as (to_tsvector('english',
+    coalesce(headline, '') || ' ' || coalesce(what_happened, '') || ' ' || coalesce(why_it_matters, '') || ' ' ||
+    coalesce(concept_term, '') || ' ' || coalesce(interview_question, ''))) stored;
+create index if not exists stories_search_idx on public.stories using gin (search);
 
 create table if not exists public.story_entities (
   id       bigint generated always as identity primary key,
@@ -77,16 +85,6 @@ create table if not exists public.glossary (
 );
 create index if not exists glossary_first_seen_story_id_idx on public.glossary (first_seen_story_id);
 
-create table if not exists public.takes (
-  id         bigint generated always as identity primary key,
-  story_id   bigint not null references public.stories (id) on delete cascade,
-  user_id    uuid   not null default auth.uid() references auth.users (id) on delete cascade,
-  take_text  text   not null,
-  created_at timestamptz not null default now()
-);
-create index if not exists takes_story_id_idx on public.takes (story_id);
-create index if not exists takes_user_id_idx  on public.takes (user_id);
-
 -- =========================================================================
 -- Row Level Security: ON for every table, no exceptions
 -- =========================================================================
@@ -97,14 +95,13 @@ alter table public.stories        enable row level security;
 alter table public.story_entities enable row level security;
 alter table public.story_sources  enable row level security;
 alter table public.glossary       enable row level security;
-alter table public.takes          enable row level security;
 
 -- =========================================================================
 -- Grants: start from zero for anon/authenticated, then add back only what's needed
 -- =========================================================================
 
 revoke all on public.articles, public.briefs, public.stories, public.story_entities,
-              public.story_sources, public.glossary, public.takes
+              public.story_sources, public.glossary
   from anon, authenticated;
 
 -- Public read-only tables
@@ -113,14 +110,11 @@ grant select on public.briefs, public.stories, public.story_entities,
   to anon, authenticated;
 
 -- articles: link columns only (RLS below limits rows to articles cited by a story)
-grant select (id, title, source, url, published_at) on public.articles to anon, authenticated;
-
--- takes: logged-in users only (RLS below limits them to their own rows)
-grant select, insert, update, delete on public.takes to authenticated;
+grant select (id, title, source, url, published_at, search) on public.articles to anon, authenticated;
 
 -- Pipeline (service_role) needs full access to everything
 grant all on public.articles, public.briefs, public.stories, public.story_entities,
-             public.story_sources, public.glossary, public.takes
+             public.story_sources, public.glossary
   to service_role;
 
 -- =========================================================================
@@ -145,20 +139,33 @@ create policy "Public read of cited articles" on public.articles
   for select to anon, authenticated
   using (exists (select 1 from public.story_sources ss where ss.article_id = articles.id));
 
--- takes: owner-only
-drop policy if exists "Owner can read own takes" on public.takes;
-create policy "Owner can read own takes" on public.takes
-  for select to authenticated using ((select auth.uid()) = user_id);
-drop policy if exists "Owner can insert own takes" on public.takes;
-create policy "Owner can insert own takes" on public.takes
-  for insert to authenticated with check ((select auth.uid()) = user_id);
-drop policy if exists "Owner can update own takes" on public.takes;
-create policy "Owner can update own takes" on public.takes
-  for update to authenticated using ((select auth.uid()) = user_id) with check ((select auth.uid()) = user_id);
-drop policy if exists "Owner can delete own takes" on public.takes;
-create policy "Owner can delete own takes" on public.takes
-  for delete to authenticated using ((select auth.uid()) = user_id);
+-- =========================================================================
+-- Search function (Phase 6)
+-- =========================================================================
+create or replace function public.search_stories(q text)
+returns table (story_id bigint, rank real)
+language sql stable security invoker set search_path = ''
+as $$
+  with query as (select websearch_to_tsquery('english', left(q, 200)) as tsq),
+  hits as (
+    -- the story's own text
+    select s.id as story_id, ts_rank(s.search, query.tsq) as rank
+      from public.stories s, query
+     where s.search @@ query.tsq
+    union all
+    -- affected companies / sectors / markets
+    select e.story_id, 0.3::real
+      from public.story_entities e, query
+     where to_tsvector('english', e.entity) @@ query.tsq
+    union all
+    -- the headlines and excerpts of the story's source articles
+    select ss.story_id, ts_rank(a.search, query.tsq) * 0.5
+      from public.story_sources ss
+      join public.articles a on a.id = ss.article_id, query
+     where a.search @@ query.tsq
+  )
+  select story_id, max(rank)::real as rank from hits group by story_id order by rank desc limit 500;
+$$;
 
--- To make takes PUBLICLY READABLE later, run these two lines (writing stays owner-only):
---   grant select on public.takes to anon;
---   create policy "Public read takes" on public.takes for select to anon, authenticated using (true);
+revoke all on function public.search_stories(text) from public;
+grant execute on function public.search_stories(text) to anon, authenticated, service_role;

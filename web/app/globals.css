@@ -221,3 +221,15 @@ h1 { font-size: 26px; line-height: 1.2; margin: 4px 0 4px; }
   .filters { grid-template-columns: 2fr 1fr 1fr auto; }
   .filters .search { grid-column: auto; }
 }
+
+/* ---------- Search (Phase 6) ---------- */
+.search-help { color: var(--muted); font-size: 13px; margin: -8px 0 4px; }
+.search-help code { font-size: 12px; background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 0 4px; }
+.news-results { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+.news-results li { display: grid; gap: 2px; background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; }
+.news-results a { font-weight: 600; line-height: 1.35; color: var(--text); text-decoration: none; }
+.news-results a:hover { text-decoration: underline; }
+.news-results .outlet { color: var(--muted); font-size: 14px; }
+.search-note { color: var(--muted); font-size: 13px; margin-top: 12px; }
+.topic-meta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+@media (max-width: 440px) { .brand-long { display: none; } .nav a { margin-left: 8px; } .site-header .container { gap: 8px; } }

@@ -34,7 +34,7 @@ def delete_brief(db: Client, brief_id: int) -> None:
     story_ids = [r["id"] for r in db.table("stories").select("id").eq("brief_id", brief_id).execute().data]
     if story_ids:
         db.table("glossary").delete().in_("first_seen_story_id", story_ids).execute()
-    # Cascades to stories, story_entities, story_sources (and takes on those stories).
+    # Cascades to stories, story_entities and story_sources.
     db.table("briefs").delete().eq("id", brief_id).execute()
 
 
