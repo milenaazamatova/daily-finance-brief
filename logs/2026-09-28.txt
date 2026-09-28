@@ -1,0 +1,56 @@
+Daily Finance Brief run 2026-09-28 07:08 Dubai
+
+Sources:
+  The National (Business): 4
+  Gulf News (Business): 13
+  Khaleej Times (Business): 13
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 1
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 2
+  CNBC (Economy): 1
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 7
+  WSJ (US Business): 11
+  WSJ (Economy): 2
+  New York Times (Business): 9
+  New York Times (Economy): 0
+  New York Times (DealBook): 0
+  South China Morning Post (Business): 6
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 20
+  Russia economy (search - Reuters, FT, Bloomberg): 54
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 2
+  Reuters (Business, via Google News): 17
+  Reuters (Markets, via Google News): 0
+  Financial Times (Markets): 9
+  Financial Times (Companies): 18
+  Financial Times (Global Economy): 6
+  BBC (Business): 7
+  The Guardian (Business): 15
+  The Guardian (Economics): 2
+  Economic Times (Markets): 39
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 0
+  Investing.com (Commodities): 6
+  Investing.com (Economic Indicators): 2
+  Finnhub (general): 21
+  Finnhub (forex): 1
+  Finnhub (merger): 3
+
+Articles: 421 fetched, 303 after dedupe
+Relevance filter: 170 kept, 133 dropped
+
+FAILED: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
