@@ -1,0 +1,84 @@
+Daily Finance Brief run 2026-09-29 07:08 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 18
+  Khaleej Times (Business): 23
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 18
+  Zawya (Economy, via Google News): 23
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 3
+  CNBC (Business): 3
+  CNBC (Economy): 1
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 27
+  WSJ (US Business): 30
+  WSJ (Economy): 4
+  New York Times (Business): 16
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 14
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 20
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 90
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 12
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 12
+  BBC (Business): 23
+  The Guardian (Business): 16
+  The Guardian (Economics): 6
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 9
+  Finnhub (general): 38
+  Finnhub (forex): 1
+  Finnhub (merger): 55
+
+Articles: 800 fetched, 612 after dedupe
+Relevance filter: 478 kept, 134 dropped
+Brief 2026-09-29: 22 stories
+
+TOP STORIES
+  [5] GLOBAL markets: US-Iran Stalemate Drives Oil to $107 and Treasury Yields to 19-Year High
+  [5] GLOBAL rates_macro: US and China Agree to Reciprocal Tariff Cuts on $60 Billion in Goods
+  [5] US     companies: Nvidia Announces Record-Breaking $150 Billion Stock Buyback
+  [4] US     deals_ipos: Anthropic Files for IPO Revealing $8 Billion Loss and AI Safety Warnings
+  [4] GLOBAL markets: Gold Prices Plunge to Seven-Week Low on Hawkish Fed Expectations
+  [4] CHINA  rates_macro: China's Industrial Profit Growth Slows to 4.2%, Prompting Stimulus Pledges
+  [4] US     banking: Goldman Sachs Board Discusses CEO Succession Plan for John Waldron
+UAE (3)
+  [4] banking: China Securities Opens Dubai Office to Connect Chinese and Middle East Investors
+  [4] oil_energy: UAE and Kuwait Boost Naphtha Exports to Asia, Bypassing Strait of Hormuz
+  [3] markets: Abu Dhabi Leads Real Estate Transparency Gains as Dubai Branded Residences Dominate
+US (3)
+  [4] deals_ipos: AMD to Acquire AI Startup World Labs in $8.2 Billion All-Stock Deal
+  [4] deals_ipos: Paramount Skydance Launches $44 Billion Bond Sale for Warner Bros. Takeover
+  [4] companies: Boeing Shares Drop 6% as FAA Delays 737 Max 10 Certification
+CHINA (3)
+  [4] earnings: Shein Reports 67% Profit Drop in First Earnings Release as Public Company
+  [4] deals_ipos: Chinese Chipmaker CanSemi's IPO Oversubscribed 2,360 Times
+  [3] companies: Geely Acquires Stake in Nio's Battery Swap Unit in $2.4 Billion Valuation Deal
+RUSSIA (3)
+  [4] rates_macro: Russia Plans 27% Increase in Military Spending for 2027
+  [4] companies: Russia Places German Grocer Metro's Assets Under Temporary Administration
+  [3] oil_energy: Putin Imposes Sweeping Reporting Limits on Russian Energy Sector
+GLOBAL (3)
+  [4] deals_ipos: Northern Star Resources Rejects $27 Billion Takeover Bid from Gold Fields
+  [4] deals_ipos: German Chemicals Group Evonik Rejects €10.3 Billion Bid from BASF
+  [4] rates_macro: India's 10-Year Bond Yield Hits Two-Year High of 7.19% on RBI Debt Sales
