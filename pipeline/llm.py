@@ -46,7 +46,8 @@ def call_gemini(client: genai.Client, prompt: str, config: types.GenerateContent
     Overload is usually per model, so a busy model is skipped at once rather than waited on:
     - 'server busy' (5xx): try the next model now; if all were busy, pause and do another round.
     - 'quota exhausted' (429): free-tier limits are per model per day, so drop that model for this run.
-    - no reply within REQUEST_TIMEOUT_SECONDS: a stalled model tends to stall again, so drop it too."""
+    - no reply within REQUEST_TIMEOUT_SECONDS: a stalled model tends to stall again, so drop it too.
+    - connection dropped mid-request (e.g. "connection reset"): temporary, treated like 'server busy'."""
     fallbacks = os.environ.get("GEMINI_FALLBACK_MODEL", "")
     models = [os.environ["GEMINI_MODEL"]] + [m.strip() for m in fallbacks.split(",") if m.strip()]
 
@@ -74,6 +75,10 @@ def call_gemini(client: genai.Client, prompt: str, config: types.GenerateContent
                 last_error = e
                 models.remove(model)
                 print(f"  ! {model} gave no reply within {REQUEST_TIMEOUT_SECONDS}s; dropped for this run")
+            except httpx.TransportError as e:  # connection reset / dropped: a network hiccup
+                last_error = e
+                busy.append(model)
+                print(f"  ! {model} connection dropped ({type(e).__name__}); will try again")
         if busy:
-            print(f"  ! round {round_number}: busy (503): {', '.join(busy)}")
+            print(f"  ! round {round_number}: busy or disconnected: {', '.join(busy)}")
     raise last_error
