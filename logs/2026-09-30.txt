@@ -1,55 +1,81 @@
-Daily Finance Brief run 2026-09-30 07:08 Dubai
+Daily Finance Brief run 2026-09-30 21:37 Dubai
 
 Sources:
-  The National (Business): 9
-  Gulf News (Business): 23
-  Khaleej Times (Business): 21
-  Arabian Business (Business, via Google News): 1
-  Zawya (Business, via Google News): 21
-  Zawya (Economy, via Google News): 14
+  The National (Business): 6
+  Gulf News (Business): 21
+  Khaleej Times (Business): 26
+  Arabian Business (Business, via Google News): 4
+  Zawya (Business, via Google News): 14
+  Zawya (Economy, via Google News): 16
   US Federal Reserve (Monetary Policy): 0
-  US Federal Reserve (Banking Regulation): 1
-  US Federal Reserve (Speeches): 3
+  US Federal Reserve (Banking Regulation): 2
+  US Federal Reserve (Speeches): 1
   CNBC (Finance): 6
-  CNBC (Business): 6
+  CNBC (Business): 11
   CNBC (Economy): 0
   CNBC (Earnings): 0
   CNBC (Investing): 2
   WSJ (Markets): 31
-  WSJ (US Business): 32
-  WSJ (Economy): 11
-  New York Times (Business): 14
+  WSJ (US Business): 39
+  WSJ (Economy): 7
+  New York Times (Business): 19
   New York Times (Economy): 1
-  New York Times (DealBook): 3
-  South China Morning Post (Business): 16
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 17
   South China Morning Post (China Economy): 6
-  South China Morning Post (Companies): 8
-  China economy (search - Reuters, FT, Bloomberg): 99
-  The Bell: 0
-  bne IntelliNews (Russia, via Google News): 31
+  South China Morning Post (Companies): 7
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 35
   Russia economy (search - Reuters, FT, Bloomberg): 100
-  Bank of Russia (Events & press releases, in Russian): 1
-  European Central Bank (Press Releases): 2
-  Bank of England (News): 0
-  Bank of Japan (What's New): 1
+  Bank of Russia (Events & press releases, in Russian): 6
+  European Central Bank (Press Releases): 3
+  Bank of England (News): 1
+  Bank of Japan (What's New): 3
   Reuters (Business, via Google News): 98
-  Reuters (Markets, via Google News): 2
-  Financial Times (Markets): 20
+  Reuters (Markets, via Google News): 6
+  Financial Times (Markets): 23
   Financial Times (Companies): 25
-  Financial Times (Global Economy): 6
-  BBC (Business): 23
-  The Guardian (Business): 31
-  The Guardian (Economics): 4
+  Financial Times (Global Economy): 12
+  BBC (Business): 19
+  The Guardian (Business): 28
+  The Guardian (Economics): 6
   Economic Times (Markets): 50
   Investing.com (Stock Market News): 10
   Investing.com (Economy): 10
-  Investing.com (Forex): 5
+  Investing.com (Forex): 10
   Investing.com (Commodities): 10
   Investing.com (Economic Indicators): 10
-  Finnhub (general): 34
+  Finnhub (general): 31
   Finnhub (forex): 1
-  Finnhub (merger): 40
+  Finnhub (merger): 51
 
-Articles: 842 fetched, 664 after dedupe
+Articles: 887 fetched, 726 after dedupe
+Relevance filter: 595 kept, 131 dropped
+Brief 2026-09-30: 19 stories
 
-FAILED: ReadError: [Errno 104] Connection reset by peer
+TOP STORIES
+  [5] US     rates_macro: U.S. GDP Revised Upward for Second Quarter as Consumer Spending Remains Strong
+  [5] US     deals_ipos: Anthropic Prepares for Major IPO Amid Skyrocketing Valuation and Big Tech Reliance
+  [5] GLOBAL banking: Bank of England Warns of Systemic Financial Stability Risks from Surging AI Debt
+  [4] RUSSIA oil_energy: Russia Extends Diesel Export Ban as Global Supply Strains Persist
+  [4] GLOBAL rates_macro: Major European Economies Face Multiyear Inflation Highs Driven by Energy Pressures
+  [4] US     companies: Hormel Foods Acquires Brakebush Brothers for $1.06 Billion, Prompting Credit Downgrades
+UAE (3)
+  [4] oil_energy: UAE Fuel Prices Surge in October to Four-Year Highs Amid Global Energy Volatility
+  [3] deals_ipos: Singapore's Temasek Expands Gulf Footprint with Planned Abu Dhabi and Riyadh Offices
+  [3] deals_ipos: Aldar and Arada Form Dh15 Billion Partnership for Major Abu Dhabi Real Estate Projects
+US (3)
+  [4] companies: Ford CEO Warns Europe Lacks Time to Fend Off Chinese EV Makers, Unlike U.S.
+  [4] banking: Federal Reserve Finalizes Bank Stress Test Overhaul to Reduce Volatility
+  [3] banking: SEC Proposes Overhaul of Retail Fund Access and Fees for Private Markets
+CHINA (3)
+  [4] rates_macro: China Reports Rebounding Factory Activity Supported by AI-Linked Industrial Demand
+  [3] banking: Former CSRC Chairman Formally Prosecuted in Ongoing Financial Anti-Graft Drive
+  [3] banking: Beijing Tightens Online Financial Marketing Rules to Curb Unsanctioned Debt
+RUSSIA (2)
+  [3] rates_macro: Bank of Russia Submits 2027-2029 Monetary Policy Guidelines Emphasizing Tight Controls
+  [3] other: First High-Profile Sanctions Relief Granted to Russian Oligarchs Under EU Review
+GLOBAL (2)
+  [4] banking: Bank of England Highlights Elevated Financial Strains and AI Risks in Policy Record
+  [4] markets: Global Stock Markets Navigate Rocky Third Quarter Amid Bond Volatility and AI Retrenchment
