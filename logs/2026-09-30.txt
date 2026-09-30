@@ -1,0 +1,55 @@
+Daily Finance Brief run 2026-09-30 07:08 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 23
+  Khaleej Times (Business): 21
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 21
+  Zawya (Economy, via Google News): 14
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 1
+  US Federal Reserve (Speeches): 3
+  CNBC (Finance): 6
+  CNBC (Business): 6
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 2
+  WSJ (Markets): 31
+  WSJ (US Business): 32
+  WSJ (Economy): 11
+  New York Times (Business): 14
+  New York Times (Economy): 1
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 16
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 8
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 31
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 0
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 98
+  Reuters (Markets, via Google News): 2
+  Financial Times (Markets): 20
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 6
+  BBC (Business): 23
+  The Guardian (Business): 31
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 34
+  Finnhub (forex): 1
+  Finnhub (merger): 40
+
+Articles: 842 fetched, 664 after dedupe
+
+FAILED: ReadError: [Errno 104] Connection reset by peer
