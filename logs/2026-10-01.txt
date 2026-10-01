@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-10-01 07:08 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 22
+  Khaleej Times (Business): 28
+  Arabian Business (Business, via Google News): 4
+  Zawya (Business, via Google News): 14
+  Zawya (Economy, via Google News): 14
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 1
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 4
+  CNBC (Business): 8
+  CNBC (Economy): 0
+  CNBC (Earnings): 1
+  CNBC (Investing): 1
+  WSJ (Markets): 32
+  WSJ (US Business): 44
+  WSJ (Economy): 7
+  New York Times (Business): 20
+  New York Times (Economy): 2
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 34
+  Russia economy (search - Reuters, FT, Bloomberg): 99
+  Bank of Russia (Events & press releases, in Russian): 6
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 1
+  Bank of Japan (What's New): 4
+  Reuters (Business, via Google News): 97
+  Reuters (Markets, via Google News): 10
+  Financial Times (Markets): 22
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 15
+  BBC (Business): 16
+  The Guardian (Business): 21
+  The Guardian (Economics): 7
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 8
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 31
+  Finnhub (forex): 1
+  Finnhub (merger): 58
+
+Articles: 888 fetched, 707 after dedupe
+Relevance filter: 578 kept, 129 dropped
+Brief 2026-10-01: 19 stories
+
+TOP STORIES
+  [5] US     rates_macro: 10-Year U.S. Treasury Yields Hit 24-Year High as Global Bond Markets Suffer Record September Sell-Off
+  [5] US     earnings: Micron Reports Exploding AI-Fueled Revenue and Guidance, Citing Multi-Year Memory Chip Shortages
+  [5] US     deals_ipos: Paramount Wins Antitrust Approval for $81 Billion Warner Bros. Discovery Merger, Funding Deal with High-Yield Debt
+  [4] GLOBAL oil_energy: Oil Prices Hover Near $98 as Traders Weigh Middle East Supply Disruptions and Stalled US-Iran Peace Talks
+  [4] GLOBAL banking: Bank of England Warns of Systemic Risks from Unchecked AI Corporate Borrowing and Debt Build-Up
+  [4] CHINA  earnings: Japanese Auto Parts Maker Nidec Plunges Following Auditor's Disclaimer and $4 Billion Impairment
+  [4] CHINA  earnings: Supreme Court Scrutiny on Cancer Drug Markups Erases $2.6 Billion from Indian Hospital Stocks
+UAE (3)
+  [3] oil_energy: Dubai Fuel Prices Surge as Motorists Rush to Fill Tanks Ahead of October Hike
+  [3] deals_ipos: Singapore's Temasek Announces Strategic Expansion with New Offices in Abu Dhabi and Riyadh
+  [2] companies: Emirates Global Aluminium and Gulftainer Sign Agreement to Boost UAE East Coast Exports
+US (3)
+  [4] rates_macro: U.S. Second-Quarter GDP Revised Higher and Private Payrolls Expand as Federal Reserve Weighs Path
+  [3] banking: SEC Proposes Expanding Retail Investor Access to Private Markets with New Accredited Investor and Fee Rules
+  [3] other: Federal Reserve Internal Watchdog Clears Former Chair Jerome Powell of Misconduct in Building Renovation
+CHINA (3)
+  [4] rates_macro: South Korea's September Exports Surge 83.5% Past $120 Billion on Record Chip Demand
+  [3] markets: China's 'Warren Buffett' Increases Stake in Kweichow Moutai Amid Sector-Wide Baijiu Adjustment
+  [3] companies: DeepSeek and Huawei Partner to Develop Advanced Software Tools for Domestic AI Chips
+RUSSIA (3)
+  [3] other: EU Removes Sanctions from Russian Billionaires Alisher Usmanov and Mikhail Fridman
+  [3] rates_macro: Bank of Russia Submits 2027-2029 Monetary Policy Guidelines Emphasizing Financial Stability
+  [3] oil_energy: Russia Extends Diesel Export Ban Through October to Alleviate Domestic Supply Squeeze
+GLOBAL (0)
