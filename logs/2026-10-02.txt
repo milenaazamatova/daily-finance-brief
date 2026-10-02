@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-10-02 07:08 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 25
+  Khaleej Times (Business): 30
+  Arabian Business (Business, via Google News): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:arabianbusiness.com/business+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+  Zawya (Business, via Google News): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:zawya.com/en/business+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+  Zawya (Economy, via Google News): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:zawya.com/en/economy+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 3
+  CNBC (Finance): 1
+  CNBC (Business): 6
+  CNBC (Economy): 0
+  CNBC (Earnings): 3
+  CNBC (Investing): 1
+  WSJ (Markets): 34
+  WSJ (US Business): 39
+  WSJ (Economy): 7
+  New York Times (Business): 17
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 4
+  South China Morning Post (China Economy): 3
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=China+(economy+OR+yuan+OR+PBOC+OR+stocks)+(site:reuters.com+OR+site:ft.com+OR+site:bloomberg.com)+when:1d&hl=en-US&gl=US&ceid=US:en
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:intellinews.com+Russia+when:1d&hl=en-US&gl=US&ceid=US:en
+  Russia economy (search - Reuters, FT, Bloomberg): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Russia+(economy+OR+ruble+OR+%22central+bank%22+OR+oil)+(site:reuters.com+OR+site:ft.com+OR+site:bloomberg.com)+when:1d&hl=en-US&gl=US&ceid=US:en
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 1
+  Bank of Japan (What's New): 4
+  Reuters (Business, via Google News): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com/business+when:1d&hl=en-US&gl=US&ceid=US:en
+  Reuters (Markets, via Google News): FAILED HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:reuters.com/markets+when:1d&hl=en-US&gl=US&ceid=US:en
+  Financial Times (Markets): 13
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 9
+  BBC (Business): 22
+  The Guardian (Business): 18
+  The Guardian (Economics): 2
+  Economic Times (Markets): 46
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 34
+  Finnhub (forex): 1
+  Finnhub (merger): 45
+
+Articles: 455 fetched, 416 after dedupe
+Relevance filter: 305 kept, 111 dropped
+Brief 2026-10-02: 19 stories
+
+TOP STORIES
+  [5] GLOBAL rates_macro: Global Bond Yields Surge to Multi-Decade Highs as Debt Rout Escalates
+  [5] US     oil_energy: US Demands European Strategic Reserves Action Amid Rising Oil Prices and Diesel Shortages
+  [4] US     rates_macro: Federal Reserve Officials Signal Pause on Interest Rates for October Meeting
+  [4] GLOBAL rates_macro: Tokyo Core Inflation Accelerates to 2.7%, Reinforcing Bank of Japan Rate Hike Expectations
+  [4] US     earnings: Accenture Surpasses Fourth-Quarter Earnings Expectations on Surging Generative AI Demand
+  [4] US     earnings: Nike Slashes Revenue Outlook and Prepares Job Cuts Amid Sales Decline
+UAE (3)
+  [4] rates_macro: UAE Central Bank Raises 2027 GDP Growth Forecast to 10.4% as Sovereign Wealth Deployment Surges
+  [3] banking: DFSA Fines Vault Wealth Dh401,000 Over Unauthorised Financial Services in DIFC
+  [3] deals_ipos: Mubadala Advances Real Estate Partnerships and US Out-of-Home Media Buyout
+US (3)
+  [4] markets: US Mortgage Rates Jump to 7.28% in Largest Weekly Surge in Four Years
+  [3] deals_ipos: ON Semiconductor Restructures Synaptics Acquisition into $5.7 Billion All-Cash Deal
+  [3] deals_ipos: Mattel Shares Rally Following $6 Billion Takeover Approach by Authentic Brands
+CHINA (3)
+  [4] companies: Japanese Enterprises Exit China in Record Numbers Amid Geopolitical and Growth Headwinds
+  [3] markets: China Quantitative Hedge Funds Rapidly Expand Beyond 10 Billion Yuan Assets Threshold
+  [3] companies: Chinese Automakers Target Record 12 Million Vehicle Exports in 2026
+RUSSIA (1)
+  [4] banking: US Sanctions Russian Fintech Firm A7 over Alleged $7 Billion Illicit Payment Network
+GLOBAL (3)
+  [4] deals_ipos: India Equity Capital Markets Reach Record ₹94,000 Crore IPO Raising in First Half FY27
+  [4] deals_ipos: Sycamore Partners Nears $9 Billion Sale of UK Chemist Chain Boots to Weston Family
+  [3] banking: Reserve Bank of India Eases Bank Ownership Rules for Institutional Investors
