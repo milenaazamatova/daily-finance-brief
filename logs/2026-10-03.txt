@@ -1,0 +1,82 @@
+Daily Finance Brief run 2026-10-03 07:16 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 24
+  Khaleej Times (Business): 10
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 17
+  Zawya (Economy, via Google News): 17
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 1
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 4
+  CNBC (Business): 10
+  CNBC (Economy): 2
+  CNBC (Earnings): 2
+  CNBC (Investing): 1
+  WSJ (Markets): 27
+  WSJ (US Business): 36
+  WSJ (Economy): 6
+  New York Times (Business): 25
+  New York Times (Economy): 5
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 8
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 40
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 1
+  Bank of Japan (What's New): 2
+  Reuters (Business, via Google News): 90
+  Reuters (Markets, via Google News): 3
+  Financial Times (Markets): 23
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 10
+  BBC (Business): 14
+  The Guardian (Business): 22
+  The Guardian (Economics): 6
+  Economic Times (Markets): 38
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 26
+  Finnhub (forex): 1
+  Finnhub (merger): 35
+
+Articles: 801 fetched, 631 after dedupe
+Relevance filter: 452 kept, 179 dropped
+Brief 2026-10-03: 20 stories
+
+TOP STORIES
+  [5] US     rates_macro: US Hiring Slows Sharply in September, Tempering Fed Rate Hike Expectations
+  [5] GLOBAL markets: Global Bond Sell-off Drives 10-Year US Treasury Yields to Highest Level Since 2002
+  [5] GLOBAL oil_energy: G7 Nations to Release 100 Million Barrels of Oil and Diesel to Calm Soaring Energy Markets
+  [4] GLOBAL rates_macro: Eurozone Inflation Jumps to 3.8% in September, Pressuring ECB for Further Rate Hikes
+  [4] US     deals_ipos: Paramount and Warner Bros. Discovery Finalize $81 Billion Merger to Form Skydance
+  [4] US     deals_ipos: AI Startup Anthropic Plans Pre-Thanksgiving IPO Amid Regulatory Warnings
+  [4] RUSSIA banking: US Imposes Sanctions on Russian Fintech Firm A7 for Bypassing Economic Restrictions
+UAE (3)
+  [3] markets: UAE Stock Markets Decline Amid US-Iran Geopolitical Deadlock
+  [3] banking: Central Banks of UAE and Syria Agree to Enhance Financial Cooperation
+  [2] banking: FP Trading Opens Dubai Office After Securing CMA License
+US (3)
+  [3] earnings: Nike Plans Job Cuts and Lowers Sales Outlook as Turnaround Struggles
+  [3] earnings: Tesla Q3 EV Deliveries Fall 2% Amid Broader US Market Slowdown
+  [3] banking: US Community Banks Sue Regulators Over Crypto Firm Banking Access
+CHINA (3)
+  [4] oil_energy: China Halts Refined Fuel Exports to Protect Dwindling Domestic Inventories
+  [3] companies: US-Backed Mining Projects in Kazakhstan Challenge China's Tungsten Monopoly
+  [3] companies: China Targets Fourfold Increase in Intelligent Computing Capacity by 2030
+RUSSIA (2)
+  [3] rates_macro: Russia's Spending Plans Reveal Long-Term Commitment to Military Funding
+  [3] rates_macro: Wealthiest Russians Fund 1% of State Budget Through 'Voluntary' Donations
+GLOBAL (2)
+  [4] oil_energy: OPEC+ Delays Oil Production Capacity Review Due to Middle East Conflict
+  [3] markets: World Food Prices Near Four-Year High on Cereal and Sugar Surges
