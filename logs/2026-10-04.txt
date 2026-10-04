@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-10-04 08:35 Dubai
+
+Sources:
+  The National (Business): 2
+  Gulf News (Business): 8
+  Khaleej Times (Business): 2
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 3
+  CNBC (Economy): 0
+  CNBC (Earnings): 1
+  CNBC (Investing): 2
+  WSJ (Markets): 4
+  WSJ (US Business): 7
+  WSJ (Economy): 0
+  New York Times (Business): 7
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 3
+  South China Morning Post (China Economy): 2
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 9
+  Russia economy (search - Reuters, FT, Bloomberg): 33
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 12
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 1
+  Financial Times (Companies): 6
+  Financial Times (Global Economy): 3
+  BBC (Business): 5
+  The Guardian (Business): 19
+  The Guardian (Economics): 4
+  Economic Times (Markets): 16
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 2
+  Investing.com (Commodities): 5
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 10
+  Finnhub (forex): 0
+  Finnhub (merger): 1
+
+Articles: 295 fetched, 236 after dedupe
+Relevance filter: 110 kept, 126 dropped
+Brief 2026-10-04: 19 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: G7 Coordinates Emergency Oil Release Following US Export Threats
+  [5] GLOBAL rates_macro: Fed and ECB Minutes to Highlight Persistent Inflation Concerns
+  [5] CHINA  banking: China Shuts Down Over 670 Small Lenders to Strengthen Financial System
+  [5] GLOBAL oil_energy: Yemen's Houthis Target Saudi Aramco Facility in Riyadh
+  [4] US     rates_macro: Scope Ratings Warns US Debt Could Reach 160% of GDP Within a Decade
+  [4] CHINA  oil_energy: China Resumes Fuel Export Curbs, Tightening Global Energy Markets
+UAE (2)
+  [4] deals_ipos: UAE and US Advance $1.4 Trillion Technology and AI Partnership
+  [4] markets: UAE Warns UK of Potential Investment Halt Over Manchester City Verdict
+US (3)
+  [4] companies: US Government to Lend $4.2 Billion to Vistra for Nuclear Power Expansion
+  [4] rates_macro: Bessent Downplays Rising Treasury Yields and AI Bubble Concerns
+  [3] markets: Berkshire Hathaway Increases Stake in Homebuilder Lennar to 11.2%
+CHINA (2)
+  [3] companies: Wuhan Shifts to Completed-Home Sales in Major Housing Market Reform
+  [3] oil_energy: China Expands Sichuan Lithium Mine Resource Base by 70%
+RUSSIA (3)
+  [4] oil_energy: Ukraine Targets Russian Oil Refineries in Response to New Airstrike Doctrine
+  [4] rates_macro: Russia Plans Record Military Spending in 2027 Budget
+  [2] markets: Russian Stock Market Closes Lower with MOEX Index Unchanged
+GLOBAL (3)
+  [4] markets: Indian Stock Market Suffers Longest Weekly Downturn in 25 Years
+  [4] markets: Iranian Rial Plunges to Record Low Despite $2 Billion Central Bank Intervention
+  [3] banking: UK Authorities Urged to Intervene Over Polymarket Bets on Bank Failures
