@@ -1,0 +1,71 @@
+Daily Finance Brief run 2026-10-05 07:09 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 11
+  Khaleej Times (Business): 7
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 2
+  Zawya (Economy, via Google News): 1
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 2
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 2
+  WSJ (Markets): 9
+  WSJ (US Business): 17
+  WSJ (Economy): 1
+  New York Times (Business): 5
+  New York Times (Economy): 0
+  New York Times (DealBook): 0
+  South China Morning Post (Business): 7
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 1
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 26
+  Russia economy (search - Reuters, FT, Bloomberg): 74
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 3
+  Reuters (Business, via Google News): 17
+  Reuters (Markets, via Google News): 0
+  Financial Times (Markets): 6
+  Financial Times (Companies): 17
+  Financial Times (Global Economy): 4
+  BBC (Business): 4
+  The Guardian (Business): 22
+  The Guardian (Economics): 2
+  Economic Times (Markets): 40
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 0
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 2
+  Finnhub (general): 5
+  Finnhub (forex): 1
+  Finnhub (merger): 2
+
+Articles: 433 fetched, 321 after dedupe
+Relevance filter: 194 kept, 127 dropped
+Brief 2026-10-05: 9 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: OPEC+ Keeps November Oil Output Targets Steady Amid Middle East Supply Disruptions
+  [5] GLOBAL deals_ipos: Schneider Electric Nears $20 Billion Acquisition of Software Group PTC
+  [4] GLOBAL deals_ipos: Akzo Nobel to Sell Southeast Asia Decorative Paints Business to Nippon Paint for $1.35 Billion
+  [4] GLOBAL markets: Asian Equities Rally as Soft US Employment Data Tempers Federal Reserve Hike Bets
+UAE (1)
+  [3] rates_macro: GCC Remittances Hit Record $161 Billion in 2025 as Regional Economies Expand
+US (0)
+CHINA (1)
+  [4] banking: Schroders to Expand Hong Kong Operations Following Nuveen Acquisition
+RUSSIA (0)
+GLOBAL (3)
+  [4] markets: Indian Equities Face Extended Losses as Foreign Investors Pull Back Amid Rising Yields
+  [4] rates_macro: Economists Expect Reserve Bank of India to Hike Repo Rate to 5.50% Amid Inflation Pressures
+  [3] banking: South Korean President Orders Comprehensive Probe Following Financial Sector Data Leaks
