@@ -1,0 +1,80 @@
+Daily Finance Brief run 2026-10-06 07:07 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 39
+  Khaleej Times (Business): 21
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 23
+  Zawya (Economy, via Google News): 28
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 7
+  CNBC (Economy): 1
+  CNBC (Earnings): 1
+  CNBC (Investing): 1
+  WSJ (Markets): 32
+  WSJ (US Business): 32
+  WSJ (Economy): 2
+  New York Times (Business): 18
+  New York Times (Economy): 1
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 10
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 49
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 90
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 21
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 12
+  BBC (Business): 12
+  The Guardian (Business): 25
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 6
+  Finnhub (forex): 1
+  Finnhub (merger): 47
+
+Articles: 837 fetched, 658 after dedupe
+Relevance filter: 454 kept, 204 dropped
+Brief 2026-10-06: 18 stories
+
+TOP STORIES
+  [5] GLOBAL rates_macro: Global Bond Sell-Off Intensifies as French Fiscal Woes Drag Euro to 17-Month Low
+  [5] GLOBAL oil_energy: Oil Prices Hover Near $100 as Saudi Aramco Cuts Asia Prices Amid Thin Global Inventories
+  [5] GLOBAL deals_ipos: Schneider Electric Agrees to Acquire Software Maker PTC in Landmark $22.6 Billion Deal
+  [5] US     banking: Wall Street Banks Launch Record $60 Billion Financing Package for Broadcom and Anthropic
+  [4] GLOBAL banking: Intesa Sanpaolo Sweetens Takeover Bid for Monte dei Paschi to $35.3 Billion
+  [4] US     deals_ipos: KKR to Acquire Private-Capital Fund Administrator Gen II for $5.1 Billion
+  [4] GLOBAL deals_ipos: Jio Platforms Prepares to Launch India's Largest-Ever IPO Valued at $4 Billion
+UAE (3)
+  [4] rates_macro: UAE Non-Oil Economy Grows 4.8% as PMI Holds at 20-Month High
+  [4] oil_energy: ADNOC Signs 2 Million Tonne LNG Supply Deal with Thailand Starting in 2027
+  [3] banking: London Faces $160 Billion Wealth Exodus as Super-Rich Relocate to UAE
+US (2)
+  [3] rates_macro: Trump Signs Executive Order Allowing Road Use of Tax-Exempt Dyed Diesel
+  [3] deals_ipos: McKesson and CD&R in Advanced Talks for $5 Billion Option Care Health Buyout
+CHINA (2)
+  [4] companies: Huawei and Qualcomm Strike Multi-Year Patent Cross-Licensing Agreement
+  [3] rates_macro: Hong Kong Lawmakers Debate 5-Year Tax Incentive for Innovative Firms
+RUSSIA (2)
+  [4] banking: Putin Approves UniCredit Russia Unit Reorganisation and Sale
+  [3] rates_macro: Russian Services PMI Holds Growth as Manufacturing Contraction Eases
+GLOBAL (2)
+  [4] deals_ipos: Cenovus Energy Acquires Athabasca Oil for $5.7 Billion
+  [3] deals_ipos: BT Acquires Struggling Rival TalkTalk in £400 Million Rescue Deal
