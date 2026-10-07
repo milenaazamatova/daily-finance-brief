@@ -1,0 +1,84 @@
+Daily Finance Brief run 2026-10-07 07:08 Dubai
+
+Sources:
+  The National (Business): 11
+  Gulf News (Business): 27
+  Khaleej Times (Business): 35
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 20
+  Zawya (Economy, via Google News): 6
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 4
+  CNBC (Business): 3
+  CNBC (Economy): 2
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 25
+  WSJ (US Business): 41
+  WSJ (Economy): 6
+  New York Times (Business): 15
+  New York Times (Economy): 1
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 7
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 30
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 3
+  Bank of England (News): 1
+  Bank of Japan (What's New): 4
+  Reuters (Business, via Google News): 98
+  Reuters (Markets, via Google News): 2
+  Financial Times (Markets): 20
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 7
+  BBC (Business): 19
+  The Guardian (Business): 20
+  The Guardian (Economics): 0
+  Economic Times (Markets): 44
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 54
+  Finnhub (forex): 1
+  Finnhub (merger): 49
+
+Articles: 843 fetched, 658 after dedupe
+Relevance filter: 450 kept, 208 dropped
+Brief 2026-10-07: 22 stories
+
+TOP STORIES
+  [5] US     markets: S&P 500 and Nasdaq Reach Record Highs Powered by Tech and AI Rally
+  [5] US     deals_ipos: Paramount and Warner Bros. Discovery Complete Historic $110 Billion Merger
+  [5] GLOBAL oil_energy: Global Oil Prices Surge to $101 Amid Middle East Tensions and Supply Risks
+  [4] US     rates_macro: US Trade Deficit Widens to $105.6 Billion on Record Imports
+  [4] US     deals_ipos: SpaceX Seeks $40 Billion Debt Financing Led by Apollo for AI Infrastructure
+  [4] US     markets: US Treasury Sell-off Pushes Yields High, Raising Borrowing Costs for Corporate America
+  [4] GLOBAL rates_macro: France Faces Pre-Election Bond Sell-off Amid Deficit Concerns
+UAE (3)
+  [3] banking: UAE Bank Lending Climbs to Dh2.87 Trillion as Overseas Investments Surge
+  [3] rates_macro: UAE-EAEU Trade Deal Takes Effect with $33.6 Billion Bilateral Trade
+  [3] banking: UAE Financial Services Reshaped by Crypto Boom and AI-Driven Remittances
+US (3)
+  [3] oil_energy: Google and Constellation Energy Sign Landmark 3.6-GW Nuclear Power Deal
+  [3] deals_ipos: Uber to Acquire Catering Platform ezCater for $2.3 Billion
+  [3] deals_ipos: CD&R and McKesson Partner in $5.8 Billion Acquisition of Option Care Health
+CHINA (3)
+  [3] deals_ipos: Chinese AI Startup DeepSeek to Raise $12 Billion in Tencent-Backed Funding
+  [3] rates_macro: China's Tax Authorities Target Offshore Wealth of Wealthy Citizens
+  [3] oil_energy: PetroChina Taps Ultra-Deep Oil Reserves in Xinjiang to Secure Domestic Supply
+RUSSIA (3)
+  [3] banking: Bank of Russia Admits First Digital Depositories and Crypto Exchanges
+  [3] banking: Russians Open 220,000 Digital Rouble Accounts in First Month of Launch
+  [3] oil_energy: Russia's Oil Export Boom Undercut by Domestic Payouts and Diesel Sales Ban
+GLOBAL (3)
+  [4] rates_macro: Japan's Real Wages Rise for Eighth Month, Supporting Case for BOJ Rate Hikes
+  [3] deals_ipos: Informa Acquires Clarion Events for £2.24 Billion in Major Industry Consolidation
+  [3] oil_energy: Equinor Warns UK Risks Becoming 'Uninvestable' Over Blocked North Sea Projects
