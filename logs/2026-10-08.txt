@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-10-08 07:08 Dubai
+
+Sources:
+  The National (Business): 12
+  Gulf News (Business): 27
+  Khaleej Times (Business): 17
+  Arabian Business (Business, via Google News): 4
+  Zawya (Business, via Google News): 13
+  Zawya (Economy, via Google News): 13
+  US Federal Reserve (Monetary Policy): 1
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 5
+  CNBC (Economy): 4
+  CNBC (Earnings): 2
+  CNBC (Investing): 0
+  WSJ (Markets): 24
+  WSJ (US Business): 31
+  WSJ (Economy): 7
+  New York Times (Business): 17
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 9
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 29
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 5
+  Bank of Japan (What's New): 3
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 23
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 15
+  BBC (Business): 21
+  The Guardian (Business): 22
+  The Guardian (Economics): 8
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 32
+  Finnhub (forex): 1
+  Finnhub (merger): 44
+
+Articles: 826 fetched, 636 after dedupe
+Relevance filter: 483 kept, 153 dropped
+Brief 2026-10-08: 19 stories
+
+TOP STORIES
+  [5] GLOBAL rates_macro: Global Bond Yields Surge to Multi-Decade Highs as Inflation and Borrowing Worries Mount
+  [5] US     rates_macro: Fed Minutes Reveal Policymakers Divided Over Rate Hikes Amid Persistent Inflation Concerns
+  [5] GLOBAL rates_macro: Reserve Bank of India Surprises Markets with First Interest Rate Hike Since 2023
+  [5] GLOBAL earnings: Samsung Electronics Operating Profit Surges Ninefold to Record $80 Billion on AI Chip Demand
+  [5] GLOBAL oil_energy: Oil Prices Volatile as Strait of Hormuz Shipping Attacks Spark Supply Fears
+  [4] US     deals_ipos: Tech Giants Seek Blockbuster Debt Deals to Fund Massive AI Chip Acquisitions
+  [4] CHINA  rates_macro: China Rejects EU Request for Voluntary Hybrid Car Export Curbs as Trade Talks Begin
+UAE (3)
+  [4] banking: Abu Dhabi Islamic Bank Approves Dh1.75 Billion Rights Issue to Fund Vision 2035
+  [4] markets: Dubai Home Sales Fall in Third Quarter as Supply Surge Looms
+  [4] deals_ipos: Mubadala to Maintain $39 Billion Annual Investment with Focus on Asia
+US (2)
+  [4] deals_ipos: Skydance Completes Paramount and Warner Merger, Restructures Debt
+  [3] banking: Wells Fargo Faces Federal Probe Over Race-Based Lending Commitments
+CHINA (2)
+  [4] markets: China's 10-Year Bond Yield Hits 1.7% as It Bucks Global Bond Rout
+  [3] companies: Webull Shares Plunge 18% Following US House Panel Report on Chinese Government Ties
+RUSSIA (2)
+  [4] banking: US Treasury Designates Sanctions-Busting Payments Operator A7 as Criminal Organization
+  [3] deals_ipos: Rosatom Takes Full Control of Delo to Create Russia's Largest Logistics Group
+GLOBAL (3)
+  [4] deals_ipos: Canadian Billionaire Weston Family Acquires UK Pharmacy Chain Boots in $8.9 Billion Deal
+  [4] banking: African Union to Launch Continent's First Credit Rating Agency to Challenge 'Big Three'
+  [4] banking: UK Court of Appeal Quashes Convictions of Five Former Barclays Traders in Rate-Rigging Case
