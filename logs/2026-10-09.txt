@@ -1,0 +1,82 @@
+Daily Finance Brief run 2026-10-09 13:55 Dubai
+
+Sources:
+  The National (Business): 7
+  Gulf News (Business): 26
+  Khaleej Times (Business): 21
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 17
+  Zawya (Economy, via Google News): 16
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 4
+  CNBC (Economy): 1
+  CNBC (Earnings): 2
+  CNBC (Investing): 0
+  WSJ (Markets): 27
+  WSJ (US Business): 37
+  WSJ (Economy): 4
+  New York Times (Business): 16
+  New York Times (Economy): 2
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 12
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 32
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 3
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 3
+  Reuters (Business, via Google News): 96
+  Reuters (Markets, via Google News): 8
+  Financial Times (Markets): 24
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 12
+  BBC (Business): 22
+  The Guardian (Business): 12
+  The Guardian (Economics): 2
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 10
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 44
+  Finnhub (forex): 1
+  Finnhub (merger): 45
+
+Articles: 838 fetched, 655 after dedupe
+Relevance filter: 496 kept, 159 dropped
+Brief 2026-10-09: 20 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Trump Rules Out Pre-Election Iran Strike, Easing Oil and Market Fears
+  [5] US     rates_macro: Pimco Warns US 10-Year Treasury Yields Could Hit 6% on Debt and Inflation Concerns
+  [5] US     companies: OpenAI Revenue Shortfall Raises Doubts Over AI Valuation Boom
+  [5] UAE    deals_ipos: SoftBank Seeks $100 Billion from Gulf Investors for AI Expansion
+  [4] US     deals_ipos: SpaceX Spectrum Deal Rattles US and European Telecom Stocks
+  [4] GLOBAL deals_ipos: Nvidia-Backed Firmus Grid Scraps Blockbuster $5 Billion IPO
+  [4] GLOBAL rates_macro: French Debt Concerns Trigger Bond Sell-off and Eurozone Pressure
+UAE (3)
+  [3] banking: ADGM Fines Audit Firm $100,000 Over Systemic Failures
+  [3] rates_macro: UAE and Thailand Conclude Trade Deal Talks as Bilateral Trade Surges
+  [3] companies: DP World Secures 15-Year Concession to Operate Bangladesh Container Terminal
+US (3)
+  [4] banking: American Express Fined $350 Million for Systemic AML Failures
+  [3] earnings: PepsiCo Cuts Forecast Amid Slow North American Recovery
+  [3] deals_ipos: Devon Energy Sells Eagle Ford Assets to Crescent Energy for $4.2 Billion
+CHINA (3)
+  [4] rates_macro: China Ramps Up Fiscal Push to Meet GDP Target Amid Structural Concerns
+  [4] rates_macro: PBOC Defends Yuan Policy Ahead of EU Trade Talks
+  [3] companies: China State Funds Pour Billions into Hua Hong Grace to Boost Chip Self-Reliance
+RUSSIA (2)
+  [4] rates_macro: UK and EU Impose New Round of Russia Sanctions Targeting Finance and Oil
+  [3] deals_ipos: Carlyle Drops Out of Race for Lukoil's International Assets
+GLOBAL (2)
+  [4] rates_macro: WTO Upgrades Global Trade Growth Forecast on AI Investment Boom
+  [4] banking: FSB Warns Most Countries Unprepared for Bank Failures
