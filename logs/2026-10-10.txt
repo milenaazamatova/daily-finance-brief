@@ -1,0 +1,78 @@
+Daily Finance Brief run 2026-10-10 13:19 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 28
+  Khaleej Times (Business): 7
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 3
+  Zawya (Economy, via Google News): 9
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 2
+  CNBC (Economy): 2
+  CNBC (Earnings): 2
+  CNBC (Investing): 2
+  WSJ (Markets): 25
+  WSJ (US Business): 26
+  WSJ (Economy): 5
+  New York Times (Business): 13
+  New York Times (Economy): 2
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 6
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 12
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 72
+  Reuters (Markets, via Google News): 2
+  Financial Times (Markets): 14
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 8
+  BBC (Business): 13
+  The Guardian (Business): 14
+  The Guardian (Economics): 4
+  Economic Times (Markets): 47
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 4
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 4
+  Finnhub (general): 30
+  Finnhub (forex): 1
+  Finnhub (merger): 18
+
+Articles: 650 fetched, 501 after dedupe
+Relevance filter: 358 kept, 143 dropped
+Brief 2026-10-10: 16 stories
+
+TOP STORIES
+  [5] RUSSIA oil_energy: Trump Strikes Russian Diesel Supply Deal With Putin to Ease US and Global Fuel Pressures
+  [5] US     companies: SpaceX Spectrum Acquisition Triggers $60 Billion Rout Across US and European Telecom Equities
+  [5] US     rates_macro: White House Panel Launched to Probe Fed Governor Cook, Stoking Central Bank Independence Concerns
+  [4] CHINA  rates_macro: China and European Union Reach Deal to Cut Hybrid Vehicle Shipments by Half, Averting Trade War
+  [4] GLOBAL rates_macro: French Budget Crisis Widens European Bond Spreads as Euro Declines for Fifth Consecutive Week
+  [4] US     oil_energy: Hurricane Isaias Shuts 75% of US Gulf Oil Production as Airlines Issue Fuel Profit Warnings
+UAE (2)
+  [4] rates_macro: UAE Economy Expands 0.4% to Dh961.9 Billion in H1 2026 Led by Non-Oil Sector Resilience
+  [3] banking: Dubai Cashless Strategy Yields Dh8 Billion Economic Gain Ahead of 2026 Target
+US (2)
+  [4] earnings: OpenAI $20 Billion Revenue Shortfall Stirs Tech Valuation Unease Across Financial Markets
+  [3] rates_macro: US Consumer Sentiment Slides to 46.3 as Rising Household Debt Burdens Flash Recession Warnings
+CHINA (2)
+  [3] rates_macro: China Generates 10.52 Million Urban Jobs in Nine Months and Deploys AI Employment Measures
+  [3] rates_macro: China Golden Week Discretionary Spending and Hotel Tariffs Lag Travel Volume Recovery
+RUSSIA (2)
+  [3] rates_macro: Bank of Russia Cites Moderately Tight Monetary Stance as Lending Conditions Adjust to High Rates
+  [2] companies: Rosatom Wins International Arbitration Ruling Regarding Terminated Finnish Nuclear Plant
+GLOBAL (2)
+  [4] rates_macro: Reserve Bank of India Tightens Liquidity and Limits FX Speculation to Defend Weakening Rupee
+  [3] deals_ipos: Airtel Money Raises £529 Million in Milestone London IPO at $7 Billion Valuation
