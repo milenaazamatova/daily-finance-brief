@@ -1,0 +1,77 @@
+Daily Finance Brief run 2026-10-11 13:36 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 12
+  Khaleej Times (Business): 8
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 1
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 0
+  WSJ (Markets): 3
+  WSJ (US Business): 7
+  WSJ (Economy): 2
+  New York Times (Business): 6
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 3
+  South China Morning Post (China Economy): 2
+  South China Morning Post (Companies): 1
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 14
+  Russia economy (search - Reuters, FT, Bloomberg): 67
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 13
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 7
+  Financial Times (Companies): 13
+  Financial Times (Global Economy): 0
+  BBC (Business): 3
+  The Guardian (Business): 14
+  The Guardian (Economics): 1
+  Economic Times (Markets): 21
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 1
+  Investing.com (Commodities): 3
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 9
+  Finnhub (forex): 0
+  Finnhub (merger): 2
+
+Articles: 343 fetched, 253 after dedupe
+Relevance filter: 143 kept, 110 dropped
+Brief 2026-10-11: 15 stories
+
+TOP STORIES
+  [5] US     rates_macro: Economists Project US Bond Yields to Remain Elevated on Persistent Inflation and Debt
+  [5] RUSSIA oil_energy: Russia Lifts Diesel Export Restrictions Following US Bilateral Fuel Agreement
+  [4] US     deals_ipos: Nvidia Explores Acquisition of Open-Source Model Developer Reflection AI
+  [4] GLOBAL markets: Debt Investors Pull Back from AI Infrastructure Issuance Amid Capital Expenditure Fatigue
+  [4] GLOBAL markets: Persistent Foreign Capital Outflows Drag Rupee and Indian Equities as RBI Intervenes
+  [4] GLOBAL markets: Saudi Arabian Equities Drop Following Drone Strike on Riyadh Airport
+UAE (2)
+  [3] rates_macro: UAE Non-Oil Sector Projected by Global Institutions to Mount Sharp 2027 Expansion
+  [3] deals_ipos: Morgan Stanley Outlines Strong Recovery Outlook for UAE IPOs and Credit Markets
+US (2)
+  [3] companies: US Homebuilders Offer Steep Incentives as Motivated Home Sellers Cut Prices
+  [3] banking: Growth in Fixed Indexed Annuities Supplies Fresh Capital to US Private Credit Funds
+CHINA (2)
+  [3] markets: Chinese Commercial Land Lease Renewals in Top Cities Reassure Property Investors
+  [3] rates_macro: China Pledges Additional Economic Policy Tools as Heavy Debt Restricts Stimulus Scale
+RUSSIA (1)
+  [3] rates_macro: Russian Business Leaders Warn Economy Has Not Reached Bottom Amid War Disruptions
+GLOBAL (2)
+  [3] deals_ipos: Investors Secure Debt Financing Package for Proposed Take-Private of Telecom Italia Unit INWIT
+  [3] deals_ipos: KKR Faces Mounting Financial Headwinds in €22bn Italian Fiber Network Buyout
