@@ -1,0 +1,79 @@
+Daily Finance Brief run 2026-10-12 14:07 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 15
+  Khaleej Times (Business): 15
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 10
+  Zawya (Economy, via Google News): 12
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 1
+  CNBC (Economy): 2
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 13
+  WSJ (US Business): 18
+  WSJ (Economy): 2
+  New York Times (Business): 2
+  New York Times (Economy): 1
+  New York Times (DealBook): 0
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 9
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 19
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 44
+  Reuters (Markets, via Google News): 2
+  Financial Times (Markets): 12
+  Financial Times (Companies): 17
+  Financial Times (Global Economy): 11
+  BBC (Business): 12
+  The Guardian (Business): 15
+  The Guardian (Economics): 5
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 4
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 19
+  Finnhub (forex): 1
+  Finnhub (merger): 2
+
+Articles: 572 fetched, 417 after dedupe
+Relevance filter: 311 kept, 106 dropped
+Brief 2026-10-12: 17 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Oil Prices Slip and European Shares Rise Following Proposed Russia-Ukraine Energy Truce
+  [5] CHINA  deals_ipos: EU and China Reach Landmark Agreement Limiting Hybrid Car Imports to Ease Trade Tensions
+  [4] US     markets: SpaceX Starlink Spectrum Acquisition Triggers Sharp Sell-off in Global Telecom Stocks
+  [4] GLOBAL rates_macro: Reserve Bank of India Unveils Currency-Defense Measures, Pushing 10-Year Bond Yields to Three-Year Highs
+  [4] GLOBAL rates_macro: IMF Warns of AI Labor Market Disruption as Global Growth Holds Near 3%
+  [4] GLOBAL rates_macro: UK Government Faces Budget Credibility Test Over Unfunded £35 Billion Spending Pressures
+UAE (3)
+  [4] rates_macro: UAE Approves 2027-2029 Federal Budget with Dh292.5 Billion in Spending
+  [4] oil_energy: Abu Dhabi Targets Dh250 Billion Energy Investment to Power AI Infrastructure Growth
+  [3] banking: Julius Baer Appoints New Co-Heads for Middle East and Africa as Regional Wealth Expands
+US (2)
+  [4] earnings: Volkswagen Vehicle Deliveries Plunge Due to Intensifying Sales Weakness in China
+  [4] deals_ipos: Amazon in Advanced Talks to Acquire AI Startup Decart for $7 Billion
+CHINA (3)
+  [4] banking: Beijing Police Detain Yiren Digital Chairman Following Massive Peer-to-Peer Product Defaults
+  [3] markets: Goldman Sachs President Urges Major Market Reforms to Elevate Shanghai as Global Financial Hub
+  [3] banking: Former HSBC Executive Launches AI-Powered Wealth Management Platform Targeting Billion-Dollar Valuation
+RUSSIA (3)
+  [4] rates_macro: EU Imposes New Sanctions Listing Nearly 1,600 Targets Amid Escalating Energy Infrastructure Disputes
+  [3] rates_macro: Russian Central Bank Official Signals Room for Monetary Easing Under New Fiscal Budget
+  [3] banking: Investigative Reports Link Offshore Financial Aides and Major Accounting Firms to Asset Concealment
+GLOBAL (0)
