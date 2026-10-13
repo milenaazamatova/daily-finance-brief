@@ -1,0 +1,73 @@
+Daily Finance Brief run 2026-10-13 14:00 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 20
+  Khaleej Times (Business): 20
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 24
+  Zawya (Economy, via Google News): 17
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 5
+  CNBC (Business): 5
+  CNBC (Economy): 6
+  CNBC (Earnings): 1
+  CNBC (Investing): 3
+  WSJ (Markets): 25
+  WSJ (US Business): 37
+  WSJ (Economy): 4
+  New York Times (Business): 15
+  New York Times (Economy): 2
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 11
+  South China Morning Post (China Economy): 9
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 22
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 4
+  Reuters (Business, via Google News): 96
+  Reuters (Markets, via Google News): 3
+  Financial Times (Markets): 15
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 14
+  BBC (Business): 14
+  The Guardian (Business): 17
+  The Guardian (Economics): 7
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 4
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 7
+  Finnhub (general): 38
+  Finnhub (forex): 1
+  Finnhub (merger): 9
+
+Articles: 777 fetched, 610 after dedupe
+Relevance filter: 485 kept, 125 dropped
+Brief 2026-10-13: 11 stories
+
+TOP STORIES
+  [5] GLOBAL markets: Global AI Stocks Plunge as Broadcom CEO Warns of Casino-Like Speculation and Chinese Rivals Advance
+  [5] GLOBAL rates_macro: IMF Warns Global Economy Nears Limits of Resilience Amid Rising Government Debt and Geopolitical Risks
+  [4] GLOBAL oil_energy: Trump’s Russia Diesel Deal and Middle East Supply Risks Leave Energy Markets Volatile
+  [4] GLOBAL other: Robert E. Hall and Michael Woodford Win 2026 Nobel Prize in Economics for Crisis-Management Models
+  [4] GLOBAL deals_ipos: EU and China Strike Surprise Trade Deal Limiting Chinese Hybrid Vehicle Imports
+UAE (1)
+  [4] oil_energy: IMF Lowers Growth Forecasts for Gulf Economies Amid Prolonged Hormuz Disruptions
+US (1)
+  [4] rates_macro: US Treasury Yields Ease Below Multi-Year Highs Ahead of Crucial Inflation Print
+CHINA (3)
+  [4] banking: Visa Receives People's Bank of China Approval to Prepare Local Clearing Business
+  [3] rates_macro: PBOC Boosts Gold Reserves by Most in Three Years Amid De-Dollarization Shift
+  [3] rates_macro: China Trims 2026 GDP Growth Forecast as IMF Cautions on Export Reliance
+RUSSIA (0)
+GLOBAL (1)
+  [4] rates_macro: IMF Upgrades UK Growth Forecast While Policymakers Debate Fiscal Discipline and Rate Restrictiveness
