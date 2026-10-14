@@ -1,0 +1,78 @@
+Daily Finance Brief run 2026-10-14 12:19 Dubai
+
+Sources:
+  The National (Business): 11
+  Gulf News (Business): 22
+  Khaleej Times (Business): 18
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 26
+  Zawya (Economy, via Google News): 15
+  US Federal Reserve (Monetary Policy): 1
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 4
+  CNBC (Business): 4
+  CNBC (Economy): 4
+  CNBC (Earnings): 5
+  CNBC (Investing): 1
+  WSJ (Markets): 27
+  WSJ (US Business): 43
+  WSJ (Economy): 10
+  New York Times (Business): 20
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 12
+  South China Morning Post (China Economy): 7
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 98
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 26
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 1
+  Bank of Japan (What's New): 3
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 6
+  Financial Times (Markets): 18
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 10
+  BBC (Business): 17
+  The Guardian (Business): 24
+  The Guardian (Economics): 5
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 44
+  Finnhub (forex): 1
+  Finnhub (merger): 20
+
+Articles: 833 fetched, 687 after dedupe
+Relevance filter: 524 kept, 163 dropped
+Brief 2026-10-14: 16 stories
+
+TOP STORIES
+  [5] US     banking: Bank of America Fined $1.2 Billion by US Regulators Over Money-Laundering and Sanctions Lapses
+  [5] GLOBAL earnings: ASML Raises Full-Year Guidance for Third Time as Artificial Intelligence Demand Outpaces Supply
+  [5] CHINA  rates_macro: China’s September Exports Surge 36% as Trade Surplus Nears Record $1 Trillion Track
+  [5] UAE    oil_energy: Saudi Aramco Headquarters Attacked in Dhahran as Middle East Conflict Elevates Oil Supply Risks
+  [4] GLOBAL rates_macro: IMF Warns Global Financial Stability at Risk from Surging Sovereign Debt and AI Valuation Bubbles
+  [4] US     earnings: JPMorgan and Goldman Sachs Kick Off Earnings Season With Strong Profits Amid Cautious Wall Street Sentiment
+UAE (2)
+  [3] banking: BR Shetty Files $15 Billion Lawsuit Against Bank of Baroda Over Alleged UAE Fraud
+  [3] deals_ipos: Aegis Logistics Acquires 90% Stake in Tristar Holdings for $809 Million to Expand Energy Logistics
+US (2)
+  [4] earnings: Johnson & Johnson Shares Slide 6.8% on Weaker MedTech Performance and Litigation Charges
+  [3] rates_macro: US Existing Home Sales Rise in September as Buyers Adapt to Stabilizing Mortgage Rates
+CHINA (2)
+  [4] companies: China’s EV Industry Faces Dual Headwinds from EU Import Quotas and VAT Rebate Cuts
+  [4] markets: Global Semiconductor Stocks Tumble Following Reports of Chinese Memory Chip Breakthrough
+RUSSIA (2)
+  [3] rates_macro: France Must Tackle Sovereign Debt Through Domestic Fiscal Consolidation, Says ECB President Lagarde
+  [3] companies: Ukraine Drone Strikes Target Yandex Data Centers Amid Escalating Digital Infrastructure Conflict
+GLOBAL (2)
+  [4] rates_macro: Singapore Central Bank Surprises Markets with Policy Pause as Q3 GDP Beats Forecasts
+  [3] rates_macro: IMF Urges Global Action on Developing Nation Debt Traps and Rising Sovereign Borrowing Costs
