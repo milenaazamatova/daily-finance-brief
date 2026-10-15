@@ -1,0 +1,74 @@
+Daily Finance Brief run 2026-10-15 11:56 Dubai
+
+Sources:
+  The National (Business): 15
+  Gulf News (Business): 20
+  Khaleej Times (Business): 29
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 21
+  Zawya (Economy, via Google News): 13
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 3
+  CNBC (Business): 6
+  CNBC (Economy): 4
+  CNBC (Earnings): 6
+  CNBC (Investing): 2
+  WSJ (Markets): 37
+  WSJ (US Business): 46
+  WSJ (Economy): 9
+  New York Times (Business): 24
+  New York Times (Economy): 6
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 19
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 4
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 4
+  Reuters (Business, via Google News): 97
+  Reuters (Markets, via Google News): 5
+  Financial Times (Markets): 19
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 14
+  BBC (Business): 19
+  The Guardian (Business): 23
+  The Guardian (Economics): 12
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 31
+  Finnhub (forex): 1
+  Finnhub (merger): 8
+
+Articles: 848 fetched, 679 after dedupe
+Relevance filter: 551 kept, 128 dropped
+Brief 2026-10-15: 12 stories
+
+TOP STORIES
+  [5] US     rates_macro: US Inflation Surges to 3.7% in September on Rising Energy Costs, Sparking Fed Rate-Hike Fears
+  [5] GLOBAL markets: Global Stock Markets Plunge as AI Sector Rout and Stiffening Inflation Dampen Investor Sentiment
+  [4] CHINA  earnings: TSMC Posts Record Quarterly Profits Driven by Relentless Global Demand for AI Semiconductors
+  [4] US     banking: Bank of America Fined $1.2 Billion by US Regulators Over Widespread Money-Laundering Oversight Failures
+  [4] CHINA  deals_ipos: Reliance Jio Sets Price Band for Landmark $3.2 Billion Initial Public Offering at $108 Billion Valuation
+  [4] GLOBAL oil_energy: TotalEnergies Flags Exceptional Downstream Refining Margins Amid Ongoing Middle East Conflict
+UAE (3)
+  [4] deals_ipos: Abu Dhabi's Aldar Properties Enters Sharjah Market via Dh1.1 Billion Acquisition Deal with Arada
+  [3] banking: Mashreq Bank Targets Asian Capital with UAE's First Chinese Yuan Dim Sum Bond Issuance
+  [3] rates_macro: UAE Non-Oil Economy Drives Robust Expansion as Central Bank Projects Strong Growth
+US (0)
+CHINA (0)
+RUSSIA (2)
+  [4] oil_energy: Ukraine Resumes Targeted Drone Strikes on Russian Oil Refineries, Escalating Energy Supply Risks
+  [2] rates_macro: Russian Central Bank Releases Regional Economic Report Highlighting Moderate Consumer Activity
+GLOBAL (1)
+  [3] rates_macro: UK Economy Posts Surprise Growth in August, Boosting Chancellor Ahead of Budget
