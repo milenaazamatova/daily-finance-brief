@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-10-16 11:49 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 15
+  Khaleej Times (Business): 17
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 21
+  Zawya (Economy, via Google News): 15
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 3
+  CNBC (Business): 6
+  CNBC (Economy): 7
+  CNBC (Earnings): 2
+  CNBC (Investing): 2
+  WSJ (Markets): 28
+  WSJ (US Business): 41
+  WSJ (Economy): 9
+  New York Times (Business): 18
+  New York Times (Economy): 3
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 10
+  South China Morning Post (China Economy): 7
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 18
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 2
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 7
+  Financial Times (Markets): 19
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 14
+  BBC (Business): 11
+  The Guardian (Business): 28
+  The Guardian (Economics): 11
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 42
+  Finnhub (forex): 1
+  Finnhub (merger): 13
+
+Articles: 805 fetched, 642 after dedupe
+Relevance filter: 527 kept, 115 dropped
+Brief 2026-10-16: 19 stories
+
+TOP STORIES
+  [5] US     rates_macro: US Wholesale Inflation Hits Four-Year High as Fed Chair Warsh Vows Price Stability
+  [5] US     markets: CoreWeave Debt Stress Triggers Sell-Off in Leveraged AI Infrastructure Financing
+  [5] GLOBAL markets: Indonesian Equities Plunge 11% After MSCI Warns of Standalone Market Downgrade
+  [5] GLOBAL oil_energy: IEA Accelerates 400M-Barrel Emergency Oil Stockpile Release Amid Hormuz Shipping Disruption
+  [4] GLOBAL banking: UK Banking Shares Slide as Chancellor Healey Prepares Budget Tax Raid
+  [4] GLOBAL banking: UniCredit Secures European Central Bank Approval for Commerzbank Acquisition
+UAE (2)
+  [3] companies: Emaar Properties Expands with $17B Syria Commitment and Upholds Strict Pricing Discipline
+  [3] deals_ipos: Aldar Enters Sharjah in Dh1.1B Deal as Dubai Ready-Home Sales Rise 16%
+US (3)
+  [4] deals_ipos: Proofpoint to Acquire Cybersecurity Leader Varonis Systems in $6.3B All-Cash Transaction
+  [3] deals_ipos: CCC Intelligent Solutions Taken Private in $6.1B Deal Led by GTCR and Elliott
+  [3] rates_macro: US 30-Year Mortgage Rates Exceed 7.4%, Straining National Housing Affordability
+CHINA (3)
+  [4] rates_macro: China's Wealthy Scramble to Unwind Offshore Trusts Ahead of 20% Tax Deadline
+  [3] rates_macro: PBOC Touts Yuan Assets Internationally as Currency Strengths on Export Resilience
+  [3] earnings: PetroChina on Track for Record Trading Profit Amid Geopolitical Energy Volatility
+RUSSIA (2)
+  [4] oil_energy: Ukraine Resumes Drone Strikes on Russian Refineries as Moscow Targets $12B October Energy Take
+  [3] rates_macro: US Floats Unfreezing Russian Assets and Easing Tanker Sanctions to Ease Fuel Crises
+GLOBAL (3)
+  [4] deals_ipos: Reliance Jio Prepares ₹30,213 Crore IPO as Meta and Google Retain Landmark Stakes
+  [4] rates_macro: Bank of Japan Flags Inflation Overshoot Risk, Paving Path for December Rate Hike
+  [3] earnings: Schneider Electric Upgrades 2026 Financial Outlook on Doubled AI Data Center Demand
