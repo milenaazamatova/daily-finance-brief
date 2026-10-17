@@ -1,0 +1,78 @@
+Daily Finance Brief run 2026-10-17 11:26 Dubai
+
+Sources:
+  The National (Business): 7
+  Gulf News (Business): 9
+  Khaleej Times (Business): 4
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 5
+  Zawya (Economy, via Google News): 10
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 3
+  CNBC (Economy): 3
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 24
+  WSJ (US Business): 29
+  WSJ (Economy): 8
+  New York Times (Business): 14
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 5
+  South China Morning Post (China Economy): 7
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 14
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 95
+  Reuters (Markets, via Google News): 6
+  Financial Times (Markets): 14
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 7
+  BBC (Business): 5
+  The Guardian (Business): 22
+  The Guardian (Economics): 5
+  Economic Times (Markets): 48
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 9
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 8
+  Finnhub (general): 28
+  Finnhub (forex): 1
+  Finnhub (merger): 8
+
+Articles: 663 fetched, 519 after dedupe
+Relevance filter: 339 kept, 180 dropped
+Brief 2026-10-17: 16 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Brent Crude Tops $110 per Barrel Amid Middle East Escalation and Refinery Attacks
+  [5] US     markets: Wall Street Plunges as Heavy Debt Burdens and Profit Doubts Trigger AI Sell-Off
+  [5] US     rates_macro: US Fiscal Deficit Reaches $1.99 Trillion as Elevated Yields Inflate Debt Servicing Costs
+  [4] CHINA  markets: China Cuts US Treasury Holdings to 18-Year Low of $590.7 Billion Amid Fiscal Concerns
+  [4] GLOBAL rates_macro: Central Bankers Push Back Against October Rate Hike Expectations in Bangkok
+  [4] GLOBAL markets: Indonesian Stocks and Rupiah Tumble Following Threat of MSCI Index Exclusion
+UAE (2)
+  [3] banking: RBI Grants Regulatory Approval for Emirates NBD Branch Merger with RBL Bank
+  [2] banking: HSBC Names Sami Abouzahr to Lead International Wealth and Premier Banking in the Middle East
+US (2)
+  [3] deals_ipos: SoftBank Explores $18 Billion Acquisition of US Security Provider Allied Universal
+  [3] markets: Charles Schwab Margin Lending Climbs to $190 Billion on Tax-Strategy Borrowing
+CHINA (2)
+  [4] other: China Proposes New Export Restrictions on 14 Strategic Technologies Across AI, Biotech, and Solar
+  [3] banking: PBOC Outlines Commitments to Expand Foreign Access and Advance Offshore Yuan
+RUSSIA (2)
+  [4] oil_energy: Trump Waives Sanctions and Tariffs on Russian Energy Under Graham Law Ahead of Midterms
+  [3] oil_energy: Ukrainian Drone Strike Shuts Down Primary Processing Unit at Russia's Ryazan Refinery
+GLOBAL (2)
+  [3] deals_ipos: Jio Platforms Targets $3.2 Billion IPO with Grey Market Premiums Signaling 20% Listing Gain
+  [3] banking: UK Banking Sector Braces for Budget Tax Raid Despite IMF Warning on Financial Stability
