@@ -1,0 +1,79 @@
+Daily Finance Brief run 2026-10-18 11:42 Dubai
+
+Sources:
+  The National (Business): 5
+  Gulf News (Business): 11
+  Khaleej Times (Business): 8
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 0
+  CNBC (Economy): 0
+  CNBC (Earnings): 1
+  CNBC (Investing): 0
+  WSJ (Markets): 5
+  WSJ (US Business): 7
+  WSJ (Economy): 1
+  New York Times (Business): 8
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 4
+  South China Morning Post (China Economy): 3
+  South China Morning Post (Companies): 1
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 12
+  Russia economy (search - Reuters, FT, Bloomberg): 98
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 11
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 5
+  Financial Times (Companies): 15
+  Financial Times (Global Economy): 3
+  BBC (Business): 4
+  The Guardian (Business): 18
+  The Guardian (Economics): 3
+  Economic Times (Markets): 27
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 1
+  Investing.com (Commodities): 3
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 7
+  Finnhub (forex): 1
+  Finnhub (merger): 1
+
+Articles: 390 fetched, 257 after dedupe
+Relevance filter: 129 kept, 128 dropped
+Brief 2026-10-18: 17 stories
+
+TOP STORIES
+  [5] RUSSIA oil_energy: US Administration Waives Key Russian Energy Sanctions to Cool Domestic Fuel Prices
+  [5] US     markets: Rising Borrowing Costs and Credit Strains Pressure Global AI Infrastructure Capex
+  [5] US     rates_macro: US Annual Debt Servicing Hits $1 Trillion as Corporate Tax Receipts Fall $70 Billion
+  [4] GLOBAL oil_energy: Tanker Incidents in Strait of Hormuz and Saudi Waters Escalate Oil Shipping Risks
+  [4] GLOBAL markets: Foreign Portfolio Outflows Accelerate as Emerging Market Equities Lose ₹52,100 Crore
+  [4] GLOBAL markets: Global Commercial Real Estate Bifurcates as Flight to Quality Depresses Secondary Offices
+UAE (3)
+  [4] rates_macro: Dubai's Economy Reaches Dh473 Billion in H1 2026 Driven by Non-Oil Sector Expansion
+  [3] banking: UAE and Singapore Central Banks Advance Cross-Border Payments Using CBDCs and QR Systems
+  [3] banking: UAE Tops Global Ranking as Premier Emerging Family Office Hub Amid Wealth Influx
+US (2)
+  [4] deals_ipos: SoftBank Pursues $18 Billion Acquisition of Security Services Provider Allied Universal
+  [3] deals_ipos: US State Attorneys General Step Up M&A Antitrust Scrutiny Amid Shifting Federal Policy
+CHINA (2)
+  [4] companies: France and Germany Unveil Tighter 'Made in Europe' Vehicle Rules Pressuring Chinese Automakers
+  [3] other: China Proposes Export Restrictions on Advanced Photovoltaic Manufacturing Technology
+RUSSIA (2)
+  [3] rates_macro: BOFIT Projects Stagnating Russian GDP as Domestic Capital Investment Weakens
+  [3] banking: European Authorities Face Growing Legal and Balance Sheet Risks Over Immobilized Russian Assets
+GLOBAL (2)
+  [4] deals_ipos: Reliance Jio Prepares ₹30,213 Crore IPO to Headline Robust Indian Primary Market Wave
+  [4] earnings: Top Indian Commercial Banks Post Strong Q2 Profits Despite Net Interest Margin Compression
