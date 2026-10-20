@@ -1,0 +1,75 @@
+Daily Finance Brief run 2026-10-20 12:07 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 19
+  Khaleej Times (Business): 15
+  Arabian Business (Business, via Google News): 3
+  Zawya (Business, via Google News): 14
+  Zawya (Economy, via Google News): 11
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 3
+  CNBC (Business): 2
+  CNBC (Economy): 2
+  CNBC (Earnings): 1
+  CNBC (Investing): 0
+  WSJ (Markets): 26
+  WSJ (US Business): 33
+  WSJ (Economy): 7
+  New York Times (Business): 15
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 7
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 26
+  Russia economy (search - Reuters, FT, Bloomberg): 99
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 94
+  Reuters (Markets, via Google News): 3
+  Financial Times (Markets): 19
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 9
+  BBC (Business): 18
+  The Guardian (Business): 23
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 9
+  Finnhub (general): 32
+  Finnhub (forex): 1
+  Finnhub (merger): 19
+
+Articles: 742 fetched, 603 after dedupe
+Relevance filter: 421 kept, 182 dropped
+Brief 2026-10-20: 13 stories
+
+TOP STORIES
+  [5] GLOBAL rates_macro: French Markets Slump and Bond Yields Rise Amid Violent Protests and Debt Fears
+  [5] CHINA  rates_macro: China’s Third-Quarter GDP Beats Forecasts on Strong Export Growth Amid Tech Demand
+  [4] GLOBAL rates_macro: UK Unemployment Falls Unexpectedly to 4.7% as Wage Growth and Rate Hike Bets Rise
+  [4] GLOBAL oil_energy: Oil Prices Hover Near Multi-Month Highs as Middle East Supply Risks Counter US Sanctions Waivers
+  [4] US     markets: Global Hedge Funds Cut Technology Exposure at Fastest Pace in a Decade Amid AI Jitters
+  [4] GLOBAL deals_ipos: Jio Platforms Prepares for Record-Breaking IPO as Anchor Investors Pour Billions into Indian Telecom
+UAE (2)
+  [3] rates_macro: Dubai Reports Strong First-Half GDP Growth as Non-Oil Sectors and Investment Momentum Accelerate
+  [3] banking: UAE Financial Free Zones Draw Global Giants as International Firms Expand Regional Footprint
+US (2)
+  [3] rates_macro: US Home-Builder Sentiment Sinks to Multi-Year Lows as High Mortgage Rates sideline Buyers
+  [3] banking: JPMorgan Expands National Security Initiative as Defense and Industrial Investments Accelerate
+CHINA (2)
+  [3] rates_macro: China Leaves Benchmark Lending Rates Steady as Regulators Balance Growth and Financial Stability
+  [3] rates_macro: China Issues Final Disclosure Warning for Wealthy Citizens Holding Offshore Trusts
+RUSSIA (1)
+  [2] rates_macro: Russian Cabinet Approves Economic Reshuffle as Financial and Budgetary Planning Focuses on Fiscal Discipline
+GLOBAL (0)
