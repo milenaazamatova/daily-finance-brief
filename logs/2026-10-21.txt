@@ -1,0 +1,74 @@
+Daily Finance Brief run 2026-10-21 12:12 Dubai
+
+Sources:
+  The National (Business): 10
+  Gulf News (Business): 20
+  Khaleej Times (Business): 12
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 20
+  Zawya (Economy, via Google News): 12
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 7
+  CNBC (Economy): 3
+  CNBC (Earnings): 4
+  CNBC (Investing): 1
+  WSJ (Markets): 25
+  WSJ (US Business): 45
+  WSJ (Economy): 6
+  New York Times (Business): 13
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 11
+  South China Morning Post (China Economy): 7
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 40
+  Russia economy (search - Reuters, FT, Bloomberg): 99
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 97
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 17
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 11
+  BBC (Business): 20
+  The Guardian (Business): 23
+  The Guardian (Economics): 5
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 47
+  Finnhub (forex): 1
+  Finnhub (merger): 11
+
+Articles: 806 fetched, 654 after dedupe
+Relevance filter: 528 kept, 126 dropped
+Brief 2026-10-21: 12 stories
+
+TOP STORIES
+  [5] US     deals_ipos: Elon Musk Confirms Tesla and SpaceX Explore Mega-Merger Option
+  [5] GLOBAL deals_ipos: Jio Platforms Launches India’s Largest-Ever IPO, Fully Subscribed Within Hours
+  [4] GLOBAL rates_macro: UK Inflation Jumps to 3.5% on Surging Energy Costs Ahead of Budget
+  [4] GLOBAL earnings: Carrefour Slashes Earnings Forecasts and Warns of €200 Million Hit from French Riots
+  [4] GLOBAL oil_energy: Oil Prices Hover Near Multi-Month Highs Amid Middle East Supply Fears
+  [3] GLOBAL oil_energy: UK Government Approves Controversial Jackdaw North Sea Gasfield
+UAE (2)
+  [4] banking: Emirates NBD and Dubai Islamic Bank Post Strong Q3 Financial Results
+  [3] other: UAE Accelerates Tourist VAT Refunds to One Business Day Using AI Platform
+US (1)
+  [4] earnings: SpaceX Reports Surging Q3 Revenue Driven by AI and Starlink Growth
+CHINA (2)
+  [4] rates_macro: China’s Onshore Yuan Hits Four-Year High Amid Export Strength
+  [4] earnings: China’s CATL Posts Slowest Profit Growth in Two Years Amid EV Competition
+RUSSIA (1)
+  [4] oil_energy: Russia Expands Energy Infrastructure Attacks as Borrowing Costs Rise
+GLOBAL (0)
