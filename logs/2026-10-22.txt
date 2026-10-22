@@ -1,0 +1,82 @@
+Daily Finance Brief run 2026-10-22 12:14 Dubai
+
+Sources:
+  The National (Business): 10
+  Gulf News (Business): 30
+  Khaleej Times (Business): 17
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 17
+  Zawya (Economy, via Google News): 15
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 1
+  CNBC (Business): 8
+  CNBC (Economy): 1
+  CNBC (Earnings): 5
+  CNBC (Investing): 1
+  WSJ (Markets): 29
+  WSJ (US Business): 40
+  WSJ (Economy): 4
+  New York Times (Business): 13
+  New York Times (Economy): 0
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 8
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 34
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 5
+  Reuters (Business, via Google News): 98
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 22
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 14
+  BBC (Business): 23
+  The Guardian (Business): 28
+  The Guardian (Economics): 1
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 6
+  Finnhub (general): 46
+  Finnhub (forex): 1
+  Finnhub (merger): 10
+
+Articles: 826 fetched, 660 after dedupe
+Relevance filter: 465 kept, 195 dropped
+Brief 2026-10-22: 20 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Brent Crude Surpasses $111 as Attacks on Saudi Energy Infrastructure Exacerbate Middle East Supply Risks
+  [5] GLOBAL markets: French 10-Year Bond Yields Breach 5% as Civil Riots and Fiscal Paralysis Widen German Spread to 2011 Highs
+  [5] US     deals_ipos: Tesla Explores Historic $3 Trillion Mega-Merger With SpaceX as Core Automotive Margins Slump on Heavy AI Capex
+  [5] CHINA  markets: China's Benchmark CSI 300 Enters Bear Market Territory on Stimulus Disappointment and AI Retraction
+  [4] US     companies: Meta Penalized $25 Billion in Privacy Judgment While Unveiling New Share Class to Fund AI Infrastructure
+  [4] GLOBAL rates_macro: UK Inflation Jumps to 3.5% as Rising Fuel Prices Cement Bank of England Rate Hike Expectations Ahead of Budget
+UAE (3)
+  [4] banking: Emirates NBD Delivers Record Nine-Month Income of Dh42.2 Billion Amid Robust Regional Activity
+  [3] banking: Commercial Bank of Dubai Posts 9.4% Third-Quarter Profit Surge on Asset Expansion and Lower Provisions
+  [3] banking: Abu Dhabi Global Market Attracts Surge in Global Asset Managers With Nearly 160 Financial Firms in Pipeline
+US (3)
+  [3] earnings: Major US Airlines Slash Full-Year Profit Forecasts as Escalating Jet Fuel Costs Erode Operating Margins
+  [3] oil_energy: US Government Deploys Strategic Heating Oil Reserve Ahead of Winter as Middle East Crisis Strains Distillate Markets
+  [3] deals_ipos: Blackstone and Warburg Pincus Consider Over $10 Billion Sale of Deposit Network Operator IntraFi
+CHINA (3)
+  [4] deals_ipos: Chinese AI Developer DeepSeek Nears Completion of $15 Billion Funding Round to Compete With US Tech Giants
+  [3] rates_macro: Offshore Chinese Yuan Surges to Four-Year High Against Weakening US Dollar Amid Strategic Central Bank Fixings
+  [3] companies: Fortescue Warns of Iron Ore Supply Adjustments as Stalled Negotiations With China State Buyer Drag On
+RUSSIA (2)
+  [3] companies: Nestlé Excludes Russian Subsidiaries From Financial Statements Following Kremlin Takeover Decree
+  [3] deals_ipos: Hungary Considers Replacing Russia's Rosatom on €12.5 Billion Paks Nuclear Expansion Project
+GLOBAL (3)
+  [4] banking: Barclays Eliminates 5,000 Jobs in Major AI Restructuring as Fixed-Income Trading Revenue Misses Expectations
+  [4] deals_ipos: Private Equity Giant EQT Agrees €10.8 Billion Take-Private Deal for German Diagnostics Group Qiagen
+  [3] deals_ipos: London Stock Exchange Group Expands Credit Analytics Footprint With $3.5 Billion Purchase of Octus From Permira
