@@ -1,0 +1,82 @@
+Daily Finance Brief run 2026-10-23 12:11 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 21
+  Khaleej Times (Business): 24
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 13
+  Zawya (Economy, via Google News): 10
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 11
+  CNBC (Economy): 2
+  CNBC (Earnings): 8
+  CNBC (Investing): 0
+  WSJ (Markets): 27
+  WSJ (US Business): 39
+  WSJ (Economy): 7
+  New York Times (Business): 14
+  New York Times (Economy): 1
+  New York Times (DealBook): 4
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 42
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 7
+  Financial Times (Markets): 20
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 13
+  BBC (Business): 14
+  The Guardian (Business): 33
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 35
+  Finnhub (forex): 1
+  Finnhub (merger): 10
+
+Articles: 819 fetched, 666 after dedupe
+Relevance filter: 471 kept, 195 dropped
+Brief 2026-10-23: 20 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Crude Oil Surges Above $114 and European Gas Hits Multi-Year High on Escalating Middle East Tensions
+  [5] US     markets: Tech Selloff Deepens on Wall Street as Meta's Huge AI Spending Plan Stirs Credit and Profit Fears
+  [5] GLOBAL rates_macro: French Sovereign Debt Risk Spikes to Eurozone Crisis Levels Amid Budget Standoff
+  [4] GLOBAL rates_macro: Japan Core CPI Climbs to 2.1%, Backing Arguments for Impending BOJ Interest Rate Hikes
+  [4] CHINA  markets: Chinese Stocks Slide Into Bear Territory as AI Rout and Stimulus Skepticism Offset State Buying
+  [4] GLOBAL banking: Barclays Slashes 5,000 Jobs in Extensive AI-Driven Cost Reduction Push
+UAE (3)
+  [4] banking: ADCB and RAKBANK Deliver Robust Double-Digit Profit Gains Driven by Expanding UAE Lending
+  [4] deals_ipos: UAE and Greece Sign €12.75 Billion Deal Package with Additional €15 Billion Abu Dhabi Investment
+  [3] earnings: Deyaar Q3 Profit Jumps 27% as Abu Dhabi Residential Property Deals Surpass Dh21.5 Billion
+US (3)
+  [4] rates_macro: US Treasury Proposes Stricter Rules Restricting Capital Outflows into Sensitive Chinese Tech
+  [3] earnings: Moderna Plummets and Erases $24 Billion in Market Value After Leaked Cancer Vaccine Trial Results
+  [3] earnings: US Major Airlines Cut Annual Profit Forecasts as Soaring Jet Fuel Costs Erode Margins
+CHINA (2)
+  [4] rates_macro: China Tightens Outbound Investment Reporting and Imposes 20% Tax on Offshore Trusts
+  [3] banking: HSBC Debuts HKD-Backed RedCoin Stablecoin Across 3.3 Million PayMe App Users in Hong Kong
+RUSSIA (3)
+  [3] banking: Raiffeisen Secures Austrian Court Approval to Recognize €3.2 Billion Russian Asset Gain
+  [3] deals_ipos: US Extends Sanctions Compliance Deadline to November 21 for Buyers of Lukoil Foreign Assets
+  [3] oil_energy: Russian Diesel Cargo Dispatched to United States Following Putin-Trump Accord
+GLOBAL (3)
+  [4] earnings: Volvo Cars Plunges 30% After Swinging to Loss and Announcing 2,500 Additional Job Cuts
+  [3] rates_macro: UK Consumer Confidence Suffers Sharpest Collapse Since Pandemic as Retail Sales Drop
+  [3] earnings: Gucci Owner Kering Slides 10% After Revenue Slump Signals Deepening Luxury Sector Slowdown
