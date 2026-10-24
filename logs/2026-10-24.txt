@@ -1,0 +1,77 @@
+Daily Finance Brief run 2026-10-24 11:50 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 13
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 8
+  Zawya (Economy, via Google News): 4
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 4
+  CNBC (Economy): 1
+  CNBC (Earnings): 2
+  CNBC (Investing): 0
+  WSJ (Markets): 20
+  WSJ (US Business): 32
+  WSJ (Economy): 10
+  New York Times (Business): 19
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 9
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 24
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 5
+  Financial Times (Markets): 13
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 8
+  BBC (Business): 12
+  The Guardian (Business): 19
+  The Guardian (Economics): 1
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 41
+  Finnhub (forex): 1
+  Finnhub (merger): 7
+
+Articles: 693 fetched, 519 after dedupe
+Relevance filter: 404 kept, 115 dropped
+Brief 2026-10-24: 15 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Global Oil Surges Toward Six-Month Highs Amid Middle East Escalation and Supply Fears
+  [5] GLOBAL markets: Global Stock Markets Slide as AI Valuation Doubts and Tech Sell-Off Deepen
+  [4] US     companies: American Express Cuts 5% of Global Workforce as Firms Prepare for Cost Pressures and AI Integration
+  [4] GLOBAL rates_macro: Moody’s Holds France’s Credit Rating Steady at Aa3 Amid Severe Fiscal Uncertainty and Social Unrest
+  [4] RUSSIA rates_macro: Russian Central Bank Holds Key Rate at 14% and Raises Inflation Forecasts as Wartime Pressures Bite
+  [4] CHINA  deals_ipos: India's Jio Platforms Breaks All-Time Records with Massive $90 Billion IPO Demand
+UAE (3)
+  [3] banking: HSBC Expands Wealth Management Footprint in Abu Dhabi Despite Regional Headwinds
+  [2] banking: ADGM Penalizes Audit Firm Following Regulatory Inspection
+  [2] oil_energy: UAE Fuel Prices Projected to Rise Further as Global Crude Markets Climb
+US (2)
+  [3] rates_macro: US Business Activity Holds Near Five-Year Highs Even as Consumer Sentiment Stagnates
+  [3] rates_macro: White House Rolls Back Select Canadian Tariffs Ahead of Critical Midterm Elections
+CHINA (2)
+  [3] banking: Citigroup Secures Regulatory Approval for Wholly Owned Securities Venture in China
+  [3] banking: Surging Credit Card Delinquencies Hit Middle-Class Borrowers Across China
+RUSSIA (1)
+  [3] companies: Russian State-Backed Industrial Giants Face Severe Financial Strain from War Costs and High Rates
+GLOBAL (1)
+  [3] rates_macro: UK Government Prepares £20 Billion Capital Injection for State-Backed Lenders in Upcoming Budget
