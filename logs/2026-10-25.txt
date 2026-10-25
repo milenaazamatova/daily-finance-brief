@@ -1,0 +1,77 @@
+Daily Finance Brief run 2026-10-25 12:02 Dubai
+
+Sources:
+  The National (Business): 2
+  Gulf News (Business): 10
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 2
+  CNBC (Economy): 0
+  CNBC (Earnings): 1
+  CNBC (Investing): 1
+  WSJ (Markets): 4
+  WSJ (US Business): 10
+  WSJ (Economy): 0
+  New York Times (Business): 8
+  New York Times (Economy): 1
+  New York Times (DealBook): 1
+  South China Morning Post (Business): 3
+  South China Morning Post (China Economy): 2
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 5
+  Russia economy (search - Reuters, FT, Bloomberg): 55
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 12
+  Reuters (Markets, via Google News): 12
+  Financial Times (Markets): 3
+  Financial Times (Companies): 11
+  Financial Times (Global Economy): 2
+  BBC (Business): 8
+  The Guardian (Business): 14
+  The Guardian (Economics): 0
+  Economic Times (Markets): 14
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 0
+  Investing.com (Commodities): 5
+  Investing.com (Economic Indicators): 2
+  Finnhub (general): 15
+  Finnhub (forex): 0
+  Finnhub (merger): 2
+
+Articles: 328 fetched, 221 after dedupe
+Relevance filter: 85 kept, 136 dropped
+Brief 2026-10-25: 15 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Middle East Energy Disruptions Threaten Global Supply as Mercuria Mounts Hormuz Legal Battle
+  [5] US     rates_macro: Federal Reserve Poised to Lead G7 Hawkish Interest Rate Pause Amid Resilient Inflation
+  [4] CHINA  markets: European Luxury Sector Loses €250 Billion in Value as Chinese Consumer Spending Slides
+  [4] US     companies: Audi Commits $4.2 Billion to Build First US Manufacturing Plant in Georgia to Avoid Tariffs
+  [4] CHINA  companies: BYD Plans European Assembly Plants to Circumvent Expanding Trade Barriers on Chinese EVs
+  [4] US     earnings: US Corporate Profit Growth Overwhelmingly Dependent on Top Ten Tech and AI Leaders
+  [3] GLOBAL markets: French Corporate Bond Yields Converge with Sovereign Debt as Deficit Worries Mount
+UAE (1)
+  [3] deals_ipos: UAE-Linked Real Estate Footprint in Greater Manchester Expands 39% Over Past Decade
+US (2)
+  [3] deals_ipos: Skydance Initiates Workforce Reductions Following $110 Billion Paramount-WBD Megamerger
+  [3] deals_ipos: Couche-Tard Offers Up to $8 Billion for US Convenience Chain Cumberland Farms
+CHINA (2)
+  [3] companies: Hong Kong Property Developers Shift Mainland Capital to Commercial Assets Amid Residential Slump
+  [3] rates_macro: China Urges US to Halt Proposed Expansion of Outbound Technology Investment Restrictions
+RUSSIA (0)
+GLOBAL (3)
+  [4] deals_ipos: Reliance's Jio Platforms Readies Landmark Stock Listing Following 22-Times Subscribed Mega IPO
+  [3] markets: Foreign Investors Pull Rs 48,056 Crore from Indian Equities on Spiking Oil Prices
+  [3] banking: Nationwide Cuts 275 Jobs in Ongoing Restructuring After £2.9 Billion Virgin Money Takeover
