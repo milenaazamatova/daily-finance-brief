@@ -1,0 +1,72 @@
+Daily Finance Brief run 2026-10-26 12:24 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 12
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 7
+  Zawya (Economy, via Google News): 14
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 1
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 0
+  WSJ (Markets): 7
+  WSJ (US Business): 13
+  WSJ (Economy): 0
+  New York Times (Business): 12
+  New York Times (Economy): 0
+  New York Times (DealBook): 1
+  South China Morning Post (Business): 9
+  South China Morning Post (China Economy): 1
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 18
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 37
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 11
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 9
+  BBC (Business): 5
+  The Guardian (Business): 17
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 1
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 7
+  Finnhub (general): 21
+  Finnhub (forex): 1
+  Finnhub (merger): 2
+
+Articles: 528 fetched, 383 after dedupe
+Relevance filter: 243 kept, 140 dropped
+Brief 2026-10-26: 10 stories
+
+TOP STORIES
+  [5] US     companies: Audi Announces $4 Billion Georgia Factory as Carmakers Grapple with U.S. Tariffs
+  [5] GLOBAL oil_energy: Oil Prices Pull Back From Six-Month Highs on Iran Diplomacy and Supply Hopes
+  [4] CHINA  rates_macro: Chinese Yuan Hits Four-Year High as Weak Dollar and Policy Meetings Loom
+  [4] GLOBAL markets: Global Equity Funds Inflow Hits $28.16 Billion as Easing Yields Lift Sentiment
+  [4] US     markets: Brazil Stock Market Faces Volatility as Lula’s Surprise Election Victory Shocks Investors
+UAE (2)
+  [3] earnings: Saudi Arabia’s Sabic Posts Profit Rise Despite Sales Volume Pressures
+  [3] deals_ipos: ADNOC Unveils Dh60 Billion in Local Manufacturing Opportunities for 2027
+US (1)
+  [3] rates_macro: UK Banks and Chancellor Face Budget Pressure as City Economists Review Rate Outlook
+CHINA (1)
+  [3] earnings: Chinese Stock Market Faces Pressures from Weak Earnings Forecasts and Tech Selloff
+RUSSIA (1)
+  [3] banking: Swiss Job Loss Fears Rise as Stakeholders Monitor UBS Relocation Debates
+GLOBAL (0)
