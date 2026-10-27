@@ -1,0 +1,78 @@
+Daily Finance Brief run 2026-10-27 12:34 Dubai
+
+Sources:
+  The National (Business): 14
+  Gulf News (Business): 30
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 17
+  Zawya (Economy, via Google News): 14
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 3
+  CNBC (Economy): 1
+  CNBC (Earnings): 1
+  CNBC (Investing): 5
+  WSJ (Markets): 30
+  WSJ (US Business): 36
+  WSJ (Economy): 7
+  New York Times (Business): 9
+  New York Times (Economy): 2
+  New York Times (DealBook): 6
+  South China Morning Post (Business): 11
+  South China Morning Post (China Economy): 1
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 27
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 2
+  Reuters (Business, via Google News): 97
+  Reuters (Markets, via Google News): 3
+  Financial Times (Markets): 18
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 8
+  BBC (Business): 15
+  The Guardian (Business): 28
+  The Guardian (Economics): 5
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 34
+  Finnhub (forex): 1
+  Finnhub (merger): 12
+
+Articles: 766 fetched, 620 after dedupe
+Relevance filter: 465 kept, 155 dropped
+Brief 2026-10-27: 16 stories
+
+TOP STORIES
+  [5] US     deals_ipos: Anthropic Files Form S-1 for Historic IPO, Revealing Massive Financial Scale and Capital Commitments
+  [5] GLOBAL markets: Brazilian Markets Plunge as President Lula Secures Surprise Re-Election Victory
+  [5] US     deals_ipos: Meta Announces Massive $95 Billion Fundraising Drive to Fund AI Infrastructure Expansion
+  [4] GLOBAL earnings: HSBC Shares Slide Despite 32% Jump in Q3 Profit as Revenue and Growth Miss Estimates
+  [4] GLOBAL oil_energy: Oil Prices Extend Losses on Middle East Diplomatic Efforts and Supply De-escalation Hopes
+  [4] US     deals_ipos: EQT Agrees to Acquire Range Resources in Multi-Billion-Dollar Natural Gas Megadeal
+UAE (3)
+  [3] deals_ipos: Dubai Investments Seeks to Raise $543 Million in First UAE IPO of the Year
+  [3] oil_energy: Sharjah Announces Major Gas Production Expansion at Al Hadiba Field
+  [3] banking: Apollo Global Management Takes 10% Stake in Abu Dhabi-Backed Mubadala Capital
+US (2)
+  [4] rates_macro: US Federal Reserve Expected to Hold Interest Rates Steady Amid Persistent Inflation
+  [3] earnings: Microsoft Offers Buyouts to 60,000 Employees to Control Costs Amid AI Capital Push
+CHINA (2)
+  [4] rates_macro: China Industrial Profits Surge 14.4% in September on AI and Digital Infrastructure Demand
+  [3] banking: Hong Kong Opens Secondary Trading for Tokenised Public Funds in Global First
+RUSSIA (2)
+  [3] oil_energy: Russia-Linked Diesel Tankers Head for US Ports Following Energy Agreement
+  [2] banking: Bank of Russia Reports Slowing Corporate Credit Growth Alongside Resilient Retail Mortgages
+GLOBAL (1)
+  [4] rates_macro: Global Bond Yields Climb as Investors Await Central Bank Policy Decisions
