@@ -1,0 +1,82 @@
+Daily Finance Brief run 2026-10-29 13:14 Dubai
+
+Sources:
+  The National (Business): 13
+  Gulf News (Business): 22
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 13
+  Zawya (Economy, via Google News): 19
+  US Federal Reserve (Monetary Policy): 1
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 7
+  CNBC (Economy): 4
+  CNBC (Earnings): 16
+  CNBC (Investing): 1
+  WSJ (Markets): 33
+  WSJ (US Business): 44
+  WSJ (Economy): 4
+  New York Times (Business): 28
+  New York Times (Economy): 7
+  New York Times (DealBook): 4
+  South China Morning Post (Business): 9
+  South China Morning Post (China Economy): 7
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 25
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 4
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 1
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 99
+  Reuters (Markets, via Google News): 7
+  Financial Times (Markets): 16
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 13
+  BBC (Business): 23
+  The Guardian (Business): 40
+  The Guardian (Economics): 14
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 9
+  Finnhub (general): 42
+  Finnhub (forex): 1
+  Finnhub (merger): 14
+
+Articles: 857 fetched, 704 after dedupe
+Relevance filter: 521 kept, 183 dropped
+Brief 2026-10-29: 20 stories
+
+TOP STORIES
+  [5] US     rates_macro: Federal Reserve Keeps Benchmark Rates Unchanged as Inflation Remains Elevated
+  [5] US     earnings: Big Tech AI Trade Splinters as Alphabet Misses Expectations While Microsoft Gains
+  [5] GLOBAL oil_energy: European Oil Majors Shell and TotalEnergies Report Soaring Profits and Increase Buybacks
+  [4] GLOBAL rates_macro: UK Chancellor Unveils Budget Raising Bank Surcharges and Funding Energy Subsidies
+  [4] GLOBAL earnings: Volkswagen Swings to €5.9 Billion Loss as China Demand Slumps
+  [4] GLOBAL earnings: Samsung Electronics Posts Record Profit but Shares Fall on AI Chip Concerns
+  [4] GLOBAL deals_ipos: Jio Platforms Surges 27% on Trading Debut Following Record $3.1 Billion Indian IPO
+UAE (3)
+  [3] rates_macro: Central Bank of the UAE Maintains Benchmark Interest Rates Following Fed Pause
+  [3] earnings: First Abu Dhabi Bank Reports 6% Growth in Third-Quarter Net Profit
+  [3] earnings: ADNOC Drilling Reaches $1.07 Billion Nine-Month Profit on Rig Fleet Expansion
+US (3)
+  [3] deals_ipos: GE Vernova Agrees to $9 Billion Trench Acquisition and Raises Revenue Targets
+  [3] deals_ipos: Nelson Peltz's Trian Submits $1.4 Billion Take-Private Bid for Wendy's
+  [3] deals_ipos: Marvell Technology in Advanced Negotiations to Acquire Optics Specialist Lumentum
+CHINA (2)
+  [3] rates_macro: EU Officials Push Beijing for Yuan Appreciation Amid Widening Bilateral Trade Gap
+  [3] earnings: Unitree Robotics Reports 70% Q3 Revenue Surge amid Expanding Demand for AI Hardware
+RUSSIA (2)
+  [3] rates_macro: Bank of Russia Outlines Monetary Guidelines as Inflation Expectations Ease to 13.2%
+  [3] earnings: Yandex Increases Q3 Revenue by 12% but Withdraws 2026 Guidance
+GLOBAL (3)
+  [4] rates_macro: European Central Bank Keeps Rates Steady Amid Sticky Energy-Driven Inflation
+  [3] rates_macro: Bank of Canada Raises Interest Rate to 2.5% to Counter Persistent Inflation
+  [3] oil_energy: World Bank Warns Global Energy Prices Could Surge 32% Due to Conflict
