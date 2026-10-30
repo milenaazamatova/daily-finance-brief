@@ -1,0 +1,83 @@
+Daily Finance Brief run 2026-10-30 13:29 Dubai
+
+Sources:
+  The National (Business): 14
+  Gulf News (Business): 23
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 10
+  Zawya (Economy, via Google News): 9
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 7
+  CNBC (Economy): 4
+  CNBC (Earnings): 22
+  CNBC (Investing): 3
+  WSJ (Markets): 32
+  WSJ (US Business): 45
+  WSJ (Economy): 10
+  New York Times (Business): 22
+  New York Times (Economy): 3
+  New York Times (DealBook): 6
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 38
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 3
+  European Central Bank (Press Releases): 5
+  Bank of England (News): 2
+  Bank of Japan (What's New): 8
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 25
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 17
+  BBC (Business): 22
+  The Guardian (Business): 29
+  The Guardian (Economics): 7
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 28
+  Finnhub (forex): 1
+  Finnhub (merger): 9
+
+Articles: 858 fetched, 706 after dedupe
+Relevance filter: 547 kept, 159 dropped
+Brief 2026-10-30: 21 stories
+
+TOP STORIES
+  [5] US     earnings: Tech Stocks Plunge as Heavy AI Spending and Weak Guidance Rattle Wall Street
+  [5] GLOBAL markets: Binance Suspends Withdrawals Following Record $6.3 Billion Crypto Cyberattack
+  [5] GLOBAL rates_macro: ECB Holds Interest Rates at 2.5% as Christine Lagarde Announces Early Departure
+  [5] US     rates_macro: Strong US GDP Growth of 3.4% Paired with Accelerating Inflation Reinforces Hawkish Fed Expectations
+  [4] GLOBAL rates_macro: Bank of Japan Achieves 2% Inflation Target and Accelerates ETF Portfolio Disposals
+  [4] GLOBAL oil_energy: Oil Prices Surge Near $116 as Escalating Middle East Conflict Drives Record Profits for BP and Shell
+UAE (3)
+  [3] markets: Abu Dhabi Residential Property Prices Surge 24% in the Third Quarter
+  [3] earnings: 2PointZero Group Triples Nine-Month Profit to Drive Global Expansion Strategy
+  [2] earnings: Sukoon Insurance Reports 45% Increase in Q3 Net Profit to AED 438.4 Million
+US (3)
+  [4] deals_ipos: DoorDash to Acquire Instacart for $17 Billion in Major On-Demand Delivery Consolidation
+  [3] deals_ipos: Thrive Holdings Acquires ADT for $7.6 Billion to Expand Private Equity Portfolio
+  [3] earnings: Eli Lilly Lifts Full-Year Sales Forecast as Obesity Drug Demand Accelerates
+CHINA (3)
+  [3] deals_ipos: PAG Acquires Controlling Stake in Evergrande Property Unit for $513 Million
+  [3] earnings: BYD and Geely Report Profit Surges as Overseas EV Sales Offset Domestic Slowdown
+  [3] markets: Chinese Equities Fall into Bear Market, Prompting $25 Billion State 'National Team' Intervention
+RUSSIA (3)
+  [3] rates_macro: Russian Duma Passes 2027 Budget as GDP Growth Slows to 0.5% in September
+  [3] oil_energy: First Russian Diesel Cargo Under Trade Deal Departs for US Ports
+  [2] deals_ipos: Rusal Partners with Ghana in Joint Venture to Develop Major Bauxite Mineral Deposit
+GLOBAL (3)
+  [3] rates_macro: French Economy Contracts 0.1% as Debt Strain and Inflation Drag on Eurozone Growth
+  [3] deals_ipos: Tesco Sells Central European Grocery Units to Ahold Delhaize for $1.9 Billion
+  [3] banking: ICBC Posts 10% Q3 Profit Increase as World's Largest Bank Navigates Economic Headwinds
