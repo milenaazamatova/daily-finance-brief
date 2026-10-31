@@ -1,0 +1,74 @@
+Daily Finance Brief run 2026-10-31 13:12 Dubai
+
+Sources:
+  The National (Business): 14
+  Gulf News (Business): 19
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 5
+  Zawya (Economy, via Google News): 3
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 2
+  CNBC (Economy): 1
+  CNBC (Earnings): 5
+  CNBC (Investing): 1
+  WSJ (Markets): 31
+  WSJ (US Business): 34
+  WSJ (Economy): 7
+  New York Times (Business): 22
+  New York Times (Economy): 0
+  New York Times (DealBook): 4
+  South China Morning Post (Business): 4
+  South China Morning Post (China Economy): 3
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 40
+  Russia economy (search - Reuters, FT, Bloomberg): 99
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 90
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 21
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 8
+  BBC (Business): 10
+  The Guardian (Business): 26
+  The Guardian (Economics): 6
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 23
+  Finnhub (forex): 1
+  Finnhub (merger): 12
+
+Articles: 722 fetched, 587 after dedupe
+Relevance filter: 447 kept, 140 dropped
+Brief 2026-10-31: 12 stories
+
+TOP STORIES
+  [5] GLOBAL banking: Binance Suffers Record $6.3 Billion Crypto Heist in Suspected North Korean Cyber Attack
+  [5] US     markets: Wall Street Tech Stocks Plunge in Brutal Sell-Off Amid Mounting AI Cash Burn Anxieties
+  [5] GLOBAL oil_energy: Brent Crude Hits Six-Month Highs at $117.64 as Middle East Conflicts Disrupt Supplies
+  [4] CHINA  earnings: Reliance Industries Reports Record Q2 Net Profit of ₹29,550 Crore on Oil and Jio Strength
+  [4] GLOBAL rates_macro: Euro Zone Q3 Growth Beats Projections at 0.4% Despite French Economic Contraction
+  [4] US     rates_macro: Dallas Fed President Logan Signals Need for at Least Two More Interest Rate Hikes
+UAE (2)
+  [3] oil_energy: UAE Announces Surprise Petrol Price Drop for November in Defiance of Global Energy Rallies
+  [3] banking: UAE Regulatory Authorities Issue Heavy Financial Penalty and Step Up Oversight on Binance
+US (0)
+CHINA (2)
+  [3] rates_macro: China Reports Sharp Surge in Strategic Mineral Reserves as Factory Activity Contracts
+  [2] companies: CATL Expands into Battery Swapping and Energy Storage to Combat EV Price Wars
+RUSSIA (2)
+  [3] rates_macro: Fitch Cuts France Outlook to Negative as Debt Dynamics and Deficit Worsen
+  [3] oil_energy: Ukraine Resumes Targeted Strikes on Russian Oil Refineries as Fuel Crisis Eases
+GLOBAL (0)
