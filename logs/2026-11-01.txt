@@ -1,0 +1,77 @@
+Daily Finance Brief run 2026-11-01 13:58 Dubai
+
+Sources:
+  The National (Business): 3
+  Gulf News (Business): 11
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 1
+  CNBC (Economy): 0
+  CNBC (Earnings): 2
+  CNBC (Investing): 0
+  WSJ (Markets): 2
+  WSJ (US Business): 8
+  WSJ (Economy): 1
+  New York Times (Business): 8
+  New York Times (Economy): 0
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 2
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 0
+  China economy (search - Reuters, FT, Bloomberg): 93
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 14
+  Russia economy (search - Reuters, FT, Bloomberg): 74
+  Bank of Russia (Events & press releases, in Russian): FAILED HTTPError: 502 Server Error: Bad Gateway for url: https://www.cbr.ru/rss/eventrss
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 13
+  Reuters (Markets, via Google News): 1
+  Financial Times (Markets): 8
+  Financial Times (Companies): 11
+  Financial Times (Global Economy): 3
+  BBC (Business): 4
+  The Guardian (Business): 18
+  The Guardian (Economics): 3
+  Economic Times (Markets): 18
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 0
+  Investing.com (Commodities): 6
+  Investing.com (Economic Indicators): 2
+  Finnhub (general): 10
+  Finnhub (forex): 0
+  Finnhub (merger): 1
+
+Articles: 345 fetched, 261 after dedupe
+Relevance filter: 134 kept, 127 dropped
+Brief 2026-11-01: 15 stories
+
+TOP STORIES
+  [5] GLOBAL markets: Binance Resumes Withdrawals After Covering Majority of Unprecedented $6.3 Billion Cyber Heist
+  [5] GLOBAL oil_energy: OPEC+ Decides to Maintain Steady Crude Output Quotas Despite Mideast Supply Disruptions
+  [5] US     markets: Investors Hedge Against Potential AI Downturn as Hyperscaler Capex Triggers Tech Sell-Off
+  [4] US     rates_macro: Resilient Labor Data and Hawkish Federal Reserve Guidance Solidify Rate Hike Expectations
+  [4] GLOBAL rates_macro: South Korea's October Exports Surge 93.7% in Historic Boom Driven by Global AI Hardware Demand
+  [4] GLOBAL oil_energy: Germany Fails to Meet Winter Gas Storage Target as European Energy Deficit Looming
+UAE (1)
+  [3] other: UAE Financial Authorities Update Mandatory E-Invoicing Penalties to Bolster Tax Compliance
+US (2)
+  [3] banking: Tudor Investment Corp to Spin Out Xantium in Record $9 Billion Quant Hedge Fund Debut
+  [3] deals_ipos: Anthropic Public Listing Plans Fuel Market Debate Over Imperial Founder Voting Control
+CHINA (2)
+  [3] companies: Xiaomi Electric Vehicle Deliveries Surpass 50,000 Units in October Reaching Monthly Peak
+  [3] companies: Macau October Gaming Revenue Drops 10% Despite Golden Week Tourism Influx
+RUSSIA (2)
+  [4] oil_energy: Ukrainian Drone Strikes Damage Lukoil and Bashneft Refineries Forcing Maritime Defense Upgrades
+  [3] oil_energy: Russian Government Extends Ban on Diesel Exports Through January to Secure Domestic Market
+GLOBAL (2)
+  [4] rates_macro: Saudi Arabian Economy Shrinks 3.8% as Warfare Disrupts Regional Oil Operations
+  [3] deals_ipos: Global Beverage Giants Advance Multi-Billion Dollar India IPO Plans and Listings
