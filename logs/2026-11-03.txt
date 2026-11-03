@@ -1,0 +1,74 @@
+Daily Finance Brief run 2026-11-03 14:24 Dubai
+
+Sources:
+  The National (Business): 10
+  Gulf News (Business): 27
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 17
+  Zawya (Economy, via Google News): 19
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 3
+  CNBC (Business): 2
+  CNBC (Economy): 1
+  CNBC (Earnings): 3
+  CNBC (Investing): 0
+  WSJ (Markets): 28
+  WSJ (US Business): 38
+  WSJ (Economy): 6
+  New York Times (Business): 20
+  New York Times (Economy): 3
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 17
+  South China Morning Post (China Economy): 6
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 53
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 1
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 99
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 17
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 13
+  BBC (Business): 13
+  The Guardian (Business): 25
+  The Guardian (Economics): 3
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 36
+  Finnhub (forex): 1
+  Finnhub (merger): 17
+
+Articles: 813 fetched, 655 after dedupe
+Relevance filter: 547 kept, 108 dropped
+Brief 2026-11-03: 12 stories
+
+TOP STORIES
+  [5] US     deals_ipos: Marvell and Lumentum Announce Massive $115 Billion Merger Focused on AI Connectivity
+  [5] GLOBAL oil_energy: Oil Prices Tumble 8% as US Strikes on Iran Spark Peace Talk Hopes
+  [4] GLOBAL earnings: Saudi Aramco Posts 34% Surge in Third-Quarter Profit Despite Infrastructure Attacks
+  [4] US     rates_macro: U.S. Voters Go to the Polls in High-Stakes Midterm Elections
+  [4] GLOBAL rates_macro: Reserve Bank of Australia Hikes Interest Rates to 4.85% to Combat Stubborn Inflation
+  [4] US     earnings: Anthropic Files Financials Revealing $17 Billion Revenue and Massive AI Spending
+  [4] CHINA  rates_macro: People's Bank of China Raises Foreign Exchange Reserve Requirement to Slow Yuan Rally
+UAE (1)
+  [3] oil_energy: ADNOC Gas and TotalEnergies Sign Five-Year LNG Supply Agreement
+US (1)
+  [3] earnings: Apple Reports Strong Fourth-Quarter Earnings Driven by iPhone Demand, Warns of Rising Chip Costs
+CHINA (1)
+  [3] rates_macro: Hong Kong Economic Growth Quickens to 5.2% as Exports Surge
+RUSSIA (1)
+  [3] companies: Russian State Companies Shift Gold Exports and Sberbank Overtakes Gazprom in Revenue
+GLOBAL (1)
+  [3] rates_macro: Global Financial Leaders Warn of Rising Debt Risks Amid Accelerated AI Infrastructure Spending
