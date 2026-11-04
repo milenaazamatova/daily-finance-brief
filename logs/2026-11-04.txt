@@ -1,0 +1,79 @@
+Daily Finance Brief run 2026-11-04 14:19 Dubai
+
+Sources:
+  The National (Business): 13
+  Gulf News (Business): 27
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 25
+  Zawya (Economy, via Google News): 18
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 3
+  CNBC (Business): 8
+  CNBC (Economy): 1
+  CNBC (Earnings): 11
+  CNBC (Investing): 3
+  WSJ (Markets): 26
+  WSJ (US Business): 35
+  WSJ (Economy): 5
+  New York Times (Business): 13
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 8
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 50
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 4
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 3
+  Financial Times (Markets): 20
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 9
+  BBC (Business): 17
+  The Guardian (Business): 24
+  The Guardian (Economics): 5
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 6
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 35
+  Finnhub (forex): 1
+  Finnhub (merger): 10
+
+Articles: 822 fetched, 679 after dedupe
+Relevance filter: 508 kept, 171 dropped
+Brief 2026-11-04: 17 stories
+
+TOP STORIES
+  [5] US     rates_macro: Democrats Sweep US Midterm Elections, Triggering Stock Rebound, Dollar Slide, and Bond Rally
+  [5] US     earnings: AMD Reports Record Q3 Revenue and Surging Data-Center Sales Driven by AI Chip Demand
+  [5] GLOBAL banking: Binance Discloses Details of Record $6.3 Billion Crypto Hack Involving Fake Job Interviews
+  [4] GLOBAL rates_macro: Eurozone October Inflation Accelerates to 3-Year High of 4% Amid Spiking Energy Costs
+  [4] GLOBAL earnings: Novo Nordisk Raises Full-Year Guidance as Wegovy Weight-Loss Pill Outperforms Expectations
+  [4] GLOBAL oil_energy: Oil Prices Slide as Middle East Peace Hopes Outweigh Supply Risks from U.S. Midterms
+  [4] GLOBAL earnings: BMW Cuts Profit Outlook for Second Consecutive Quarter Amid Intensifying China Competition
+UAE (3)
+  [4] deals_ipos: Dubai Investments Raises $529 Million via First UAE IPO of the Year
+  [3] rates_macro: UAE Non-Oil Businesses Hike Prices at Record Pace in October Amid Surging Costs
+  [3] oil_energy: Adnoc Gas Signs Agreement to Supply Natural Gas to Northern Emirates
+US (2)
+  [4] rates_macro: US Job Openings Rise in September While Layouts Remain Near Lows
+  [4] deals_ipos: Meta Raises $15 Billion Through Bond Sale to Fund AI Infrastructure Expansion
+CHINA (3)
+  [4] rates_macro: PBOC Reports Over 200 Billion Yuan in Stock Loan Applications as Central Bank Boosts Market Support
+  [3] rates_macro: China Services Sector Growth Slows to Three-Month Low Amid Surging Costs and Intense Competition
+  [3] rates_macro: Chinese Yuan Slips to Two-Week Low as PBOC Sets Cautious Fixing and Raises FX Reserves
+RUSSIA (2)
+  [4] rates_macro: Sber Warns Russia's Key Interest Rate May Stay Near 14% Through 2027 to Meet Inflation Target
+  [3] deals_ipos: Russia to Sell Stake in Sovcomflot to Ease Budget Pressures Amid Fiscal Strain
+GLOBAL (0)
