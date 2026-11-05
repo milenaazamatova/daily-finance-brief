@@ -1,0 +1,83 @@
+Daily Finance Brief run 2026-11-05 14:13 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 25
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 30
+  Zawya (Economy, via Google News): 11
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 8
+  CNBC (Economy): 4
+  CNBC (Earnings): 15
+  CNBC (Investing): 0
+  WSJ (Markets): 24
+  WSJ (US Business): 40
+  WSJ (Economy): 10
+  New York Times (Business): 19
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 16
+  South China Morning Post (China Economy): 8
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 39
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 1
+  Bank of Japan (What's New): 3
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 4
+  Financial Times (Markets): 15
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 10
+  BBC (Business): 12
+  The Guardian (Business): 29
+  The Guardian (Economics): 6
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 8
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 61
+  Finnhub (forex): 1
+  Finnhub (merger): 11
+
+Articles: 847 fetched, 671 after dedupe
+Relevance filter: 503 kept, 168 dropped
+Brief 2026-11-05: 21 stories
+
+TOP STORIES
+  [5] GLOBAL oil_energy: Global Crude Tumbles Toward $93 in 20% Weekly Drop as US Midterms Ease War Fears
+  [5] US     markets: Wall Street Surges on Democratic Midterm Sweep as Yields Hit Eight-Week Lows
+  [5] GLOBAL rates_macro: Bank of England Prepares First Rate Increase in Three Years as Sterling Hits Post-Brexit Peak
+  [4] GLOBAL rates_macro: Eurozone Inflation Climbs to 4.0%, Doubling Target and Solidifying Hawkish ECB Outlook
+  [4] US     deals_ipos: CVS Health Announces Breakup Plan to Split Retail Pharmacies from Insurance Arm
+  [4] CHINA  deals_ipos: China Blocks SoftBank's $5.4 Billion Takeover of ABB Robotics on Technology Security Grounds
+UAE (3)
+  [4] earnings: Emirates Airline Half-Year Profit Drops 66% to $903 Million on Regional Airspace Disruption
+  [4] deals_ipos: ADNOC Unit XRG Agrees $1.45 Billion Deal for Shell's Australian LNG Stake
+  [3] deals_ipos: Emaar Properties Offers Dh15-Per-Share Cash Buyout for Emaar Development
+US (3)
+  [4] earnings: Qualcomm Slumps 10% on Compressed Margins and Component Cost Pressures
+  [3] rates_macro: US Private Payrolls Expand by 86,000 in October, Topping Forecasts
+  [3] deals_ipos: The Andersons Expands Biofuels Platform with $915 Million Acquisition of Harvestone
+CHINA (3)
+  [3] deals_ipos: China Securities Regulator Tightens IPO Oversight with Enhanced Tax Demands
+  [3] rates_macro: China Interbank Funding Costs Reach Record Low as PBOC Manages Currency Pressures
+  [3] other: China Extends Tariffs on US Chemical Imports for Five Years
+RUSSIA (3)
+  [3] rates_macro: Russia Services PMI Drops to 50.0 in October Indicating Sector Stagnation
+  [3] rates_macro: Putin Signs Deal to Build Second Border Railway Track to Deepen China Trade
+  [3] oil_energy: US-Russia Diesel Deal Stalls as Distillate Stockpiles Touch 20-Year Lows
+GLOBAL (3)
+  [4] earnings: Rheinmetall Tumbles 17% Following Second Consecutive Annual Sales Downgrade
+  [4] earnings: Toyota Surges 17% on Hybrid Demand and Unveils $89 Billion Shareholder Return Program
+  [3] rates_macro: Brazil's Central Bank Halts Easing Cycle as Fiscal and Inflation Worries Intensify
