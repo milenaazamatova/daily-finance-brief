@@ -1,0 +1,77 @@
+Daily Finance Brief run 2026-11-06 14:16 Dubai
+
+Sources:
+  The National (Business): 18
+  Gulf News (Business): 29
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 16
+  Zawya (Economy, via Google News): 8
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 4
+  CNBC (Business): 4
+  CNBC (Economy): 4
+  CNBC (Earnings): 7
+  CNBC (Investing): 2
+  WSJ (Markets): 37
+  WSJ (US Business): 43
+  WSJ (Economy): 6
+  New York Times (Business): 20
+  New York Times (Economy): 0
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 62
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 4
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 2
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 6
+  Financial Times (Markets): 23
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 9
+  BBC (Business): 17
+  The Guardian (Business): 23
+  The Guardian (Economics): 6
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 10
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 32
+  Finnhub (forex): 1
+  Finnhub (merger): 7
+
+Articles: 847 fetched, 688 after dedupe
+Relevance filter: 527 kept, 161 dropped
+Brief 2026-11-06: 15 stories
+
+TOP STORIES
+  [5] US     markets: Global Tech Stocks Suffer $2 Trillion Rout Following US Midterm Election Victory
+  [5] GLOBAL rates_macro: Bank of England Raises Benchmark Rate to 4% Amid Elevated Inflation Risks
+  [4] GLOBAL oil_energy: Global Oil Prices Volatile Near $100 as Markets Assess Middle East Risks
+  [4] CHINA  deals_ipos: China Blocks SoftBank's $5.4 Billion Acquisition of ABB Robotics Unit
+  [4] US     companies: Tesla to Phase Out Cybertruck Production to Accelerate Autonomous AI Focus
+UAE (2)
+  [3] deals_ipos: Emaar Properties Reports Q3 Profit Rise and Offers $3.3 Billion Delisting for Construction Unit
+  [3] oil_energy: ADNOC Signs 10-Year Liquefied Natural Gas Contract with India's Gujarat Energy
+US (2)
+  [3] deals_ipos: Anthropic's $100 Billion IPO Plan Faces Friction Amid Tech Market Volatility
+  [3] deals_ipos: Wendy's Rejects $1.4 Billion Buyout Proposal from Trian and Enacts Poison Pill
+CHINA (2)
+  [3] earnings: Hong Kong Exchange Operator Reports First Profit Decline in Two Years as Trading Cools
+  [3] companies: Huawei Unveils Enterprise Desktop Computer Powered Entirely by Domestic Components
+RUSSIA (2)
+  [3] companies: Russia Seizes Japan Tobacco Manufacturing Assets Under State Control Decrees
+  [3] rates_macro: Russia Increases Domestic Debt Issuance Limit by $12 Billion as Budget Deficit Widens
+GLOBAL (2)
+  [3] rates_macro: World Bank Warns Developing Nation Debt Reaches Record $9.4 Trillion
+  [3] banking: Paraguayan President Resigns Following Banking System Collapse at Ueno Bank
