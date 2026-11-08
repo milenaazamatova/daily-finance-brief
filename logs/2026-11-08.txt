@@ -1,0 +1,77 @@
+Daily Finance Brief run 2026-11-08 13:47 Dubai
+
+Sources:
+  The National (Business): 4
+  Gulf News (Business): 11
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 1
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 0
+  WSJ (Markets): 3
+  WSJ (US Business): 6
+  WSJ (Economy): 2
+  New York Times (Business): 5
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 3
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 2
+  China economy (search - Reuters, FT, Bloomberg): 92
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 21
+  Russia economy (search - Reuters, FT, Bloomberg): 51
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 11
+  Reuters (Markets, via Google News): 0
+  Financial Times (Markets): 3
+  Financial Times (Companies): 11
+  Financial Times (Global Economy): 1
+  BBC (Business): 4
+  The Guardian (Business): 17
+  The Guardian (Economics): 1
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 0
+  Investing.com (Commodities): 5
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 16
+  Finnhub (forex): 0
+  Finnhub (merger): 0
+
+Articles: 352 fetched, 278 after dedupe
+Relevance filter: 148 kept, 130 dropped
+Brief 2026-11-08: 15 stories
+
+TOP STORIES
+  [5] GLOBAL markets: Tech Stocks Tumble in Asia as AI Rout Prompts Capital Rotation to Value Plays
+  [5] US     earnings: Berkshire Hathaway Q3 Operating Profit Declines as Share Buybacks Reach $9.6 Billion
+  [4] RUSSIA companies: Russia Seizes Japan Tobacco Assets Under Expanding State Administration
+  [4] CHINA  oil_energy: China Energy Investment Projected to Reach $940 Billion in 2026 Driven by Grid Spending
+  [4] US     rates_macro: Strong US Payroll Growth Reassures Markets as Inflation Pressure Begins to Ease
+  [4] GLOBAL oil_energy: Saudi Aramco Facility Damaged by Interception Debris Amid Regional Security Tensions
+UAE (2)
+  [3] markets: Abu Dhabi Property Transactions Surge 76% to Dh171 Billion in 2026
+  [3] rates_macro: UAE Expands Corporate Tax Deductions Across Six Employee Business Expense Categories
+US (2)
+  [4] companies: Apple Achieves $2.7 Billion Tax Savings by Booking Overseas Profits in Singapore
+  [3] companies: US Scrutiny Mounts Over Nvidia AI Processor Exports to Chinese Shell Companies
+CHINA (2)
+  [3] markets: Beijing Real Estate Measures Fail to Halt Slump in Lower-Tier Chinese Cities
+  [3] deals_ipos: SoftBank and ABB Explore China Carve-Out to Protect $5 Billion Robotics Deal
+RUSSIA (0)
+GLOBAL (3)
+  [4] banking: Paraguay Banking Turmoil Deepens with Arrest of Former President Peña Following Ueno Bank Failure
+  [3] deals_ipos: Coca-Cola Bottling Subsidiary Hindustan Coca-Cola Files for Indian Public Listing
+  [3] companies: Global Hotel Operators Add $50 Billion in Value as Leisure Demand Proves Resilient
