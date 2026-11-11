@@ -1,0 +1,85 @@
+Daily Finance Brief run 2026-11-11 14:12 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 39
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 19
+  Zawya (Economy, via Google News): 13
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 4
+  CNBC (Business): 3
+  CNBC (Economy): 2
+  CNBC (Earnings): 4
+  CNBC (Investing): 2
+  WSJ (Markets): 33
+  WSJ (US Business): 43
+  WSJ (Economy): 8
+  New York Times (Business): 24
+  New York Times (Economy): 6
+  New York Times (DealBook): 5
+  South China Morning Post (Business): 14
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 31
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 1
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 5
+  Financial Times (Markets): 15
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 17
+  BBC (Business): 16
+  The Guardian (Business): 30
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 42
+  Finnhub (forex): 1
+  Finnhub (merger): 11
+
+Articles: 839 fetched, 664 after dedupe
+Relevance filter: 476 kept, 188 dropped
+Brief 2026-11-11: 23 stories
+
+TOP STORIES
+  [5] US     rates_macro: US Inflation Climbs 0.4% in October as 10-Year Treasury Tops 5% on 50-Basis-Point Fed Hike Bets
+  [5] US     companies: Nvidia Sheds $430 Billion in Market Value as Board Probes CEO Jensen Huang Amid China Spy Scandal
+  [5] US     deals_ipos: Anthropic Targets $1.4 Trillion IPO Valuation Backed by $10 Billion Nvidia Investment
+  [4] GLOBAL oil_energy: Crude Oil Rebounds on Strait of Hormuz Tanker Attacks Following Steep Drop Below $90
+  [4] US     earnings: CoreWeave Pops 11% on 168% Revenue Jump and $133 Billion Backlog, Soothing AI Trade Concerns
+  [4] GLOBAL earnings: SoftBank Incurs $7 Billion Loss as Data Center Turbine Bets Unravel
+UAE (4)
+  [4] deals_ipos: DIP Holding Surges 6% on DFM Debut Following Dh1.94 Billion IPO
+  [4] earnings: AD Ports Delivers Record Q3 Net Profit of Dh975 Million on Cargo Mitigation Strategies
+  [3] rates_macro: UAE Corporate Tax Collections Climb 34% to Dh46.5 Billion Amid Maturing Compliance
+  [3] markets: Dubai Property Sales Climb 18% to Dh34.8 Billion as Major Master Communities Launch
+US (3)
+  [4] companies: OpenAI Hits $10 Billion Revenue Run-Rate While Widening Operating Losses from Compute Costs
+  [3] oil_energy: US Crude Oil Output Reaches Record 14.3 Million Barrels per Day
+  [3] deals_ipos: Diamondback Energy and KKR Acquire Five Point Permian Water Platform for $2.1 Billion
+CHINA (3)
+  [4] deals_ipos: Alibaba Confidentially Files for Hong Kong IPO of Semiconductor Unit T-Head
+  [4] rates_macro: China's Annual Goods Trade Surplus Exceeds $1 Trillion Amid Deepening Global Tensions
+  [3] companies: Chinese Shipyards Overtake South Korea in Monthly Large LNG Carrier Orders
+RUSSIA (3)
+  [4] oil_energy: Ukrainian Strikes Knock Out 30% of Russian Refining Capacity as Abu Dhabi Talks Open
+  [3] rates_macro: Russian 10-Month Budget Deficit Reaches 5.2 Trillion Rubles on War Spending
+  [3] oil_energy: Russian Diesel Tankers Divert Courses as Greek Fleets Shift to High-Margin Gulf Trade
+GLOBAL (4)
+  [4] deals_ipos: UK Competition Regulator Flags Red Light on $25B AkzoNobel-Axalta and $65B Unilever-McCormick Deals
+  [4] deals_ipos: KKR and RWE Commit $16 Billion to UK North Sea Offshore Wind Power Development
+  [3] rates_macro: Bank of England Pressured to Raise Key Rate to 5% as Persistent Inflation Risks Grow
+  [3] oil_energy: Poland's Orlen Cancels Long-Term QatarEnergy LNG Supply Contract Over Delivery Failures
