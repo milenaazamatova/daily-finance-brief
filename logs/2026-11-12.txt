@@ -1,0 +1,88 @@
+Daily Finance Brief run 2026-11-12 14:34 Dubai
+
+Sources:
+  The National (Business): 14
+  Gulf News (Business): 24
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 14
+  Zawya (Economy, via Google News): 12
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 3
+  CNBC (Business): 4
+  CNBC (Economy): 3
+  CNBC (Earnings): 4
+  CNBC (Investing): 0
+  WSJ (Markets): 27
+  WSJ (US Business): 36
+  WSJ (Economy): 8
+  New York Times (Business): 20
+  New York Times (Economy): 3
+  New York Times (DealBook): 5
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 11
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 30
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 3
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 6
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 8
+  Financial Times (Markets): 18
+  Financial Times (Companies): 24
+  Financial Times (Global Economy): 12
+  BBC (Business): 13
+  The Guardian (Business): 18
+  The Guardian (Economics): 3
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 10
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 8
+  Finnhub (general): 32
+  Finnhub (forex): 1
+  Finnhub (merger): 11
+
+Articles: 787 fetched, 633 after dedupe
+Relevance filter: 495 kept, 138 dropped
+Brief 2026-11-12: 26 stories
+
+TOP STORIES
+  [5] US     companies: Nvidia Shares Plunge as Board Weighs CEO Jensen Huang's Future Amid Scandal
+  [5] US     rates_macro: US Dollar and Bond Yields Surge as Hawkish Fed Signals Push Back Rate Cut Bets
+  [4] US     earnings: CoreWeave Earnings Beat Revives Tech Sentiment and AI Infrastructure Trade
+  [4] GLOBAL oil_energy: Oil Prices Fluctuate as OPEC Output Rebound Offset Geopolitical Risks in Strait of Hormuz
+  [4] GLOBAL rates_macro: UK GDP Expansion Accelerates to 0.7% in Q3 Boosted by AI Investments
+  [4] US     deals_ipos: Anthropic Advances Mega IPO Plans Seeking Up to $64 Billion Valuation
+UAE (4)
+  [4] banking: First Abu Dhabi Bank Announces $4.08 Billion Rights Issue to Fuel Growth
+  [3] earnings: DEWA Profits Jump 11.7% to AED 7.63 Billion on Surging Dubai Power Demand
+  [3] earnings: ADNOC L&S Projects $4 Billion Annual Profit Powered by Rising Tanker Rates
+  [3] earnings: Emirates Global Aluminium Nine-Month Profits Fall on Regional Shipping Disruptions
+US (4)
+  [3] deals_ipos: Western Union Cancels $500 Million Intermex Deal Following Regulatory Pushback
+  [3] deals_ipos: Pfizer Partners with Blackstone in $1.5 Billion Non-Dilutive R&D Funding Deal
+  [3] markets: Polymarket Trims Headcount and Contracts as Competition and Scrutiny Escalate
+  [3] markets: MSCI to Remove Strategy from Global Benchmark Indexes Threatening Fund Inflows
+CHINA (4)
+  [4] earnings: SMIC Doubles Net Profit on Domestic AI Semiconductor Demand Spillover
+  [4] rates_macro: PBOC Signals Shift to Policy Delivery and Cautions Against Excessive Rate Cuts
+  [3] rates_macro: China Collects $24 Billion in Tax Compliance Crackdown on Offshore Trusts
+  [3] companies: Eli Lilly Gains Regulatory Approval for Oral Weight-Loss Pill in China
+RUSSIA (4)
+  [4] rates_macro: Russian Inflation Rises to 7% in October Maintaining Central Bank's Tight Stance
+  [3] banking: Sberbank Outlines Multi-Year Strategy Targeting 21% Return on Equity
+  [3] companies: Russian State Authorities Confiscate Manufacturing Facilities of Japan Tobacco
+  [3] rates_macro: EU Reaches Agreement on New Sanctions Targeting Russian Shadow Fleet and Lenders
+GLOBAL (4)
+  [3] earnings: Rolls-Royce Launches $2 Billion Buyback Powered by Strong Engine Demand
+  [3] banking: UK Challenger Metro Bank Places Itself Up for Sale Under Strategic Review
+  [3] deals_ipos: Agile Robots Secures Capital Led by SoftBank at $8.5 Billion Valuation
+  [3] banking: Singapore Opens National Gold Vault to Foreign Central Banks to Boost Bullion Hub Status
