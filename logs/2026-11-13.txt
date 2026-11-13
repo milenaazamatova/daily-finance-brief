@@ -1,0 +1,80 @@
+Daily Finance Brief run 2026-11-13 14:27 Dubai
+
+Sources:
+  The National (Business): 13
+  Gulf News (Business): 23
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 21
+  Zawya (Economy, via Google News): 11
+  US Federal Reserve (Monetary Policy): 1
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 3
+  CNBC (Business): 2
+  CNBC (Economy): 2
+  CNBC (Earnings): 3
+  CNBC (Investing): 0
+  WSJ (Markets): 30
+  WSJ (US Business): 38
+  WSJ (Economy): 6
+  New York Times (Business): 25
+  New York Times (Economy): 2
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 50
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 3
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 90
+  Reuters (Markets, via Google News): 21
+  Financial Times (Markets): 14
+  Financial Times (Companies): 24
+  Financial Times (Global Economy): 7
+  BBC (Business): 17
+  The Guardian (Business): 28
+  The Guardian (Economics): 3
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 39
+  Finnhub (forex): 1
+  Finnhub (merger): 9
+
+Articles: 817 fetched, 677 after dedupe
+Relevance filter: 504 kept, 173 dropped
+Brief 2026-11-13: 18 stories
+
+TOP STORIES
+  [5] US     companies: Jensen Huang Resigns as Nvidia CEO Amid Regulatory Scrutiny and Personal Scandal
+  [5] US     rates_macro: US Treasury Yields Surge and Dollar Hits 19-Month High as Inflation Pressures Resurface
+  [5] GLOBAL oil_energy: IEA Forecasts Return to Global Oil Surplus as Gulf Shipments Rebound
+  [4] US     rates_macro: US Existing Home Sales Collapse to 16-Year Low as 7% Mortgage Rates Freeze Market
+  [4] US     deals_ipos: SpaceX Outlines Over $74 Billion Investment in Texas and Arizona AI Data Centers
+UAE (3)
+  [4] earnings: ADNOC L&S Net Profit Triples to Dh7.6 Billion on Surging Global Freight Rates
+  [3] earnings: Dewa Achieves Record Nine-Month Profit Driven by Rising Power and Water Demand
+  [3] earnings: Salik Nine-Month Net Profit Crosses Dh1 Billion as Toll Gate Traffic Rebounds
+US (2)
+  [4] earnings: Cisco Lifts Annual Guidance on Doubling AI Infrastructure Revenue
+  [3] deals_ipos: Global Payments Takeover Talks Collapse as Private Equity Firms Walk Away
+CHINA (3)
+  [4] companies: SMIC Warns of AI Chip Supply Crunch Through 2028 Amid Tighter US Restrictions
+  [3] markets: Chinese A-Share Sentiment Indicator Drops Back into Bearish Territory
+  [3] deals_ipos: New World Development Plans $3.2 Billion Rights Issue to Delever Balance Sheet
+RUSSIA (3)
+  [4] oil_energy: Russia's Urals Crude Discount Widens to Deepest Level Since April 2023
+  [3] rates_macro: Bank of Russia Governor Outlines Monetary Policy Guidelines for 2027-2029
+  [3] banking: EU Prepares New Package of Banking and Energy Sanctions Against Russia
+GLOBAL (2)
+  [4] rates_macro: UK Economy Expands 0.7% in Q3 for Fastest Quarterly Growth in Two Years
+  [3] earnings: Richemont Profit Surges 39% on Strong Cartier Jewellery Sales
