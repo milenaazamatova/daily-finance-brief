@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-11-16 14:32 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 15
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 16
+  Zawya (Economy, via Google News): 7
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 2
+  CNBC (Business): 1
+  CNBC (Economy): 1
+  CNBC (Earnings): 0
+  CNBC (Investing): 0
+  WSJ (Markets): 16
+  WSJ (US Business): 19
+  WSJ (Economy): 4
+  New York Times (Business): 14
+  New York Times (Economy): 0
+  New York Times (DealBook): 0
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 19
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 3
+  Reuters (Business, via Google News): 32
+  Reuters (Markets, via Google News): 8
+  Financial Times (Markets): 12
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 12
+  BBC (Business): 10
+  The Guardian (Business): 22
+  The Guardian (Economics): 3
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 4
+  Investing.com (Commodities): 6
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 15
+  Finnhub (forex): 1
+  Finnhub (merger): 3
+
+Articles: 585 fetched, 432 after dedupe
+Relevance filter: 306 kept, 126 dropped
+Brief 2026-11-16: 19 stories
+
+TOP STORIES
+  [5] US     companies: Nvidia Board Pressure and US Government Scrutiny Escalate Following Jensen Huang Exit
+  [5] US     deals_ipos: Anthropic Mega-IPO Achieves Massive Oversubscription Amid Public Market AI Test
+  [5] CHINA  rates_macro: China Economic Activity Slows in October as Retail Sales and Output Trail Forecasts
+  [4] GLOBAL rates_macro: Japan Economy Unexpectedly Contracts in Q3 as High Import Costs Drag Spending
+  [4] GLOBAL oil_energy: Global Oil Prices Slide as Forecast Supply Surplus Overpowers Middle East Risks
+  [4] US     rates_macro: US Dollar Surges as Sticky Inflation Fuels Hawkish Federal Reserve Expectations
+UAE (3)
+  [3] earnings: UAE Listed Companies Report 12.7% Q3 Profit Increase to Dh77.5 Billion
+  [3] deals_ipos: Mubadala Partners With Centerbridge to Acquire Canaccord Wealth for $1.54 Billion
+  [3] deals_ipos: Al Ain Asset Management and Emaar Partner for Dh8 Billion Real Estate Expansion
+US (2)
+  [3] deals_ipos: Diamondback Energy Nears $5 Billion Acquisition of Permian Drilling Assets
+  [3] companies: US FDA Rejects Chinese-Developed Cancer Drug in Blow to Cross-Border Biotech Deals
+CHINA (3)
+  [4] deals_ipos: New World Development Shares Fall 40% After $3.2 Billion Discounted Rights Issue
+  [3] earnings: Baidu Q3 Profit Plunges 46% as Advertising Weakness Offsets Enterprise AI Growth
+  [3] markets: HKEX Launches First Dim Sum Bond Index to Support Offshore Yuan Debt Markets
+RUSSIA (2)
+  [3] rates_macro: Russian Economic Analysts Adjust Rate Path and Inflation Targets Upward
+  [3] rates_macro: European Union Prepares 113 New Sanctions Targets Against Russia
+GLOBAL (3)
+  [3] rates_macro: Eurozone Industrial Output Rebounds 0.2% in September Offering Mild Relief
+  [3] banking: Italian Court Places Revolut Business Unit Under Judicial Supervision Over AML Concerns
+  [3] rates_macro: India Wholesale Inflation Surges to 12.29% in October Driven by Energy Costs
