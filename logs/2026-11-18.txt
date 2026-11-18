@@ -1,0 +1,83 @@
+Daily Finance Brief run 2026-11-18 14:59 Dubai
+
+Sources:
+  The National (Business): 11
+  Gulf News (Business): 29
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 3
+  Zawya (Business, via Google News): 15
+  Zawya (Economy, via Google News): 4
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 3
+  CNBC (Business): 8
+  CNBC (Economy): 5
+  CNBC (Earnings): 8
+  CNBC (Investing): 1
+  WSJ (Markets): 29
+  WSJ (US Business): 48
+  WSJ (Economy): 7
+  New York Times (Business): 34
+  New York Times (Economy): 10
+  New York Times (DealBook): 6
+  South China Morning Post (Business): 14
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 65
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 4
+  European Central Bank (Press Releases): 3
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 100
+  Reuters (Markets, via Google News): 17
+  Financial Times (Markets): 17
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 10
+  BBC (Business): 16
+  The Guardian (Business): 28
+  The Guardian (Economics): 4
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 9
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 49
+  Finnhub (forex): 1
+  Finnhub (merger): 9
+
+Articles: 892 fetched, 719 after dedupe
+Relevance filter: 524 kept, 195 dropped
+Brief 2026-11-18: 21 stories
+
+TOP STORIES
+  [5] US     earnings: Nvidia Reports Strong Revenue Growth while Board Rejects Return of Ex-CEO Jensen Huang
+  [5] US     deals_ipos: Anthropic Prepares Blockbuster IPO as Wall Street Banks Raise Expected Valuation
+  [5] US     rates_macro: US Dollar Holds 19-Month High and Gold Depreciates on Hawkish Federal Reserve Expectations
+  [4] GLOBAL rates_macro: UK October Inflation Surges to One-Year High of 3.6% Driven by Energy and Fuel Costs
+  [4] UAE    oil_energy: ADNOC Vessel Attacked in Strait of Hormuz amid Escalating Regional Shipping Tensions
+  [4] GLOBAL banking: ECB Financial Stability Report Warns of AI Tech Debt Bubble and Sovereigns Fiscal Strain
+UAE (3)
+  [4] rates_macro: IMF Forecasts UAE Economic Growth Accelerating to 7.3% by 2027
+  [4] deals_ipos: Emaar Development Board Approves Dh15-Per-Share Take-Private Offer from Emaar Properties
+  [3] markets: Abu Dhabi Launches Stock Market Investment Fund Focused on Robotics Revolution
+US (3)
+  [4] earnings: Disney Beats Quarterly Earnings Estimates and Outlines $3 Billion Cost Reduction Target
+  [3] companies: Home Depot Appoints Insider Richard McPhail as CEO after Quarterly Profit Beat
+  [3] companies: General Motors Weighs External CEO Candidates and Increases Factory Automation Investment
+CHINA (3)
+  [4] earnings: Tencent Profit Margins Pressure as Capital Expenditure Surges Sixfold for AI Computing
+  [4] rates_macro: PBOC Sets Strongest Yuan Fix Since 2022 to Support Local Currency Gains
+  [4] companies: US Enforces Expanded AI Chip Export Curbs Disrupting Southeast Asian Tech Pipelines
+RUSSIA (3)
+  [4] oil_energy: Russian Gasoline Imports Reach Record Levels following Ukrainian Drone Strikes on Refineries
+  [3] rates_macro: Russia-China Bilateral Trade Nears Record Highs Driven by Yuan Payment Settlements
+  [3] banking: Bank of Russia Compiles Official Registry of Illegal Financial Operations
+GLOBAL (3)
+  [4] rates_macro: Bank Indonesia Unexpectedly Hikes Key Interest Rate to 6% to Support Record-Low Rupiah
+  [4] banking: Deutsche Bank Shares Fall following Reports of Anti-Money Laundering Control Failures
+  [3] companies: Alstom Shares Decline to 21-Year Low over Project Execution Losses and Mounting Debt
