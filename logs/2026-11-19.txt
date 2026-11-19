@@ -1,0 +1,83 @@
+Daily Finance Brief run 2026-11-19 15:01 Dubai
+
+Sources:
+  The National (Business): 11
+  Gulf News (Business): 24
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): FAILED HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:arabianbusiness.com/business+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+  Zawya (Business, via Google News): FAILED HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:zawya.com/en/business+when:1d&hl=en-AE&gl=AE&ceid=AE:en
+  Zawya (Economy, via Google News): 16
+  US Federal Reserve (Monetary Policy): 1
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 5
+  CNBC (Business): 7
+  CNBC (Economy): 1
+  CNBC (Earnings): 7
+  CNBC (Investing): 0
+  WSJ (Markets): 29
+  WSJ (US Business): 37
+  WSJ (Economy): 10
+  New York Times (Business): 32
+  New York Times (Economy): 1
+  New York Times (DealBook): 34
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 8
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 56
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 2
+  Bank of Japan (What's New): 2
+  Reuters (Business, via Google News): 99
+  Reuters (Markets, via Google News): FAILED HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:reuters.com/markets+when:1d&hl=en-US&gl=US&ceid=US:en
+  Financial Times (Markets): 15
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 8
+  BBC (Business): 17
+  The Guardian (Business): 20
+  The Guardian (Economics): 3
+  Economic Times (Markets): 50
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 7
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 9
+  Finnhub (general): 63
+  Finnhub (forex): 1
+  Finnhub (merger): 8
+
+Articles: 858 fetched, 689 after dedupe
+Relevance filter: 545 kept, 144 dropped
+Brief 2026-11-19: 21 stories
+
+TOP STORIES
+  [5] US     deals_ipos: Anthropic Raises Record $81 Billion in Blockbuster IPO at $1.5 Trillion Valuation
+  [5] US     rates_macro: Federal Reserve Minutes Signal Readiness for Further Rate Hikes Amid Persistent Inflation
+  [5] GLOBAL oil_energy: IEA Warns Middle East Conflict Poses Historic Threat to Global Energy Security
+  [4] GLOBAL banking: UniCredit and Germany Reach Deal on Commerzbank Takeover Battle
+  [4] RUSSIA companies: Japan Tobacco Takes $8.6 Billion Charge Following Russian Operations Seizure
+  [4] CHINA  earnings: Alibaba Revenue Beats Expectations on 67% Surge in AI Cloud Computing
+  [4] UAE    banking: Abu Dhabi Court Freezes $6.5 Billion in Crypto Assets Following Binance Heist
+UAE (2)
+  [3] companies: Uber Commits Dh184 Million to Expand Autonomous Ride Fleet in Dubai
+  [3] deals_ipos: Infrastructure Investor Morrison Seeks UAE Partners for Renewables and Data Infrastructure
+US (3)
+  [4] deals_ipos: Palo Alto Networks to Acquire AI Startup Applied Compute for $4.5 Billion
+  [4] companies: Nvidia Interim Management Moves to Reassure Markets Following Leadership Exit
+  [3] oil_energy: Data Center AI Demand Poised to Double Global Electricity Usage by 2030
+CHINA (3)
+  [4] companies: TSMC and Samsung Halt Certain Chip Shipments to China Under New US Controls
+  [3] deals_ipos: New World Development Shareholders Protest Controversial $3.2 Billion Rights Issue
+  [3] rates_macro: China and South Korea Expand Free Trade Agreement to Services and Investment
+RUSSIA (3)
+  [4] oil_energy: Ukrainian Drone Strikes Reduce Russian Oil Refining Runs by 45 Percent
+  [3] banking: Russian Pawnbroker MGKL Cut to Default as Corporate Bond Failures Mount
+  [3] rates_macro: Wartime Tax Increases Push One-Third of Russian Small Businesses Toward Closure
+GLOBAL (3)
+  [4] rates_macro: UK Inflation Accelerates to One-Year High of 3.6% Driven by Fuel Costs
+  [4] rates_macro: Australian Unemployment Rate Jumps to Five-Year High as Payrolls Shrink
+  [3] oil_energy: European Union Postpones Methane Rules on Gas Imports by Two Years
