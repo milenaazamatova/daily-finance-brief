@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-11-20 14:50 Dubai
+
+Sources:
+  The National (Business): 8
+  Gulf News (Business): 18
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 9
+  Zawya (Economy, via Google News): 6
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 0
+  CNBC (Business): 2
+  CNBC (Economy): 3
+  CNBC (Earnings): 3
+  CNBC (Investing): 2
+  WSJ (Markets): 35
+  WSJ (US Business): 44
+  WSJ (Economy): 10
+  New York Times (Business): 32
+  New York Times (Economy): 1
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 20
+  South China Morning Post (China Economy): 8
+  South China Morning Post (Companies): 7
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 46
+  Russia economy (search - Reuters, FT, Bloomberg): 99
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 0
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 90
+  Reuters (Markets, via Google News): 24
+  Financial Times (Markets): 23
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 16
+  BBC (Business): 17
+  The Guardian (Business): 16
+  The Guardian (Economics): 8
+  Economic Times (Markets): 42
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 10
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 36
+  Finnhub (forex): 1
+  Finnhub (merger): 9
+
+Articles: 817 fetched, 641 after dedupe
+Relevance filter: 510 kept, 131 dropped
+Brief 2026-11-20: 19 stories
+
+TOP STORIES
+  [5] US     deals_ipos: Anthropic’s Record $81 Billion IPO Fails to Stem Global Tech Rout as Stock Market Sell-Off Deepens
+  [5] US     rates_macro: Federal Reserve Rate Hike Expectations Drive US Dollar to 19-Month High and Depress Gold
+  [4] GLOBAL oil_energy: Global Oil Prices Head for Third Weekly Loss as Supply Growth Outweighs Middle East Risks
+  [4] GLOBAL rates_macro: Japan's Core Inflation Accelerates to 11-Month High, Cementing Bank of Japan Rate Hike Bets
+  [4] US     companies: California Regulator Subpoenas Nvidia as US Lawmakers Probe AI Chip Export Compliance
+  [4] US     deals_ipos: TPG and Corpay to Acquire Financial Automation Firm Bill Holdings for $6 Billion
+UAE (2)
+  [3] banking: UAE Homeowners Advised to Review Mortgages as Central Bank Base Rates Rise and Handover Volumes Surge
+  [3] banking: UAE Highlights $1 Trillion in US Investments During Abu Dhabi Investment Forum
+US (3)
+  [3] deals_ipos: Intuit Sells Email Marketing Platform Mailchimp for $3.68 Billion to Bending Spoons
+  [3] earnings: Palo Alto Networks Acquires AI Startup Applied Compute for $4.5 Billion and Raises Outlook
+  [3] earnings: Walmart Lifts Full-Year Outlook Powered by Strong Digital Sales Growth
+CHINA (3)
+  [4] deals_ipos: Beijing to Bar Young 'Red-Chip' Companies From Listing Outside Mainland China
+  [3] rates_macro: China Keeps Benchmark Loan Prime Rates Unchanged for 18th Consecutive Month
+  [3] markets: China’s Sovereign Wealth Fund Prepares to Resume US Private Equity Investments Under Special Terms
+RUSSIA (3)
+  [3] rates_macro: Russia Passes 2027 Budget in Second Reading Featuring $66 Billion Fiscal Deficit
+  [3] companies: Japan Tobacco Takes $8.9 Billion Charge Following Russian Asset Seizures
+  [2] banking: Bank of Russia Increases Corporate Credit Growth Forecast and Proposes Insurance Tariff Reforms
+GLOBAL (2)
+  [3] banking: European Central Bank to Expand Currency Swap Lines to Support Euro Financial Stability
+  [3] deals_ipos: BASF Abandons Takeover Bid for German Chemical Peer Evonik Industries
