@@ -1,0 +1,84 @@
+Daily Finance Brief run 2026-11-21 14:34 Dubai
+
+Sources:
+  The National (Business): 7
+  Gulf News (Business): 17
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 0
+  Zawya (Business, via Google News): 7
+  Zawya (Economy, via Google News): 2
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 2
+  CNBC (Finance): 5
+  CNBC (Business): 4
+  CNBC (Economy): 1
+  CNBC (Earnings): 1
+  CNBC (Investing): 3
+  WSJ (Markets): 20
+  WSJ (US Business): 33
+  WSJ (Economy): 6
+  New York Times (Business): 25
+  New York Times (Economy): 1
+  New York Times (DealBook): 3
+  South China Morning Post (Business): 7
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 6
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 27
+  Russia economy (search - Reuters, FT, Bloomberg): 99
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 70
+  Reuters (Markets, via Google News): 16
+  Financial Times (Markets): 13
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 9
+  BBC (Business): 10
+  The Guardian (Business): 19
+  The Guardian (Economics): 3
+  Economic Times (Markets): 17
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 4
+  Finnhub (general): 39
+  Finnhub (forex): 1
+  Finnhub (merger): 8
+
+Articles: 651 fetched, 513 after dedupe
+Relevance filter: 354 kept, 159 dropped
+Brief 2026-11-21: 22 stories
+
+TOP STORIES
+  [5] US     markets: Global Stock Markets Suffer Severe Selloff as Anthropic Debut Fails to Sustain AI Rally
+  [5] US     companies: SEC Investigates Nvidia Accounting Practices Amid Executive Resignation and Chip Sales Probe
+  [4] GLOBAL oil_energy: Global Oil Prices Decline for Third Consecutive Week on Ample Non-OPEC Supply
+  [4] GLOBAL markets: Gold and Silver Prices Fall to 14-Month Lows Driven by Rate Expectations and Liquidations
+  [4] GLOBAL rates_macro: UK and EU Reach Landmark Trade Agreement to Link Carbon Markets and Streamline Exports
+  [4] GLOBAL banking: Intesa Sanpaolo Launches €34.5 Billion Takeover Offer for Monte dei Paschi
+  [4] US     companies: US Court Approves $7.25 Billion Settlement for Bayer Over Roundup Cancer Claims
+UAE (3)
+  [3] banking: Abu Dhabi's MGX Gains Big from Anthropic's Record Initial Public Offering
+  [3] banking: Abu Dhabi Global Market Outlines Strategy to Join Top Five Global Financial Centers
+  [2] rates_macro: UAE Federal Tax Authority Simplifies Compliance Rules for Vending Sales and Insurance Vehicle Transfers
+US (3)
+  [4] earnings: Take-Two's Grand Theft Auto VI Generates Record $3.8 Billion in First-Day Sales
+  [4] companies: Trump Threatens Heavy Penalties on US Tech Firms Building Data Centers Overseas
+  [4] rates_macro: Fed Governors Signal Rate Hikes May Be Necessary as Inflation Concerns Persist
+CHINA (3)
+  [4] deals_ipos: Beijing Prepares Ban on Overseas Stock Listings for Young Red-Chip Companies
+  [4] rates_macro: Chinese Government Bond Yields Fall Below Japan's Amid Deflationary Pressures
+  [3] companies: China's Electric Vehicle Adoption Rate Set to Exceed 70% as Combustion Sales Fall
+RUSSIA (3)
+  [3] banking: Russia Increases Deposit Guarantee Cap for Long-Term Savers Ahead of New Income Tax
+  [3] rates_macro: Russian 2027 Budget Schedules Pension Increases to Reach RUB 29,900 Average
+  [2] banking: Bank of Russia Reports 19 Billion Ruble Sales Surge in New Life Insurance Category
+GLOBAL (3)
+  [3] companies: European Construction Companies Pivot Toward €620 Billion Defense Infrastructure Boom
+  [3] markets: Indian Equities Surge on Strong Foreign Inflows as Rupee Strengthens Past 93/USD
+  [3] oil_energy: International Energy Agency Projects Global Electricity Demand to Rise 81% by 2050
