@@ -1,0 +1,78 @@
+Daily Finance Brief run 2026-11-22 14:38 Dubai
+
+Sources:
+  The National (Business): 3
+  Gulf News (Business): 7
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 0
+  Zawya (Economy, via Google News): 0
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 0
+  CNBC (Business): 1
+  CNBC (Economy): 1
+  CNBC (Earnings): 0
+  CNBC (Investing): 0
+  WSJ (Markets): 4
+  WSJ (US Business): 4
+  WSJ (Economy): 1
+  New York Times (Business): 16
+  New York Times (Economy): 2
+  New York Times (DealBook): 1
+  South China Morning Post (Business): 3
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 1
+  China economy (search - Reuters, FT, Bloomberg): 99
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 16
+  Russia economy (search - Reuters, FT, Bloomberg): 36
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 0
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 8
+  Reuters (Markets, via Google News): 2
+  Financial Times (Markets): 4
+  Financial Times (Companies): 12
+  Financial Times (Global Economy): 1
+  BBC (Business): 4
+  The Guardian (Business): 12
+  The Guardian (Economics): 1
+  Economic Times (Markets): 5
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 2
+  Investing.com (Commodities): 7
+  Investing.com (Economic Indicators): 0
+  Finnhub (general): 9
+  Finnhub (forex): 0
+  Finnhub (merger): 2
+
+Articles: 290 fetched, 229 after dedupe
+Relevance filter: 116 kept, 113 dropped
+Brief 2026-11-22: 16 stories
+
+TOP STORIES
+  [5] GLOBAL markets: Global Stock Markets Slide into Correction Territory as AI Valuation Jitters Spark Tech Rout
+  [5] UAE    oil_energy: UAE Initiates Risky Oil Shuttle Operations as Gulf Tensions Escalate Near Strait of Hormuz
+  [5] US     companies: Nvidia Faces Dual SEC and Criminal Inquiries Over Accounting Practices and Asian Sales
+  [4] GLOBAL markets: Gold Price Drops to $3,510/Oz as Stronger Dollar and High Bond Yields End Five-Year Rally
+  [4] US     deals_ipos: Amazon Near $7.5 Billion Deal to Acquire AI Startup Decart to Expand Cloud Hardware Capabilities
+  [4] CHINA  rates_macro: China Generates $24 Billion From Offshore Trust Tax Levy and Weighs New Estate Tax
+UAE (2)
+  [3] banking: Four UAE Commercial Banks Secure Spots Among Top 100 Safest Banks Globally in 2026
+  [2] other: Demand for Financial Accounting Professionals Rises in UAE Driven by Corporate Tax Compliance
+US (2)
+  [3] companies: Tech Hardware Suppliers Force Post-Contract Price Increases of Up to 45% on AI Server Orders
+  [3] rates_macro: Tentative Labor Deal Averts Immediate Port Strike Threat at Los Angeles and Long Beach
+CHINA (2)
+  [4] markets: Chinese AI Equities Lose $1.7 Trillion in Market Value Amid Global Tech Sell-Off
+  [3] companies: New World Development Unveils HK$50 Billion Debt Cut Plan After HK$24.9 Billion Rights Issue
+RUSSIA (2)
+  [3] oil_energy: Russia's Seaborne Crude Exports Hit Four-Month High Following Refinery Outages
+  [3] rates_macro: Russian Real Household Income Boom Fades as Structural Strains and Inflation Take Hold
+GLOBAL (2)
+  [3] rates_macro: EU Proposes €40 Billion Budget Cut and Big Tech Digital Tax Plan Facing Member State Opposition
+  [3] deals_ipos: Indian Infrastructure Trusts Prepare Rs 17,000 Crore Public Offering Surge Through 2027
