@@ -1,0 +1,79 @@
+Daily Finance Brief run 2026-11-23 15:40 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 19
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 15
+  Zawya (Economy, via Google News): 10
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 2
+  CNBC (Economy): 0
+  CNBC (Earnings): 0
+  CNBC (Investing): 2
+  WSJ (Markets): 20
+  WSJ (US Business): 17
+  WSJ (Economy): 4
+  New York Times (Business): 14
+  New York Times (Economy): 0
+  New York Times (DealBook): 2
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 5
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 38
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 0
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 26
+  Reuters (Markets, via Google News): 9
+  Financial Times (Markets): 12
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 8
+  BBC (Business): 14
+  The Guardian (Business): 14
+  The Guardian (Economics): 0
+  Economic Times (Markets): 24
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 3
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 37
+  Finnhub (forex): 1
+  Finnhub (merger): 2
+
+Articles: 592 fetched, 419 after dedupe
+Relevance filter: 314 kept, 105 dropped
+Brief 2026-11-23: 17 stories
+
+TOP STORIES
+  [5] US     deals_ipos: CrowdStrike to Acquire Zscaler in $44 Billion Mega Deal Amid Surging Cybersecurity Demand
+  [5] GLOBAL markets: Global Stock Futures and European Equities Bounce Back Following Brutal AI-Driven Selloff
+  [4] GLOBAL rates_macro: Gold Surges Past $3,500 on Haven Inflows as Investors Await Critical U.S. Inflation Data
+  [4] GLOBAL oil_energy: European Natural Gas Prices Surge Above €90 as Cold Snap Meets Supply Shortages
+  [4] CHINA  markets: Asian Regulators Deploy Emergency Funds and Margin Relaxations to Arrest Tech Rout
+  [4] GLOBAL companies: Dutch Court Bars BYD SUV Sales in EU Following Jaguar Land Rover Design Infringement Ruling
+  [4] GLOBAL companies: Capita CEO Resigns and Shares Plunge 70% Following Civil Service Pension Failures
+UAE (2)
+  [4] deals_ipos: Dubai Real Estate Surges as Omniyat Launches Dh80 Billion Project and Tallest Office Tower Breaks Records
+  [3] deals_ipos: Gold Field Holding Commits Dh1.5 Billion Investment Across Multiple Abu Dhabi Sectors
+US (2)
+  [4] rates_macro: U.S. Consumer Confidence Dents Amid Wealth Volatility as Fed Rate Hike Bets Linger
+  [4] deals_ipos: ConocoPhillips Sells Norwegian and UK Assets to Var Energi in $4.4 Billion Deal
+CHINA (2)
+  [3] markets: Chinese State Funds and Exchanges Implement Liquidity Measures to Support Markets
+  [3] companies: Gucci and Luxury Brands Cut Prices and Close Stores in China Amid Sluggish Consumer Demand
+RUSSIA (2)
+  [3] rates_macro: Germany and France Diverge in Economic Surveys as Eurozone PMI Highlights Growth Split
+  [3] deals_ipos: Angola Puts $180 Million Price Tag on De Beers Stake as Anglo American Exit Talks Advance
+GLOBAL (2)
+  [4] rates_macro: Global Bond Yields Rebound as Investor Risk Appetite Trims Safe-Haven Demand
+  [3] oil_energy: Copper Slips Below $12,000 Amid Tech Sector Sell-Off and Demand Uncertainty
