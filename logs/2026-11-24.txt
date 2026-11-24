@@ -1,0 +1,55 @@
+Daily Finance Brief run 2026-11-24 17:12 Dubai
+
+Sources:
+  The National (Business): 12
+  Gulf News (Business): 27
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 2
+  Zawya (Business, via Google News): 20
+  Zawya (Economy, via Google News): 11
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 3
+  CNBC (Business): 4
+  CNBC (Economy): 2
+  CNBC (Earnings): 2
+  CNBC (Investing): 1
+  WSJ (Markets): 33
+  WSJ (US Business): 47
+  WSJ (Economy): 5
+  New York Times (Business): 22
+  New York Times (Economy): 2
+  New York Times (DealBook): 6
+  South China Morning Post (Business): 14
+  South China Morning Post (China Economy): 7
+  South China Morning Post (Companies): 8
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 50
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 0
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 96
+  Reuters (Markets, via Google News): 19
+  Financial Times (Markets): 17
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 3
+  BBC (Business): 14
+  The Guardian (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/uk/business/rss
+  The Guardian (Economics): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/business/economics/rss
+  Economic Times (Markets): 19
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 10
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 52
+  Finnhub (forex): 1
+  Finnhub (merger): 10
+
+Articles: 789 fetched, 608 after dedupe
+
+FAILED: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
