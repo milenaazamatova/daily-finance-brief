@@ -1,0 +1,80 @@
+Daily Finance Brief run 2026-11-26 15:48 Dubai
+
+Sources:
+  The National (Business): 13
+  Gulf News (Business): 25
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 16
+  Zawya (Economy, via Google News): 20
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 2
+  US Federal Reserve (Speeches): 1
+  CNBC (Finance): 5
+  CNBC (Business): 2
+  CNBC (Economy): 4
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 24
+  WSJ (US Business): 24
+  WSJ (Economy): 9
+  New York Times (Business): 22
+  New York Times (Economy): 1
+  New York Times (DealBook): 4
+  South China Morning Post (Business): 13
+  South China Morning Post (China Economy): 4
+  South China Morning Post (Companies): 7
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 1
+  bne IntelliNews (Russia, via Google News): 40
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 2
+  European Central Bank (Press Releases): 1
+  Bank of England (News): 1
+  Bank of Japan (What's New): 1
+  Reuters (Business, via Google News): 98
+  Reuters (Markets, via Google News): 18
+  Financial Times (Markets): 17
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 11
+  BBC (Business): 22
+  The Guardian (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/uk/business/rss
+  The Guardian (Economics): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/business/economics/rss
+  Economic Times (Markets): 36
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 8
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 67
+  Finnhub (forex): 0
+  Finnhub (merger): 6
+
+Articles: 792 fetched, 610 after dedupe
+Relevance filter: 491 kept, 119 dropped
+Brief 2026-11-26: 18 stories
+
+TOP STORIES
+  [5] US     rates_macro: US Unveils Broad New Tariffs Targeting Overcapacity Across Major Global Trading Partners
+  [5] GLOBAL markets: Global Tech Stocks Whipsaw as AI Profitability Doubts Spark Market Volatility
+  [5] US     rates_macro: Upgraded US GDP and Sticky PCE Inflation Support Federal Reserve Interest Rate Hike Expectations
+  [5] US     companies: S&P Places Nvidia on CreditWatch Negative Over Governance Concerns as US Restricts SE Asia AI Chip Exports
+  [5] RUSSIA deals_ipos: US-Led Consortium Signs Deal to Acquire Overseas Energy Portfolio of Russia's Lukoil
+  [5] UAE    banking: Dubai Islamic Bank to Acquire Emirates Islamic in All-Share Deal to Create Dh585 Billion Banking Giant
+UAE (2)
+  [4] companies: Dubai Awards Dh56.5 Billion in Contracts for Al Maktoum International Airport Expansion
+  [3] companies: Nakheel Awards Dh1.4 Billion Contract to Build Luxury Villas on Palm Jebel Ali
+US (2)
+  [4] markets: US New Home Sales Surge 14.2% in October to 10-Month High
+  [4] companies: FCC Clears SpaceX Plan to Deploy 1 Million Satellites for Space-Based AI Data Centers
+CHINA (3)
+  [4] markets: Benchmark Chinese Government Bond Yield Drops to Record Low Amid Equity Market Volatility
+  [4] companies: Property Developer Vanke Seeks Debt Extension as Chinese Real Estate Distress Escalates
+  [3] deals_ipos: Alibaba Divests $482 Million Stake in ZTO Express to Fund AI Capabilities
+RUSSIA (2)
+  [4] rates_macro: Russia's October Inflation Surges to One-Year High Driven by War Spending and Labor Shortages
+  [3] banking: Bank of Russia Reports Corporate Credit Expansion Alongside Mortgage Market Cooling
+GLOBAL (3)
+  [4] banking: UniCredit Prepares to Nominate CEO Andrea Orcel as Commerzbank Chair After Regulatory Clearance
+  [4] rates_macro: Bank of Korea Surprises with Interest Rate Hike as AI Chip Demand Drives Growth
+  [4] oil_energy: OPEC+ Members Face Internal Clash Over Production Capacity Estimates Ahead of Quota Meeting
