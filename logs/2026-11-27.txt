@@ -1,0 +1,81 @@
+Daily Finance Brief run 2026-11-27 15:41 Dubai
+
+Sources:
+  The National (Business): 9
+  Gulf News (Business): 17
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): 12
+  Zawya (Economy, via Google News): 10
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 2
+  CNBC (Economy): 4
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 23
+  WSJ (US Business): 15
+  WSJ (Economy): 3
+  New York Times (Business): 17
+  New York Times (Economy): 0
+  New York Times (DealBook): 0
+  South China Morning Post (Business): 15
+  South China Morning Post (China Economy): 8
+  South China Morning Post (Companies): 4
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 48
+  Russia economy (search - Reuters, FT, Bloomberg): 100
+  Bank of Russia (Events & press releases, in Russian): 6
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 2
+  Bank of Japan (What's New): 2
+  Reuters (Business, via Google News): 81
+  Reuters (Markets, via Google News): 29
+  Financial Times (Markets): 18
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 14
+  BBC (Business): 18
+  The Guardian (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/uk/business/rss
+  The Guardian (Economics): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/business/economics/rss
+  Economic Times (Markets): 32
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 5
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 10
+  Finnhub (general): 46
+  Finnhub (forex): 1
+  Finnhub (merger): 2
+
+Articles: 714 fetched, 550 after dedupe
+Relevance filter: 422 kept, 128 dropped
+Brief 2026-11-27: 19 stories
+
+TOP STORIES
+  [5] GLOBAL rates_macro: Pablo Hernández de Cos Nominated as Next European Central Bank President
+  [5] GLOBAL oil_energy: Oil Prices Rally Above $97 as Middle East Infrastructure Attacks Threaten Supply Ahead of OPEC+ Meeting
+  [5] CHINA  markets: Chinese Equities Surge in Largest One-Day Rally in Two Years Following State Council Market Support Pledge
+  [4] GLOBAL deals_ipos: Altria Explores $30 Billion Acquisition of Tobacco Rival Imperial Brands
+  [4] US     rates_macro: US Threatens New 20% to 40% Tariffs on China and Asian Exporters
+  [4] GLOBAL rates_macro: French Economy Enters Technical Recession after Q3 GDP Shrinks 0.2%
+UAE (3)
+  [4] banking: Dubai Islamic Bank Agrees to Acquire Emirates Islamic Bank in Mega All-Stock Merger
+  [3] markets: Dubai Benchmark Stock Index Recovers Wartime Losses Driven by Real Estate and Banking Rally
+  [3] banking: UAE Issues First Dirham-Denominated Digital Sovereign Treasury Bonds
+US (2)
+  [4] markets: US Equity Funds Experience Major Weekly Outflows amid Tech Volatility and Nvidia Export Restrictions
+  [3] rates_macro: US President Demands Probe into Upward Revision of Third-Quarter GDP Data
+CHINA (3)
+  [4] rates_macro: China Industrial Profits Rebound in October Powered by Global Tech Manufacturing Exports
+  [3] earnings: Meituan Reports Q3 Revenue of $17.37 Billion as Food Delivery Price War Eases
+  [3] companies: China Real Estate Crisis Deepens as Developers Seek Further Debt Maturity Extensions
+RUSSIA (2)
+  [3] oil_energy: Novatek Secures Turkish Natural Gas Supply Deal as Russia Discusses Energy Trade with US
+  [3] banking: Bank of Russia Reports 730 Billion Rubles in Retail Brokerage Capital Inflows
+GLOBAL (3)
+  [4] rates_macro: Bank of England Signals Gradual Tightening Path and Warns of AI Infrastructure Debt Risks
+  [3] rates_macro: Brazil Names Veteran Banker Luiz Carlos Trabuco as Finance Minister to Soothe Markets
+  [3] deals_ipos: Thales Enters Negotiations to Acquire Controlling Stake in Lumibird for $483 Million
