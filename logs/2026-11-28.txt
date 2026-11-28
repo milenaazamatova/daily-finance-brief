@@ -1,0 +1,88 @@
+Daily Finance Brief run 2026-11-28 15:16 Dubai
+
+Sources:
+  The National (Business): 6
+  Gulf News (Business): 12
+  Khaleej Times (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.khaleejtimes.com/api/v1/collections/business.rss
+  Arabian Business (Business, via Google News): 1
+  Zawya (Business, via Google News): FAILED HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:zawya.com/en/business+when:1d&hl=en-US&gl=US&ceid=US:en
+  Zawya (Economy, via Google News): 1
+  US Federal Reserve (Monetary Policy): 0
+  US Federal Reserve (Banking Regulation): 0
+  US Federal Reserve (Speeches): 0
+  CNBC (Finance): 2
+  CNBC (Business): 1
+  CNBC (Economy): 2
+  CNBC (Earnings): 0
+  CNBC (Investing): 1
+  WSJ (Markets): 16
+  WSJ (US Business): 11
+  WSJ (Economy): 2
+  New York Times (Business): 9
+  New York Times (Economy): 0
+  New York Times (DealBook): 0
+  South China Morning Post (Business): 3
+  South China Morning Post (China Economy): 5
+  South China Morning Post (Companies): 3
+  China economy (search - Reuters, FT, Bloomberg): 100
+  The Bell: 0
+  bne IntelliNews (Russia, via Google News): 33
+  Russia economy (search - Reuters, FT, Bloomberg): 84
+  Bank of Russia (Events & press releases, in Russian): 1
+  European Central Bank (Press Releases): 2
+  Bank of England (News): 0
+  Bank of Japan (What's New): 0
+  Reuters (Business, via Google News): 38
+  Reuters (Markets, via Google News): 11
+  Financial Times (Markets): 9
+  Financial Times (Companies): 25
+  Financial Times (Global Economy): 4
+  BBC (Business): 3
+  The Guardian (Business): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/uk/business/rss
+  The Guardian (Economics): FAILED HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/business/economics/rss
+  Economic Times (Markets): 18
+  Investing.com (Stock Market News): 10
+  Investing.com (Economy): 10
+  Investing.com (Forex): 1
+  Investing.com (Commodities): 10
+  Investing.com (Economic Indicators): 6
+  Finnhub (general): 19
+  Finnhub (forex): 1
+  Finnhub (merger): 4
+
+Articles: 464 fetched, 337 after dedupe
+Relevance filter: 222 kept, 115 dropped
+Brief 2026-11-28: 26 stories
+
+TOP STORIES
+  [5] US     markets: US Equities Rally to End Volatile Week as Tech Sentiment Rebounds
+  [5] GLOBAL oil_energy: OPEC+ Prepares for Production Policy Talks as Crude Prices Fluctuate
+  [5] GLOBAL rates_macro: French Economy Contracts into Technical Recession as S&P Cuts Outlook
+  [5] CHINA  markets: China State Agencies Pledge Market Liquidity as Copper and Stocks Rebound
+  [4] US     banking: Citigroup Shakes Up Upper Ranks Following $35 Billion Accounting Error
+  [4] GLOBAL rates_macro: ECB Officials Signal Rates May Stay High as Inflation Exceeds 3%
+UAE (4)
+  [4] markets: Dubai Stock Market Surges 14% in November to Erase Geopolitical Losses
+  [4] oil_energy: ADNOC Injects Dh307 Billion into UAE Economy and Sets Dh220 Billion Target
+  [3] banking: Abu Dhabi Islamic Bank Raises $500 Million in Sukuk Issuance
+  [3] earnings: Borouge Forecasted to Maintain Outstanding Profitability by Fitch Ratings
+US (4)
+  [4] deals_ipos: Verizon Negotiates $6 Billion Acquisition of Fiber Operator Fidium
+  [4] rates_macro: US Trade Deficit Expands to $149.5 Billion on Record AI Imports
+  [3] deals_ipos: Anthropic Shares Rebound Post-IPO Following First-Week Trading Volatility
+  [3] companies: OpenAI Files Countersuit Against Apple Over Trade Secrets and Supplier Contracts
+CHINA (4)
+  [4] deals_ipos: BYD Negotiates French Factory Takeover as Union Demands Conditions
+  [3] companies: Chinese Machinery Giants XCMG and Sany Deploy Automated Fleets Globally
+  [3] rates_macro: China's Guangxi Region Proposes Longer Weekends to Boost Consumer Spending
+  [3] companies: 7-Eleven Expands in China with Mega-Store Opening in Kunming
+RUSSIA (4)
+  [4] banking: Russian Banking Sector Tracked to Hit Record RUB 5 Trillion Earnings
+  [3] oil_energy: Russia Extends Jet Fuel Export Ban to Address Domestic Shortages
+  [3] oil_energy: Gazprom Plans Power Conversion for Stranded Gas Infrastructure to Feed Data Centers
+  [3] markets: Bank of Russia Reports Retail Inflows Sustained Mutual Fund Market
+GLOBAL (4)
+  [4] rates_macro: S&P Upgrades South Africa Rating Outlook Toward Investment Grade
+  [4] companies: Thames Water Seeks Debt Repayment Deferral for Emergency £2.4 Billion Loan
+  [4] oil_energy: Qatari LNG Loadings Recover to Highest Levels Since Regional Conflict Began
+  [3] markets: FTSE 100 Posts Best Weekly Performance in Eight Months on Mining Rally
